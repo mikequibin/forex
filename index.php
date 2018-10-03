@@ -16,48 +16,56 @@ get_header(); ?>
 
     <body>
 
-    <header>
-        <video autoplay muted loop class="fullvideo-container" poster="https://imgur.com/lKlQQfN.jpg">
+    <header class="header">
 
-        </video>
 
-        <div class="border-line">
-            <a class="jumper" href="#four">
-                <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat3.png" alt=""/>
-            </a>
+        <div class="header-container ptopp-10 mleft-5 pbottomp-10">
+            <h1 class="banner-heading">TRADE ANYWHERE, HAVE YOUR</br>
+                FREEDOM AND YOUR OWN TIME </h1>
+
+            <h3 class="banner-sub">Start Your Forex Trading journey with the #1</br>
+                Forex Trading Education and Community</h3>
         </div>
-    </header>
-                            <script>
-                                //Note: this script should be placed at the bottom of the page, or after the slider markup. It cannot be placed in the head section of the page.
-                                var thumbs1 = document.getElementById("thumbnail-slider");
-                                var thumbs2 = document.getElementById("thumbs2");
-                                var closeBtn = document.getElementById("closeBtn");
-                                var slides = thumbs1.getElementsByTagName("li");
-                                for (var i = 0; i < slides.length; i++) {
-                                    slides[i].index = i;
-                                    slides[i].onclick = function (e) {
-                                        var li = this;
-                                        var clickedEnlargeBtn = false;
-                                        if (e.offsetX > 220 && e.offsetY < 25) clickedEnlargeBtn = true;
-                                        if (li.className.indexOf("active") != -1 || clickedEnlargeBtn) {
-                                            thumbs2.style.display = "block";
-                                            mcThumbs2.init(li.index);
-                                        }
-                                    };
-                                }
 
-                                thumbs2.onclick = closeBtn.onclick = function (e) {
-                                    //This event will be triggered only when clicking the area outside the thumbs or clicking the CLOSE button
-                                    thumbs2.style.display = "none";
-                                };
-                            </script>
-                        </div>
 
-                        </div>
-                        
-                        <!--<?php echo do_shortcode("[MDSL id=1558]"); ?>-->
-                    </div>
+
+                <div class="border-line">
+                    <a class="jumper" href="#four">
+                        <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat3.png" alt=""/>
+                    </a>
                 </div>
+
+
+
+
+
+
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    </div>
+                        
+         <!--<?php echo do_shortcode("[MDSL id=1558]"); ?>-->
+    </div>
+    </div>
     </body>
 
 <?php
