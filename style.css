@@ -63,6 +63,11 @@ h3, p{
     font-weight: normal;
 }
 
+@font-face {
+    font-family: 'Bebas', sans-serif;
+    src: url(fonts/bebas.ttf);
+    font-weight: normal;
+}
 
 footer{
     background-color: #eceae7;
