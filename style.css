@@ -44,11 +44,15 @@ body, html {
     font-size: 100%;
     font-family: sans-serif; }
 
-h1, h2, h4, h5 {
+h2, h4, h5 {
     font-family: 'Oswald', sans-serif;
     font-weight: 500; }
 
-h3{
+h1 {
+    font-family: 'Bebas', sans-serif;
+    font-weight: 500; }
+
+h3, p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: normal; }
 
@@ -4226,7 +4230,6 @@ blockquote:after {
 .banner-heading{
       font-size: 30px;
       color: #fff;
-      font-weight: 700;
       line-height: 35px;
   }
 
@@ -4236,8 +4239,35 @@ blockquote:after {
     line-height: 30px;
 }
 
+.wb-heading{
+    font-size: 30px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wb-par{
+    font-size: 20px;
+}
+
+.green-btn{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #60c98f;
+    width: 50%;
+    margin: 0 auto;
+}
+
 /*Margins*/
 
+.mtop-30{
+    margin-top: 30px;
+}
+
+.ptop-20{
+    padding-top: 20px;
+}
 
 .ptopp-10{
     padding-top: 10%;
@@ -4251,3 +4281,25 @@ blockquote:after {
     margin-left: 5%;
 }
 
+/*Container*/
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer; }
+
+.white-box {
+    background-color: #fff;}
+
+.flex-container2{
+    max-width: 1000px;
+    margin: 0 auto;}
+
+
+/*Row*/
+
+.row{}
+
+.row__50{
+    width: 50%
+}
