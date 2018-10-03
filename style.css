@@ -4269,6 +4269,10 @@ blockquote:after {
 
 /*Margins*/
 
+.pleft-80{
+    padding-left: 80px;
+}
+
 .mtop-30{
     margin-top: 30px;
 }
@@ -4303,6 +4307,10 @@ blockquote:after {
 .flex-container2{
     max-width: 1000px;
     margin: 0 auto;}
+
+.blue-box{
+    background: url("assets/images/bluebg-banner.jpg");
+}
 
 
 /*Row*/

@@ -36,7 +36,7 @@ get_header(); ?>
             <h1 class="ptop-20 wb-heading">Your Financial Freedom Begins Here</h1>
             <div class="flex-container mtop-30">
                 <div class="row row__50">
-                    <img src="assets/images/forex-banner.png" alt=""/>
+                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gadget.png" alt=""/>
                 </div>
                 <div class="row row__50 ">
                     <p class="wb-par">Have you ever dreamed of being wealthy?
@@ -51,29 +51,14 @@ get_header(); ?>
                     <p class="wb-par">Register through our free forex trading course
                         to learn more.</p>
                 </div>
-
-
             </div>
-
         </div>
         <h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3>
     </section>
 
+    <section class="blue-box">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    </section>
 
 
     </div>
