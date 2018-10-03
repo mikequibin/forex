@@ -57,7 +57,32 @@ get_header(); ?>
     </section>
 
     <section class="blue-box">
+        <div class="flex-container2">
+            <h1 class="ptop-20 bb-heading">Your Comfortable Life Awaits</h1>
+            <div class="flex-container mtop-30">
+                <div class="row row__50 ">
+                    <p class="bb-par">You deserve success and financial freedom, so you must
+                        take the necessary steps to achieving that goal. </p>
 
+                    <p class="bb-par">Take control of your financial future and explore the
+                        possibilities of wealth creation with Forex trading –
+                        simply take the free forex trading course.</p>
+
+                    <p class="bb-par">Our Forex Education will teach you:</p>
+
+                    <ul class="checklist">
+                        <li class="checklist__item">How to make money in trading </li>
+                        <li class="checklist__item">Proven successful forex techniques</li>
+                        <li class="checklist__item">Risk Management Technique and Tips</li>
+                    </ul>
+                </div>
+
+                <div class="row row__50">
+                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gadget.png" alt=""/>
+                </div>
+            </div>
+        </div>
+        <h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3>
     </section>
 
 
