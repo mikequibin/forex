@@ -56,7 +56,7 @@ get_header(); ?>
             </div>
 
         </div>
-        <h3 class="green-btn">Get Your 100% Free Course</h3>
+        <h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3>
     </section>
 
 

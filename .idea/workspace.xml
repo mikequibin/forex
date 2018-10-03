@@ -9,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538551065637" ignored="false" />
     <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538552767781" ignored="false" />
-    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538552892760" ignored="false" />
+    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538553496167" ignored="false" />
     <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
     <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1536637402029" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme-backup/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1536637403091" ignored="false" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4258" column="19" selection-start="88946" selection-end="88946" vertical-scroll-proportion="0.0">
+            <state line="4266" column="1" selection-start="89061" selection-end="89068" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="60" selection-start="2267" selection-end="2267" vertical-scroll-proportion="0.8756661">
+            <state line="58" column="19" selection-start="2226" selection-end="2226" vertical-scroll-proportion="0.8756661">
               <folding />
             </state>
           </provider>
@@ -324,14 +324,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4258" column="19" selection-start="88946" selection-end="88946" vertical-scroll-proportion="0.0">
+        <state line="4266" column="1" selection-start="89061" selection-end="89068" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="60" selection-start="2267" selection-end="2267" vertical-scroll-proportion="0.8756661">
+        <state line="58" column="19" selection-start="2226" selection-end="2226" vertical-scroll-proportion="0.8756661">
           <folding />
         </state>
       </provider>
