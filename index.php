@@ -53,7 +53,7 @@ get_header(); ?>
                 </div>
             </div>
         </div>
-        <h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3>
+        <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
     </section>
 
     <section class="blue-box">
@@ -62,12 +62,10 @@ get_header(); ?>
             <div class="flex-container mtop-30">
                 <div class="row row__50 ">
                     <p class="bb-par">You deserve success and financial freedom, so you must
-                        take the necessary steps to achieving that goal. </p>
-
+                        take the necessary steps to achieving that goal.</p>
                     <p class="bb-par">Take control of your financial future and explore the
                         possibilities of wealth creation with Forex trading –
                         simply take the free forex trading course.</p>
-
                     <p class="bb-par">Our Forex Education will teach you:</p>
 
                     <ul class="checklist">
@@ -78,11 +76,127 @@ get_header(); ?>
                 </div>
 
                 <div class="row row__50">
-                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gadget.png" alt=""/>
+                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comfortable-life.png" alt=""/>
                 </div>
             </div>
         </div>
-        <h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3>
+        <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
+    </section>
+
+    <section class="white-box no-bottom">
+        <div class="flex-container2">
+            <h1 class="ptop-20 wb-heading">Learn from the trader</h1>
+            <p class="wb-par text-center">Be part of the community and be the next to testify with your own results</p>
+        </div>
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/community.png" alt=""/>
+    </section>
+
+    <section class="white-box">
+        <div class="flex-container2">
+            <div class="flex-container ptop-80">
+                <div class="row row__30 forex-box">
+                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/income-ic.png" alt=""/>
+                    <h4 class="fb-head no-bottom">Massive Income</br>
+                        Potential</h4>
+                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/divider.png" alt=""/>
+                    <p class="fb-cont">Be part of the community and be the next
+                        to testify with your own results. Forex
+                        trading offers a path to financial freedom.
+                        Using proven strategies, traders stand
+                        to earn millions in income and generate
+                        wealth.</p>
+                </div>
+                <div class="row row__30 forex-box">
+                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/hour-ic.png" alt=""/>
+                    <h4 class="fb-head no-bottom">Flexible</br>
+                        Hours</h4>
+                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/divider.png" alt=""/>
+                    <p class="fb-cont">The Foreign Exchange is a 24/7 global
+                        marketplace. Trade from the comfort of
+                        your home during your free time, or at a
+                        time that suits you.</p>
+                </div>
+                <div class="row row__30 forex-box">
+                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/learn-ic.png" alt=""/>
+                    <h4 class="fb-head no-bottom">Easy to</br>
+                        Learn</h4>
+                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/divider.png" alt=""/>
+                    <p class="fb-cont">People from all walks of life have the
+                        potential to earn $$$ trading Forex,
+                        simply take the free forex trading course
+                        and start a career in trading now.</p>
+                </div>
+            </div>
+        </div>
+        <a href=""><h3 class="mtop-30 mbottom-30 green-btn">Get Your 100% Free Course</h3></a>
+    </section>
+
+    <section class="lightblue-box">
+        <div class="flex-container2 pbottom-40">
+            <h1 class="ptop-20 wb-heading">Here’s what they think!</h1>
+            <div class="flex-container ptop-20">
+                <div class="row row__30 review-box">
+                    <div class="flex-container text-image">
+                        <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
+                        <h4 class="review-head">– Jin, CA</h4>
+                    </div>
+
+                    <p class="review-cont">Now I can work and trade at the
+                        side cause of swing trading.</p>
+                        <p class="review-cont">Through the guidance and the
+                        relentless passion of the founder
+                        I found my own trading plan
+                        and stick to the rules.</p>
+                </div>
+                <div class="row row__30 review-box">
+                    <div class="flex-container text-image">
+                        <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
+                        <h4 class="review-head">– Allan, PH</h4>
+                    </div>
+
+                    <p class="review-cont">As a financial adviser, I was exposed
+                        and studied different kind of trading
+                        techniques.</p>
+                    <p class="review-cont">I never thought that a
+                        free trading course would be the
+                        one so valuable and let me be
+                        consistent on my trading journey.</p>
+                    <p class="review-cont">Thanks to the community and for
+                        the course now I can give a huge
+                        return of investment to my clients.</p>
+                </div>
+                <div class="row row__30 review-box">
+                    <div class="flex-container text-image">
+                        <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
+                        <h4 class="review-head">– Mphok, ZA</h4>
+                    </div>
+                    <p class="review-cont">I was already trading since 2013, after
+                        years I still didn't know much to be
+                        able to make profits consistently
+                        cause sometimes you think you
+                        know how to trade until you do
+                        it practically.</p>
+                    <p class="review-cont">Then the trader came and taught me,
+                        trust me he knows what he is doing, so
+                        make use of this community and it
+                        will actually change your life!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="green-box">
+        <div class="flex-container2">
+            <div class="change-box">
+                <h1 class="change-head ptop-20 no-bottom">change your life today</h1>
+                <a class="ptop-20" href=""><h3 class=" gray-btn">Get Your 100% Free Course</h3></a>
+                <div class="row row__50 margin-0">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/small-icon.png" alt=""/>
+                    <h5 class="change-text ptop-20">Questions? Contact our Support Team</h5>
+                </div>
+
+            </div>
+        </div>
     </section>
 
 
