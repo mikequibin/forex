@@ -18,47 +18,56 @@ get_header(); ?>
 
     <header class="header">
         <div class="header-container ptopp-10 mleft-5 pbottomp-10">
-            <h1 class="banner-heading">TRADE ANYWHERE, HAVE YOUR</br>
-                FREEDOM AND YOUR OWN TIME </h1>
+            <h1 class="banner-heading">Trade anywhere,</br>
+                Have your Freedom</br>
+                & your own time</h1>
 
-            <h3 class="banner-sub">Start Your Forex Trading journey with the #1</br>
-                Forex Trading Education and Community</h3>
+            <h3 class="banner-sub">Start Your <span class="extra-bold text-white">FOREX</span ><span class="extra-bold">TRADING</span> journey with the #1</br>
+                FOREXTRADING <span class="text-white">Education</span > and <span class="text-white">Community</span ></h3>
+                <!--<img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/rectangle-img.png" alt=""/>-->
         </div>
-        <div class="border-line">
-            <a class="jumper" href="#four">
-               <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat3.png" alt=""/>
-            </a>
-         </div>
+<!--        <div class="border-line">-->
+<!--            <a class="jumper" href="#four">-->
+<!--               <img class="logo-feat" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/logo-feat3.png" alt=""/>-->
+<!--            </a>-->
+<!--         </div>-->
     </header>
 
     <section class="white-box">
-        <div class="flex-container2">
-            <h1 class="ptop-20 wb-heading">Your Financial Freedom Begins Here</h1>
-            <div class="flex-container mtop-30">
+        <div class="flex-container2 flex-mobile ">
+
+            <div class="flex-container">
                 <div class="row row__50">
-                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gadget.png" alt=""/>
-                </div>
-                <div class="row row__50 ">
+                    <h2 class="ptop-50 mbottom-30 wb-heading mobile-heading"><span class="extra-bold text-orange">Your Financial</span></br> Freedom</br> Begins Here</h2>
                     <p class="wb-par">Have you ever dreamed of being wealthy?
                         Of course, you have, but you likely never considered it
-                        a possibility – that changes now! </p>
+                        a possibility – that changes now!
+                    </p>
 
                     <p class="wb-par">Forex traders make thousands to millions of dollars
                         every day by buying and selling currency,  and with
                         proper training you too can realize financial freedom
-                        through Forex.  </p>
+                        through Forex.
+                    </p>
 
                     <p class="wb-par">Register through our free forex trading course
-                        to learn more.</p>
+                        to learn more.
+                    </p>
+
+                    <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
+                </div>
+
+                <div class="row row__50 ">
+                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/financial-freedom-img.PNG" alt=""/>
                 </div>
             </div>
         </div>
-        <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
+
     </section>
 
     <section class="blue-box">
-        <div class="flex-container2">
-            <h1 class="ptop-20 bb-heading">Your Comfortable Life Awaits</h1>
+        <div class="flex-container2 flex-mobile2">
+            <h1 class="ptop-20 bb-heading mobile-heading">Your Comfortable Life Awaits</h1>
             <div class="flex-container mtop-30">
                 <div class="row row__50 ">
                     <p class="bb-par">You deserve success and financial freedom, so you must
@@ -83,7 +92,7 @@ get_header(); ?>
         <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
     </section>
 
-    <section class="white-box no-bottom">
+    <section class="lightpink-box no-bottom">
         <div class="flex-container2">
             <h1 class="ptop-20 wb-heading">Learn from the trader</h1>
             <p class="wb-par text-center">Be part of the community and be the next to testify with your own results</p>
@@ -91,9 +100,10 @@ get_header(); ?>
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/community.png" alt=""/>
     </section>
 
-    <section class="white-box">
+    <section class="lightpink-box">
         <div class="flex-container2">
-            <div class="flex-container ptop-80">
+            <h1 class="wb-heading ptop-20">Assurance and Benefits</h1>
+            <div class="flex-container mtop-30">
                 <div class="row row__30 forex-box">
                     <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/income-ic.png" alt=""/>
                     <h4 class="fb-head no-bottom">Massive Income</br>
@@ -128,14 +138,14 @@ get_header(); ?>
                 </div>
             </div>
         </div>
-        <a href=""><h3 class="mtop-30 mbottom-30 green-btn">Get Your 100% Free Course</h3></a>
+        <a href=""><h3 class="mbottom-50 mtop-50 green-btn">Get Your 100% Free Course</h3></a>
     </section>
 
-    <section class="lightblue-box">
+    <section class="white-box">
         <div class="flex-container2 pbottom-40">
             <h1 class="ptop-20 wb-heading">Here’s what they think!</h1>
             <div class="flex-container ptop-20">
-                <div class="row row__30 review-box">
+                <div class="row row__35 review-box">
                     <div class="flex-container text-image">
                         <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
                         <h4 class="review-head">– Jin, CA</h4>
@@ -148,7 +158,7 @@ get_header(); ?>
                         I found my own trading plan
                         and stick to the rules.</p>
                 </div>
-                <div class="row row__30 review-box">
+                <div class="row row__35 review-box">
                     <div class="flex-container text-image">
                         <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
                         <h4 class="review-head">– Allan, PH</h4>
@@ -165,7 +175,7 @@ get_header(); ?>
                         the course now I can give a huge
                         return of investment to my clients.</p>
                 </div>
-                <div class="row row__30 review-box">
+                <div class="row row__35 review-box">
                     <div class="flex-container text-image">
                         <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
                         <h4 class="review-head">– Mphok, ZA</h4>
@@ -191,7 +201,7 @@ get_header(); ?>
                 <h1 class="change-head ptop-20 no-bottom">change your life today</h1>
                 <a class="ptop-20" href=""><h3 class=" gray-btn">Get Your 100% Free Course</h3></a>
                 <div class="row row__50 margin-0">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/small-icon.png" alt=""/>
+<!--                    <img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/small-icon.png" alt=""/>-->
                     <h5 class="change-text ptop-20">Questions? Contact our Support Team</h5>
                 </div>
 
