@@ -34,11 +34,13 @@ get_header(); ?>
     </header>
 
     <section class="white-box">
-        <div class="flex-container2 flex-mobile ">
-
+        <div class="flex-mobile">
             <div class="flex-container">
-                <div class="row row__50">
-                    <h2 class="ptop-50 mbottom-30 wb-heading mobile-heading"><span class="extra-bold text-orange">Your Financial</span></br> Freedom</br> Begins Here</h2>
+                <div class="row row__40 mleft-8">
+                    <h2 class="ptop-50 mbottom-15 wb-heading mobile-heading"><span class="extra-bold text-orange">Your Financial</span></br> Freedom</br> Begins Here</h2>
+
+                    <img class="bold-line" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png"" alt=""/>
+
                     <p class="wb-par">Have you ever dreamed of being wealthy?
                         Of course, you have, but you likely never considered it
                         a possibility – that changes now!
@@ -54,42 +56,52 @@ get_header(); ?>
                         to learn more.
                     </p>
 
-                    <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
+                    <a href="">
+                        <h3 class="mtop-30 orange-btn">Get Your 100% Free Course</h3>
+                    </a>
+
                 </div>
 
-                <div class="row row__50 ">
-                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/financial-tiles.PNG" alt=""/>
+                <div class="row row__60">
+                    <img class="mleft-23 tiles-cut" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/financial-tiles-cut.png" alt=""/>
                 </div>
             </div>
         </div>
-
     </section>
 
-    <section class="blue-box">
-        <div class="flex-container2 flex-mobile2">
-            <h1 class="ptop-20 bb-heading mobile-heading">Your Comfortable Life Awaits</h1>
-            <div class="flex-container mtop-30">
-                <div class="row row__50 ">
-                    <p class="bb-par">You deserve success and financial freedom, so you must
-                        take the necessary steps to achieving that goal.</p>
-                    <p class="bb-par">Take control of your financial future and explore the
-                        possibilities of wealth creation with Forex trading –
-                        simply take the free forex trading course.</p>
-                    <p class="bb-par">Our Forex Education will teach you:</p>
+    <section class="black-bg">
+        <div class="flex-mobile">
+            <div class="flex-container ptop-40 pbottom-40">
+                <div class="row row__40 mleft-8 ">
+                    <h2 class="ptop-0 mbottom-15 wb-heading mobile-heading text-white"><span class="extra-bold text-orange">Your</br> Comfortable</br> </span>Life Awaits</h2>
 
-                    <ul class="checklist">
+                    <img class="bold-line" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png"" alt=""/>
+
+                    <p class="wb-par text-white">You deserve success and financial freedom, so you must
+                        take the necessary steps to achieving that goal.
+                    </p>
+
+                    <p class="wb-par text-white">Take control of your financial future and explore the
+                        possibilities of wealth creation with Forex trading –
+                        simply take the free forex trading course.
+                    </p>
+
+                    <a href="">
+                        <h3 class="mtop-30 orange-btn">Get Your 100% Free Course</h3>
+                    </a>
+                </div>
+
+                <div class="row row__60">
+                    <h4 class="checklist">Our Forex Education will teach you:</h4>
+                    <ul>
                         <li class="checklist__item">How to make money in trading </li>
                         <li class="checklist__item">Proven successful forex techniques</li>
                         <li class="checklist__item">Risk Management Technique and Tips</li>
                     </ul>
                 </div>
 
-                <div class="row row__50">
-                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comfortable-life.png" alt=""/>
-                </div>
             </div>
         </div>
-        <a href=""><h3 class="mtop-30 green-btn">Get Your 100% Free Course</h3></a>
     </section>
 
     <section class="lightpink-box no-bottom">
