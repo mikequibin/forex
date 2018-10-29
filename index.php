@@ -17,20 +17,19 @@ get_header(); ?>
     <body>
 
     <header class="header">
-        <div class="header-container ptopp-10 mleft-5 pbottomp-10">
-            <h1 class="banner-heading">Trade anywhere,</br>
-                Have your Freedom</br>
-                & your own time</h1>
+        <div class="header-container ptopp-20 pbottomp-12">
+            <div style="max-width: 1280px; margin: 0 auto; padding-bottom: 10%;">
+                <h1 class="banner-heading">Trade anywhere,</br>
+                    Have your Freedom</br>
+                    & your own time</h1>
+                <img style="position: absolute; right: 0; margin-right: 24%; margin-top: -17%; max-width: 100%;" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/float-box.png">
+            </div>
 
-            <h3 class="banner-sub">Start Your <span class="extra-bold text-white">FOREX</span ><span class="extra-bold">TRADING</span> journey with the #1</br>
-                FOREXTRADING <span class="text-white">Education</span > and <span class="text-white">Community</span ></h3>
-                <!--<img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/rectangle-img.png" alt=""/>-->
+            <div style="max-width: 1280px; margin: 0 auto;">
+                <h3 class="banner-sub">Start Your <span class="extra-bold text-white">FOREX</span ><span class="extra-bold">TRADING</span> journey with the #1</br>FOREXTRADING <span class="text-white">Education</span > and <span class="text-white">Community</span ></h3>
+            </div>
+
         </div>
-<!--        <div class="border-line">-->
-<!--            <a class="jumper" href="#four">-->
-<!--               <img class="logo-feat" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/logo-feat3.png" alt=""/>-->
-<!--            </a>-->
-<!--         </div>-->
     </header>
 
     <section class="white-box">
