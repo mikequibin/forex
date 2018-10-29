@@ -616,7 +616,7 @@ textarea {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 126px;
+    height: 116px;
     z-index: 2;
 }
 .navbar-fixed-top.scrolled {
@@ -4487,7 +4487,7 @@ blockquote:after {
 }
 
 .ptopp-20{
-    padding-top: 20%;
+    padding-top: 18%;
 }
 
 .pbottomp-12{
