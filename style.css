@@ -612,13 +612,18 @@ textarea {
 --------------------------------------------------------------*/
 
 .navbar-fixed-top {
-    background-color: #000000;
-    height: 60px;
+    background: url("assets/images/nav-bg.jpg") no-repeat center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 126px;
+    z-index: 2;
 }
 .navbar-fixed-top.scrolled {
-    background-color: #23282d;
-    transition: background-color 200ms linear;
-    height: 60px;
+    /*background-color: #23282d;*/
+    /*transition: background-color 200ms linear;*/
+    /*height: 60px;*/
+    display:none;
 }
 
 .navbar-fixed-top.scrolled .nav-link {
@@ -770,7 +775,7 @@ a:hover, a:active {
 
 #site-navigation .module.left {
     margin-left: 5px;
-    margin-top: 10px;
+    margin-top: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -1623,7 +1628,7 @@ nav {
 }
 
 .menu li a {
-    font-size: .7rem;
+    font-size: .9rem;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: white;
@@ -1634,7 +1639,7 @@ nav {
 .menu li a:hover {
     color: #fff;
     padding-bottom: 0.31rem;
-    border-bottom: 0.25rem solid #f29729;
+    /*border-bottom: 0.25rem solid #f29729;*/
     cursor: pointer;
 }
 
@@ -1659,8 +1664,12 @@ nav {
 }
 
 .menu > li:last-child a{
-    color: #ffc886;
-
+    background-color: #fc9e20;
+    border-radius: 15px;
+    /* line-height: 10px; */
+    height: 39px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .menu > li ul {
@@ -1814,7 +1823,7 @@ nav.fixed.scrolled {
 
 .module.widget-handle i {
     font-size: 20px;
-    line-height: 53px;
+    line-height: 43px;
     opacity: 1.5;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -4231,12 +4240,13 @@ blockquote:after {
 
 
 .banner-heading{
-      font-size: 40px;
-      color: #FFFFFF;
-      text-align: center;
-      font-weight: 600;
-      line-height: 45px;
-      margin-left: 17%;
+    font-size: 45px;
+    color: #FFFFFF;
+    text-align: right;
+    font-weight: 600;
+    line-height: 45px;
+    text-align: right;
+    margin-right: 36%;
   }
 
 @media (max-width: 767px){
@@ -4245,10 +4255,9 @@ blockquote:after {
     }}
 
 .banner-sub{
-    font-size: 20px;
+    font-size: 1.5rem;
     color: #fc9e20;
     line-height: 30px;
-
 }
 
 .extra-bold{
@@ -4477,12 +4486,12 @@ blockquote:after {
     padding-top: 20px;
 }
 
-.ptopp-10{
-    padding-top: 10%;
+.ptopp-20{
+    padding-top: 20%;
 }
 
-.pbottomp-10{
-    padding-bottom: 10%;
+.pbottomp-12{
+    padding-bottom: 12%;
 }
 
 .mleft-5{
