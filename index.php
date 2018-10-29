@@ -58,7 +58,7 @@ get_header(); ?>
                 </div>
 
                 <div class="row row__50 ">
-                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/financial-freedom-img.PNG" alt=""/>
+                    <img class="pleft-80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/financial-tiles.PNG" alt=""/>
                 </div>
             </div>
         </div>

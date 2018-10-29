@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/forex-banner.jpg" afterPath="$PROJECT_DIR$/assets/images/forex-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\forex-banner.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540793622106" ignored="false" />
-    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540376976600" ignored="false" />
-    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540376762467" ignored="false" />
+    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540794214393" ignored="false" />
+    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540794131031" ignored="false" />
     <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
     <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1539058131012" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme-backup/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1536637403091" ignored="false" />
@@ -40,19 +37,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="79" selection-start="4687" selection-end="4702" vertical-scroll-proportion="-7.4313726">
+            <state line="60" column="123" selection-start="2783" selection-end="2783" vertical-scroll-proportion="0.33206832">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="70" selection-start="1442" selection-end="1496" vertical-scroll-proportion="0.33273056">
+            <state line="74" column="42" selection-start="1468" selection-end="1468" vertical-scroll-proportion="-7.36">
               <folding />
             </state>
           </provider>
@@ -337,16 +334,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="79" selection-start="4687" selection-end="4702" vertical-scroll-proportion="-7.4313726">
+        <state line="74" column="42" selection-start="1468" selection-end="1468" vertical-scroll-proportion="-7.36">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="70" selection-start="1442" selection-end="1496" vertical-scroll-proportion="0.33273056">
+        <state line="60" column="123" selection-start="2783" selection-end="2783" vertical-scroll-proportion="0.33206832">
           <folding />
         </state>
       </provider>
