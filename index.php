@@ -70,11 +70,11 @@ get_header(); ?>
 
     <section class="black-bg">
         <div class="flex-mobile">
-            <div class="flex-container ptop-40 pbottom-40">
+            <div class="flex-container ptop-40 pbottom-80">
                 <div class="row row__40 mleft-8 ">
                     <h2 class="ptop-0 mbottom-15 wb-heading mobile-heading text-white"><span class="extra-bold text-orange">Your</br> Comfortable</br> </span>Life Awaits</h2>
 
-                    <img class="bold-line" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png"" alt=""/>
+                    <img class="bold-line" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
 
                     <p class="wb-par text-white">You deserve success and financial freedom, so you must
                         take the necessary steps to achieving that goal.
@@ -90,7 +90,7 @@ get_header(); ?>
                     </a>
                 </div>
 
-                <div class="row row__60">
+                <div class="row row__60 mleft-60 mtop-9">
                     <h4 class="checklist">Our Forex Education will teach you:</h4>
                     <ul>
                         <li class="checklist__item">How to make money in trading </li>
@@ -103,23 +103,19 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="lightpink-box no-bottom">
+    <section class="trader-box">
         <div class="flex-container2">
-            <h1 class="ptop-20 wb-heading">Learn from the trader</h1>
-            <p class="wb-par text-center">Be part of the community and be the next to testify with your own results</p>
+            <h2 class="ptop-40 wb-heading text-orange text-center">Learn from <span class="text-black extra-bold">the traders</span></h2>
+            <p class="wb-par text-center bold">Be part of the community and be the next to testify with your own results</p>
         </div>
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/community.png" alt=""/>
-    </section>
 
-    <section class="lightpink-box">
         <div class="flex-container2">
-            <h1 class="wb-heading ptop-20">Assurance and Benefits</h1>
             <div class="flex-container mtop-30">
                 <div class="row row__30 forex-box">
-                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/income-ic.png" alt=""/>
+                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
                     <h4 class="fb-head no-bottom">Massive Income</br>
                         Potential</h4>
-                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/divider.png" alt=""/>
+                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                     <p class="fb-cont">Be part of the community and be the next
                         to testify with your own results. Forex
                         trading offers a path to financial freedom.
@@ -127,21 +123,22 @@ get_header(); ?>
                         to earn millions in income and generate
                         wealth.</p>
                 </div>
+
                 <div class="row row__30 forex-box">
-                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/hour-ic.png" alt=""/>
-                    <h4 class="fb-head no-bottom">Flexible</br>
+                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
+                    <h4 class="fb-head no-bottom">Flexible
                         Hours</h4>
-                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/divider.png" alt=""/>
+                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                     <p class="fb-cont">The Foreign Exchange is a 24/7 global
                         marketplace. Trade from the comfort of
                         your home during your free time, or at a
                         time that suits you.</p>
                 </div>
                 <div class="row row__30 forex-box">
-                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/learn-ic.png" alt=""/>
-                    <h4 class="fb-head no-bottom">Easy to</br>
+                    <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
+                    <h4 class="fb-head no-bottom">Easy to
                         Learn</h4>
-                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/divider.png" alt=""/>
+                    <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                     <p class="fb-cont">People from all walks of life have the
                         potential to earn $$$ trading Forex,
                         simply take the free forex trading course
@@ -149,73 +146,79 @@ get_header(); ?>
                 </div>
             </div>
         </div>
-        <a href=""><h3 class="mbottom-50 mtop-50 green-btn">Get Your 100% Free Course</h3></a>
+        <a href="">
+            <h3 class="mtop-30 orange-btn-2">Get Your 100% Free Course</h3>
+        </a>
     </section>
 
-    <section class="white-box">
-        <div class="flex-container2 pbottom-40">
-            <h1 class="ptop-20 wb-heading">Here’s what they think!</h1>
-            <div class="flex-container ptop-20">
-                <div class="row row__35 review-box">
-                    <div class="flex-container text-image">
-                        <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
-                        <h4 class="review-head">– Jin, CA</h4>
-                    </div>
+    <section class="review-bg">
+        <div class="">
+            <div class="flex-container">
+                <div class="row row__35 review-box-1">
+                    <h2 class="wb-heading text-orange ptop-80 pleft-80">Our</br>
+                        <span class="text-white extra-bold">Client say</span>
+                    </h2>
 
-                    <p class="review-cont">Now I can work and trade at the
-                        side cause of swing trading.</p>
+                    <div class="review-text">
+                        <img class="review-quote" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-ic.png" alt=""/>
+                        <p class="review-cont">Now I can work and trade at the
+                            side cause of swing trading.</p>
                         <p class="review-cont">Through the guidance and the
-                        relentless passion of the founder
-                        I found my own trading plan
-                        and stick to the rules.</p>
-                </div>
-                <div class="row row__35 review-box">
-                    <div class="flex-container text-image">
-                        <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
-                        <h4 class="review-head">– Allan, PH</h4>
-                    </div>
+                            relentless passion of the founder
+                            I found my own trading plan
+                            and stick to the rules.</p>
+                        <h4 class="review-head">Jin, CA</h4>
 
-                    <p class="review-cont">As a financial adviser, I was exposed
-                        and studied different kind of trading
-                        techniques.</p>
-                    <p class="review-cont">I never thought that a
-                        free trading course would be the
-                        one so valuable and let me be
-                        consistent on my trading journey.</p>
-                    <p class="review-cont">Thanks to the community and for
-                        the course now I can give a huge
-                        return of investment to my clients.</p>
+                        <img class="review-quote" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-ic.png" alt=""/>
+                        <p class="review-cont">I was already trading since 2013, after years I still didn't know much to be  able to make profits consistently cause sometimes you think you know how to trade until you do
+                            it practically. </p>
+                        <p class="review-cont">Then the trader came and taught me,
+                            trust me he knows what he is doing, so make use of this community and it will actually change your life!</p>
+                        <h4 class="review-head">Mphok, za</h4>
+                    </div>
                 </div>
-                <div class="row row__35 review-box">
+
+                <div class="row row__35 review-box-2">
                     <div class="flex-container text-image">
-                        <img class="review-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-img.png" alt=""/>
+                    </div>
+                </div>
+
+                <div class="row row__35 review-box-3">
+                    <div class="flex-container">
                         <h4 class="review-head">– Mphok, ZA</h4>
                     </div>
-                    <p class="review-cont">I was already trading since 2013, after
-                        years I still didn't know much to be
-                        able to make profits consistently
-                        cause sometimes you think you
-                        know how to trade until you do
-                        it practically.</p>
-                    <p class="review-cont">Then the trader came and taught me,
-                        trust me he knows what he is doing, so
-                        make use of this community and it
-                        will actually change your life!</p>
+
+                    <div class="review-text mtop-10">
+                        <img class="review-quote-med" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quoteorange-ic.png" alt=""/>
+                        <p class="review-cont text-black text-center">As a financial adviser, I was exposed
+                            and studied different kind of trading
+                            techniques. </p>
+
+                        <p class="review-cont text-black text-center">I never thought that a
+                            free trading course would be the
+                            one so valuable and let me be
+                            consistent on my trading journey. </p>
+
+                        <p class="review-cont text-black text-center mbottom-40">Thanks to the community and for
+                            the course now I can give a huge
+                            return of investment to my clients.</p>
+
+                        <h4 class="review-head text-black text-cente margin-0">ALLAN, PH</h4>
+                        <img class="dotted-ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/dottedcircle-ic.png"" alt=""/>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="green-box">
+    <section class="change-box">
         <div class="flex-container2">
             <div class="change-box">
-                <h1 class="change-head ptop-20 no-bottom">change your life today</h1>
-                <a class="ptop-20" href=""><h3 class=" gray-btn">Get Your 100% Free Course</h3></a>
-                <div class="row row__50 margin-0">
-<!--                    <img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/small-icon.png" alt=""/>-->
-                    <h5 class="change-text ptop-20">Questions? Contact our Support Team</h5>
-                </div>
-
+                <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
+                <a href="">
+                    <h3 class="mtop-30 orange-btn-3">Get Your 100% Free Course</h3>
+                </a>
+                <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
             </div>
         </div>
     </section>
