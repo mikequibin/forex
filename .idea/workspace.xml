@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
-<<<<<<< HEAD
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\financial-freedom-img.PNG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-=======
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
-<<<<<<< HEAD
-    <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540793622106" ignored="false" />
-    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540802841933" ignored="false" />
-    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540802894646" ignored="false" />
-    <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
-    <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1539058131012" ignored="false" />
-    <file path="$PROJECT_DIR$/../StemediaTheme-backup/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1536637403091" ignored="false" />
-    <file path="$PROJECT_DIR$/../StemediaTheme-backup/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1536637529124" ignored="false" />
-    <file path="/header.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538474006597" ignored="false" />
-    <file path="$PROJECT_DIR$/../StemediaTheme/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538475850862" ignored="false" />
-    <file path="/dummy.xml" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538550948665" ignored="false" />
-=======
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +24,6 @@
     <favorites_list name="StemediaTheme" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="40" selection-start="4268" selection-end="4268" vertical-scroll-proportion="-7.3333335">
-              <folding />
-=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
@@ -62,41 +34,15 @@
                 <element signature="e#837#928#0#HTML" expanded="true" />
                 <element signature="e#1047#1089#0#HTML" expanded="true" />
               </folding>
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4536" column="16" selection-start="92832" selection-end="92832" vertical-scroll-proportion="0.29294756">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="97" selection-start="869" selection-end="869" vertical-scroll-proportion="-7.8461537">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="47" selection-start="1857" selection-end="1857" vertical-scroll-proportion="0.0">
-=======
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="479">
               <caret line="4489" column="19" lean-forward="false" selection-start-line="4489" selection-start-column="19" selection-end-line="4489" selection-end-column="19" />
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
               <folding />
             </state>
           </provider>
@@ -120,11 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/header.php" />
-=======
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/style.css" />
       </list>
@@ -187,8 +128,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stemedia" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522119647995</updated>
-      <workItem from="1540795823532" duration="4259000" />
+      <workItem from="1540795823532" duration="4437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4259000" />
+    <option name="totallyTimeSpent" value="4437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="23" width="1563" height="939" extended-state="0" />
@@ -379,40 +319,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="20" column="97" selection-start="869" selection-end="869" vertical-scroll-proportion="-7.8461537">
-=======
         <state relative-caret-position="165">
           <caret line="19" column="79" lean-forward="false" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="94" column="40" selection-start="4268" selection-end="4268" vertical-scroll-proportion="-7.3333335">
-          <folding />
-=======
         <state relative-caret-position="300">
           <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
           <folding>
             <element signature="e#837#928#0#HTML" expanded="true" />
             <element signature="e#1047#1089#0#HTML" expanded="true" />
           </folding>
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="4536" column="16" selection-start="92832" selection-end="92832" vertical-scroll-proportion="0.29294756">
-=======
         <state relative-caret-position="479">
           <caret line="4489" column="19" lean-forward="false" selection-start-line="4489" selection-start-column="19" selection-end-line="4489" selection-end-column="19" />
->>>>>>> b3e3eced347dbca44f1153f2fab82687e251b9f1
           <folding />
         </state>
       </provider>
