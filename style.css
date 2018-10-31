@@ -4452,17 +4452,17 @@ blockquote:after {
 
 .text-image{
     float: right;
-    margin-right: 5rem;
+    margin-right: 71px;
 }
 
 .text-image-2{
     float: right;
-    margin-right: 2rem;
+    margin-right: 25px;
 }
 
 .text-image-3{
     float: right;
-    margin-right: 0rem;
+    margin-right: 1px;
 }
 
 .image-text{
@@ -4491,10 +4491,10 @@ blockquote:after {
 
 
 
-.footer-divider{
-    width: 85%;
-    margin-left: 4rem;
-}
+/*.footer-divider{*/
+    /*width: 85%;*/
+    /*margin-left: 4rem;*/
+/*}*/
 
 .footer-head{
     color: #fba419;
@@ -4675,6 +4675,10 @@ blockquote:after {
     text-align: center;
 }
 
+.leftright-4{
+    margin: 0 4rem;
+}
+
 
 /*Container*/
 
@@ -4693,6 +4697,10 @@ blockquote:after {
         margin: 0 50px!important;
     }}
 
+@media (max-width: 850px){
+    .flexcont-mobile {
+        display: block;
+    }}
 
 
 .white-box {
@@ -4773,10 +4781,26 @@ blockquote:after {
 .row__20{
     width: 20%
 }
+
+.row__15{
+    width: 15%
+}
+
 .row__40{
     width: 40%
 }
 
+@media (max-width: 850px){
+    .row-mobile {
+        width: 50%;
+        margin: 0 auto;
+    }}
+
+@media (max-width: 500px){
+    .row-mobile {
+        width: 65%;
+        margin: 0 auto;
+    }}
 
 /*Text Style*/
 
@@ -4842,5 +4866,17 @@ blockquote:after {
 }
 
 .comfy-life{
+<<<<<<< HEAD
     background: url("assets/images/comfy-life.jpg") center;
 }
+=======
+    background: url("assets/images/comfy-life.jpg") no-repeat center;
+}
+
+/*Mobile Responsive*/
+
+@media (max-width: 850px){
+    .top30-mobile {
+        margin-top: 30px;
+    }}
+>>>>>>> b10eb56f72507125264ed27fd6cd2fd2d1652906
