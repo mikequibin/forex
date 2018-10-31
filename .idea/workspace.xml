@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="" />
+=======
+    <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\comfortablelife-tile.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+    </list>
+>>>>>>> bc4986afb0766bc4a8dd9584d029c9d804b2fb95
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
     <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540869437336" ignored="false" />
     <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540878302834" ignored="false" />
     <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1540882478997" ignored="false" />
@@ -14,6 +29,7 @@
     <file path="/header.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538474006597" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538475850862" ignored="false" />
     <file path="/dummy.xml" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538550948665" ignored="false" />
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +48,17 @@
     <favorites_list name="StemediaTheme" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+              <folding>
+                <element signature="e#837#928#0#HTML" expanded="true" />
+                <element signature="e#1047#1089#0#HTML" expanded="true" />
+=======
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
@@ -48,11 +75,19 @@
             <state line="62" column="31" selection-start="2630" selection-end="2630" vertical-scroll-proportion="-6.0384617">
               <folding>
                 <element signature="e#6#244#0" expanded="true" />
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="4489" column="19" lean-forward="false" selection-start-line="4489" selection-start-column="19" selection-end-line="4489" selection-end-column="19" />
+=======
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,6 +101,7 @@
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="24" column="55" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.15044248">
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
               <folding />
             </state>
           </provider>
@@ -89,7 +125,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+<<<<<<< HEAD
+=======
         <option value="$PROJECT_DIR$/header.php" />
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/style.css" />
@@ -154,8 +193,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stemedia" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -169,9 +207,19 @@
       <changelist id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="" />
       <created>1522119647995</created>
       <updated>1522119647995</updated>
+<<<<<<< HEAD
+      <workItem from="1540795823532" duration="4437000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4437000" />
+  </component>
+=======
+    </task>
+    <servers />
+  </component>
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
   <component name="ToolWindowManager">
     <frame x="57" y="2" width="1316" height="773" extended-state="0" />
     <editor active="true" />
@@ -329,21 +377,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="165">
+          <caret line="19" column="79" lean-forward="false" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+=======
         <state line="133" column="32" selection-start="6520" selection-end="6520" vertical-scroll-proportion="-3.0">
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="300">
+          <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding>
+            <element signature="e#837#928#0#HTML" expanded="true" />
+            <element signature="e#1047#1089#0#HTML" expanded="true" />
+          </folding>
+=======
         <state line="4508" column="16" selection-start="92928" selection-end="92928" vertical-scroll-proportion="-0.56">
           <folding />
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="479">
+          <caret line="4489" column="19" lean-forward="false" selection-start-line="4489" selection-start-column="19" selection-end-line="4489" selection-end-column="19" />
+=======
         <state line="24" column="55" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.15044248">
+>>>>>>> c5e4b848c6d4929a0a14a2c76395214357e807f6
           <folding />
         </state>
       </provider>
