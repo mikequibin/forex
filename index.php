@@ -72,8 +72,8 @@ get_header(); ?>
             <h2 class="pbottom-15 wb-heading text-orange text-center">Learn from <span class="text-black extra-bold">the traders</span></h2>
             <p class="wb-par text-center bold">Be part of the community and be the next to testify with your own results</p>
             <div class="flex-container2">
-                <div class="flex-container mtop-50">
-                    <div class="row row__30 forex-box">
+                <div class="flex-container mtop-50 flexcont-mobile">
+                    <div class="row row__30 forex-box row-mobile">
                         <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Massive Income</br>
                             Potential</h4>
@@ -86,7 +86,7 @@ get_header(); ?>
                             wealth.</p>
                     </div>
 
-                    <div class="row row__30 forex-box">
+                    <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Flexible
                             Hours</h4>
@@ -96,7 +96,7 @@ get_header(); ?>
                             your home during your free time, or at a
                             time that suits you.</p>
                     </div>
-                    <div class="row row__30 forex-box">
+                    <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Easy to
                             Learn</h4>

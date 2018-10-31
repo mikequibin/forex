@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1540974307536" ignored="false" />
     <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1540978961826" ignored="false" />
-    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1540979481175" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1540982518107" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +32,16 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4462" column="14" selection-start="92355" selection-end="92355" vertical-scroll-proportion="0.6347518">
+            <state line="4800" column="16" selection-start="96213" selection-end="96213" vertical-scroll-proportion="0.54432625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="25" selection-start="3219" selection-end="3219" vertical-scroll-proportion="-9.230769">
+            <state line="98" column="77" selection-start="5986" selection-end="5986" vertical-scroll-proportion="-5.1764708">
               <folding />
             </state>
           </provider>
@@ -66,6 +66,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
@@ -227,14 +228,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="25" selection-start="3219" selection-end="3219" vertical-scroll-proportion="-9.230769">
+        <state line="58" column="22" selection-start="2485" selection-end="2485" vertical-scroll-proportion="-1.2156863">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="77" selection-start="5986" selection-end="5986" vertical-scroll-proportion="-5.1764708">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4462" column="14" selection-start="92355" selection-end="92355" vertical-scroll-proportion="0.6347518">
+        <state line="4800" column="16" selection-start="96213" selection-end="96213" vertical-scroll-proportion="0.54432625">
           <folding />
         </state>
       </provider>

@@ -4697,6 +4697,10 @@ blockquote:after {
         margin: 0 50px!important;
     }}
 
+@media (max-width: 850px){
+    .flexcont-mobile {
+        display: block;
+    }}
 
 
 .white-box {
@@ -4786,6 +4790,17 @@ blockquote:after {
     width: 40%
 }
 
+@media (max-width: 850px){
+    .row-mobile {
+        width: 50%;
+        margin: 0 auto;
+    }}
+
+@media (max-width: 500px){
+    .row-mobile {
+        width: 65%;
+        margin: 0 auto;
+    }}
 
 /*Text Style*/
 
@@ -4853,3 +4868,10 @@ blockquote:after {
 .comfy-life{
     background: url("assets/images/comfy-life.jpg") no-repeat center;
 }
+
+/*Mobile Responsive*/
+
+@media (max-width: 850px){
+    .top30-mobile {
+        margin-top: 30px;
+    }}
