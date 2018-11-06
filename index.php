@@ -68,7 +68,7 @@ get_header(); ?>
     </section>
 
     <section class="trader-box">
-        <div class="maxwidth-1200 ptop-90 pbottom-40">
+        <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-orange text-center">Learn from <span class="text-black extra-bold">the traders</span></h2>
             <p class="wb-par text-center bold">Be part of the community and be the next to testify with your own results</p>
             <div class="flex-container2">
@@ -164,14 +164,11 @@ get_header(); ?>
 
     <section class="change-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
-
                 <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
                 <a href="">
                     <h3 class="mtop-30 orange-btn-3">Get Your 100% Free Course</h3>
                 </a>
                 <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
-
-
         </div>
 
 
