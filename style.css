@@ -4866,17 +4866,13 @@ blockquote:after {
 }
 
 .comfy-life{
-<<<<<<< HEAD
+
     background: url("assets/images/comfy-life.jpg") center;
 }
-=======
-    background: url("assets/images/comfy-life.jpg") no-repeat center;
-}
-
 /*Mobile Responsive*/
 
 @media (max-width: 850px){
     .top30-mobile {
         margin-top: 30px;
     }}
->>>>>>> b10eb56f72507125264ed27fd6cd2fd2d1652906
+
