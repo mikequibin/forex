@@ -131,7 +131,7 @@ footer{
         width: 100%;} }
 
 .overlay {
-    display: block;
+    /* display: block; */
     background-color: rgba(0, 0, 0, 0.6);
     z-index: 2;
     width: 100%;
