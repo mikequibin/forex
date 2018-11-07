@@ -1364,12 +1364,6 @@ th, td {
     color: #fefefe;
 }
 
-@media all and (max-width: 767px) {
-    section{
-        padding: 80px 0;
-    }
-}
-
 .image-bg h3, .image-bg h1 {
     color: #ffffff;
 }
@@ -4272,11 +4266,12 @@ blockquote:after {
     text-transform: uppercase;
  }
 
-@media (max-width: 500px){
+@media (max-width: 800px){
     .wb-heading{
-        font-size: 30px;
-        margin: 15px;
+        font-size: 25px;
+
     }}
+
 
 @media (max-width: 1010px){
     .mobile-heading {
@@ -4286,6 +4281,11 @@ blockquote:after {
 @media (max-width: 898px){
     .mobile-heading {
         width: 100%!important;
+    }}
+
+@media (max-width: 700px){
+    .mobile-heading {
+        margin-bottom: 15px;
     }}
 
 .bb-heading{
@@ -4302,9 +4302,9 @@ blockquote:after {
     font-weight: 400;
  }
 
-@media (max-width: 690px){
+@media (max-width: 800px){
     .wb-par {
-        margin: 0 75px;
+        font-size: 1rem;
     }}
 
 .bb-par{
@@ -4322,6 +4322,47 @@ blockquote:after {
     border-radius: 35px;
     /*padding: 5px 10px;*/
 }
+
+@media (max-width: 1130px){
+    .orange-btn {
+        width: 26%;
+    }}
+
+@media (max-width: 900px){
+    .orange-btn {
+        width: 35%;
+    }}
+
+@media (max-width: 800px){
+    .orange-btn {
+        width: 65%;
+    }}
+
+
+@media (max-width: 700px){
+    .orange-btn {
+        margin: 0 auto;
+        width: 45%;
+    }}
+
+@media (max-width: 600px){
+    .orange-btn {
+        margin: 0 auto;
+        width: 60%;
+    }}
+
+@media (max-width: 465px){
+    .orange-btn {
+        margin: 0 auto;
+        width: 75%;
+    }}
+
+@media (max-width: 395px){
+    .orange-btn {
+        margin: 0 auto;
+        width: 90%;
+    }}
+
 
 .orange-btn-2{
     color: #000;
@@ -4578,6 +4619,11 @@ blockquote:after {
     margin-bottom: 20px;
 }
 
+@media (max-width: 700px){
+    .bold-line {
+        display: none;
+    }}
+
 .checklist{
     color: #fff;
     font-size: 20px;
@@ -4752,6 +4798,11 @@ blockquote:after {
     padding-bottom: 30px;
 }
 
+@media (max-width: 767px){
+    .trader-box {
+        padding-top: 40px;
+    }}
+
 .flex-container2{
     max-width: 1000px;
     margin: 0 auto;}
@@ -4891,10 +4942,31 @@ blockquote:after {
     margin: 0 auto;
 }
 
+@media (max-width: 1220px){
+    .maxwidth-1200 {
+        margin: 0 50px;
+    }}
+
+
 .maxwidth-45p{
     max-width: 45%;
-
 }
+
+@media (max-width: 1130px){
+    .maxwidth-45p {
+        max-width: 100%;
+    }}
+
+@media (max-width: 800px){
+    .maxwidth-45p {
+       margin-right: 40%;
+    }}
+
+@media (max-width: 700px){
+    .maxwidth-45p {
+        margin-right: 0;
+    }}
+
 
 .center{
     text-align: center;
@@ -4903,6 +4975,12 @@ blockquote:after {
 .financial-diamond{
     background: url("assets/images/finance-diamond.png") no-repeat center;
 }
+
+@media (max-width: 700px){
+    .financial-diamond {
+        background: none;
+        background-color: #fff;
+    }}
 
 .comfy-life{
 

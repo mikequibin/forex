@@ -32,7 +32,7 @@ get_header(); ?>
             <h2 class="ptop-90 wb-heading mobile-heading"><span class="extra-bold text-orange">Your Financial</span></br> Freedom</br> Begins Here</h2>
             <img class="bold-line" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
             <div class="maxwidth-45p">
-                <p class="wb-par">Have you ever dreamed of being wealthy?</br>Of course, you have, but you likely never considered it</br>a possibility – that changes now!</p>
+                <p class="wb-par">Have you ever dreamed of being wealthy?</br> Of course, you have, but you likely never considered it</br>a possibility – that changes now!</p>
                 <p class="wb-par">Forex traders make thousands to millions of dollars</br>every day by buying and selling currency,  and with</br>proper training you too can realize financial freedom</br>through Forex.</p>
                 <p class="wb-par">Register through our free forex trading course to learn more.</p>
                 <a href="#" class="shownewsletterbox"><h3 class="mtop-50 orange-btn">Get Your 100% Free Course</h3></a>
