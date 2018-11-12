@@ -4666,12 +4666,20 @@ blockquote:after {
     padding-right: 15px;
 }
 
+.mleft-70{
+    margin-left: 70px;
+}
+
 .mright-10{
     margin-right: 10rem;
 }
 
 .mright-20{
     margin-right: 20px;
+}
+
+.mtop-85{
+    margin-top: 85px;
 }
 
 .ptop-80{
@@ -4842,6 +4850,7 @@ blockquote:after {
 
 .change-box{
     background: url("assets/images/getnow-bg.jpg");
+    margin-top: -22px!important;
 }
 
 .lightpink-box{
@@ -5018,3 +5027,52 @@ blockquote:after {
         padding-top: 0;
     }}
 
+/*ABOUT PAGE*/
+
+.aboutfx-us{
+    background: url("assets/images/aboutfx-bg.jpg")
+}
+
+.aboutfx-content{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.aboutfx-head{
+    text-transform: uppercase;
+    color: #fff;
+    margin-left: 15px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.aboutfx-sub{
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.aboutfx-title{
+    font-size: 25px;
+    color: #fba419;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.fx-blackbg{
+    padding: 25px;
+    background-color: #000;
+    border: 5px solid #fba419;
+    margin-left: 50px;
+}
+
+.aboutfx-right{
+    margin-top: 40px;
+}
+
+.success-fx{
+    background-color: #fff;
+}
+
+/*.aboutfx-left-bg{*/
+    /*background: url("assets/images/left-content.jpg");*/
+/*}*/
