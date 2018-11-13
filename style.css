@@ -5167,3 +5167,17 @@ blockquote:after {
 .form-sec{
     background-color: #000;
 }
+
+.benefits-sec{
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+.ic-width{
+    width: 100%
+}
+
+.peach-bg{
+    background-color: #fbfcd4;
+    margin-left: 100px;
+}

@@ -316,6 +316,28 @@ get_header(); ?>
         </div>
     </section>
 
+    <section class="benefits-sec">
+        <div class="flex-container peach-bg">
+            <div class="row__30 white-box">
+                <h2 class="wb-heading text-black">Benefits</h2>
+                <img class="bold-line2 mbottom-50" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+            </div>
+
+            <div class="row__23">
+                <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/management-ic.png" alt=""/>
+            </div>
+
+            <div class="row__23">
+                <img class=" " src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/strategy-ic.png" alt=""/>
+            </div>
+
+            <div class="row__23">
+                <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/mindset-ic.png" alt=""/>
+            </div>
+        </div>
+
+    </section>
+
 
 
 <?php
