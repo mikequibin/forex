@@ -245,15 +245,78 @@ get_header(); ?>
     </div>
 </section>
 
-<section class="change-box">
-    <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
-        <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
-        <a href="">
-            <h3 class="mtop-30 orange-btn-3">Get Your 100% Free Course</h3>
-        </a>
-        <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
-    </div>
-</section>
+    <section class="change-box">
+        <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
+            <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
+            <a href="">
+                <h3 class="mtop-30 orange-btn-3">Get Your 100% Free Course</h3>
+            </a>
+            <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
+        </div>
+    </section>
+
+    <section class="contactfx-bg">
+        <div class=" flex-container3">
+            <div class="padding-50">
+                <h1 class="contactfx-head">Didn’t <span class="text-orange bold">find what you were looking</span></br>
+                    for in our website? </h1>
+                <h3 class="contactfx-sub text-white">Our team is ready to <span class="text-orange">answer your questions,</span></br>
+                    to contact us today, please fill out the form below</h3>
+            </div>
+        </div>
+    </section>
+
+<!--    <section class="form-sec">-->
+<!--       <div class="flex-container3 flex-container">-->
+<!--           <div class="row__65">-->
+<!--               <h4></h4>-->
+<!--           </div>-->
+<!---->
+<!--       </div>-->
+<!--    </section>-->
+
+    <section class="review-sec ">
+        <div class="flex-container mtop-50 mbottom-50 flex-container3">
+            <div class="row__30 mtop-30">
+                <h2 class="wb-heading text-orange">Our
+                    <span class="text-black bold">Client say</span></h2>
+                <img class=" bold-line1" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+            </div>
+
+            <div class="row__70 center mright-70">
+                <img class="review-quote" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/contactfx-quote.png" alt=""/>
+                <p class="contact-rev ">As a financial adviser, I was exposed and studied different kind of trading
+                    techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.</p>
+                <h4 class="review-head text-black text-cente margin-0 ptop-30">ALLAN, PH</h4>
+                <img class="ptop-30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/contactfx-dots.png" alt=""/>
+            </div>
+        </div>
+    </section>
+
+    <section class="form-sec">
+        <div class="flex-container-contact">
+             <div class="row__50 pleft-0 padding-50">
+                 <h2 class="wb-heading text-orange mbottom-15">
+                     Discover</br>
+                     <span class="text-white bold">Trade Strategies</span>
+                 </h2>
+
+                 <img class="bold-line2 mbottom-50" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+
+                  <p class="wb-par text-gray">How to break free from the time vs money trap & learn the right way to trade to build a secondary income.</p>
+
+                  <p class="wb-par text-gray">Why you should be part of the world’s largest and most liquid market <span class="text-orange"> - unlimited money-making opportunities!</span></p>
+
+                  <p class="wb-par text-gray">How to harness the latest technology to automate your trading –  <span class="text-orange"> let the computer do the hard stuff for you.</span></p>
+
+                  <p class="wb-par text-gray">Learn the Forex trading strategies and risk-management tools that will <span class="text-orange">help you develop your own trading plan.</span></p>
+            </div>
+
+            <div class="row__50 white-box"></div>
+        </div>
+    </section>
+
+
 
 <?php
 get_footer();

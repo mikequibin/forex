@@ -4529,6 +4529,11 @@ blockquote:after {
     margin-bottom: 2.81rem;
 }
 
+.review-quote{
+    margin-bottom: 1rem;
+    width: 8%;
+}
+
 
 .text-image{
     float: left;
@@ -4644,6 +4649,19 @@ blockquote:after {
         display: none;
     }}
 
+.bold-line1{
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bold-line2{
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
 .checklist{
     color: #fff;
     font-size: 20px;
@@ -4662,6 +4680,10 @@ blockquote:after {
     padding-left: 80px;
 }
 
+.pleft-0{
+    padding-left: 0!important;
+}
+
 .pright-15{
     padding-right: 15px;
 }
@@ -4678,9 +4700,14 @@ blockquote:after {
     margin-right: 20px;
 }
 
-.mtop-85{
-    margin-top: 85px;
+.mright-70{
+    margin-right: 70px;
+
 }
+
+.mtop-85{
+     margin-top: 85px;
+ }
 
 .ptop-80{
    padding-top: 80px;
@@ -4730,6 +4757,10 @@ blockquote:after {
      margin-top: 50px;
  }
 
+.mtop-30{
+    margin-top: 30px;
+}
+
 .mtop-10{
     margin-top: 10px;
 }
@@ -4744,6 +4775,11 @@ blockquote:after {
 
 .ptop-40{
     padding-top: 40px;
+}
+
+
+.ptop-30{
+    padding-top: 30px;
 }
 
 .ptop-20{
@@ -4858,9 +4894,7 @@ blockquote:after {
     height: 0%;
 }
 
-.black-bg{
-    background-color: #000;
-}
+
 
 .tile-bg{
     background: url("assets/images/comfortablelife-tile.jpg");
@@ -4871,6 +4905,10 @@ blockquote:after {
 /*Row*/
 
 .row{}
+
+.row__70{
+    width: 70%;
+}
 
 .row__60{
     width: 60%
@@ -4922,6 +4960,10 @@ blockquote:after {
     }}
 
 /*Text Style*/
+
+.text-gray{
+    color: #a8a8a8;
+}
 
 .text-black{
     color: #000;
@@ -5076,3 +5118,52 @@ blockquote:after {
 /*.aboutfx-left-bg{*/
     /*background: url("assets/images/left-content.jpg");*/
 /*}*/
+
+
+/*CONTACT PAGE*/
+
+.contactfx-bg{
+    background: url("assets/images/contactfx-bg.jpg");
+}
+
+.padding-50{
+    padding: 50px;
+}
+
+.contactfx-head{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.contactfx-sub{
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 30px;
+}
+
+.contact-rev{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    width: 87%;
+    margin: 0 auto;
+}
+
+.review-sec{
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+.flex-container-contact{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.form-sec{
+    background-color: #000;
+}
