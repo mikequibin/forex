@@ -264,6 +264,39 @@ get_header(); ?>
                     to contact us today, please fill out the form below</h3>
             </div>
         </div>
+
+        <div class="flex-container3 flex-container">
+            <div class="row__60 contact-white-box">
+                <h4 class="contact-heading">TALK to us</h4>
+                <img class=" bold-line4" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+            </div>
+
+            <div class="row__40 contact-black-bg">
+                <h4 class="contact-heading text-white">Support Team</h4>
+                <img class=" bold-line4" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+
+                <div class="mright-20 ">
+                    <div class="image-text">
+                        <h5 class="contact-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sched-ic.png" alt=""/> 9AM - 5PM EST</h5>
+                    </div>
+
+                    <div>
+                        <h5 class=" contact-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/web-ic.png" alt=""/> www.freefxcourse.com</h5>
+                    </div>
+
+                    <div>
+                        <h5 class="contact-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/mail-ic.png" alt=""/> support@freefxcourse.com</h5>
+                    </div>
+                </div>
+
+                <div class="contact-ic">
+                    <img class=pright-30 src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/>
+                    <img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/>
+                </div>
+
+            </div>
+
+        </div>
     </section>
 
 <!--    <section class="form-sec">-->
@@ -294,8 +327,8 @@ get_header(); ?>
     </section>
 
     <section class="form-sec">
-        <div class="flex-container-contact">
-             <div class="row__50 pleft-0 padding-50">
+        <div class="flex-container">
+             <div class="row__50 black-bg ">
                  <h2 class="wb-heading text-orange mbottom-15">
                      Discover</br>
                      <span class="text-white bold">Trade Strategies</span>
@@ -312,30 +345,47 @@ get_header(); ?>
                   <p class="wb-par text-gray">Learn the Forex trading strategies and risk-management tools that will <span class="text-orange">help you develop your own trading plan.</span></p>
             </div>
 
-            <div class="row__50 white-box"></div>
+            <div class="row__50 darkblue-bg"></div>
         </div>
     </section>
 
     <section class="benefits-sec">
-        <div class="flex-container peach-bg">
-            <div class="row__30 white-box">
+        <div class="flex-container ">
+            <div class="row__25 mleft-100 mtop-40">
                 <h2 class="wb-heading text-black">Benefits</h2>
-                <img class="bold-line2 mbottom-50" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+                <img class="bold-line3 mbottom-50" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
             </div>
 
-            <div class="row__23">
-                <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/management-ic.png" alt=""/>
+            <div class="row__25 ">
+                <div class="peach-bg">
+                    <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/management-ic.png" alt=""/>
+                    <p class="text-ic">Risk</br>
+                        Management</p>
+                </div>
+                <p class="benefits-text">Learn how professional
+                    traders <span class="bold">minimize</span> their
+                    <span class="bold">trading risk.</span></p>
             </div>
 
-            <div class="row__23">
-                <img class=" " src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/strategy-ic.png" alt=""/>
+            <div class="row__25">
+                <div class="peach-bg">
+                    <img class=" " src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/strategy-ic.png" alt=""/>
+                    <p class="text-ic">Winning Forex</br>
+                        Strategy</p>
+                </div>
+                <p class="benefits-text">Discover proven, <span class="bold">winning trading plans</span> used by successful traders.</p>
             </div>
 
-            <div class="row__23">
-                <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/mindset-ic.png" alt=""/>
+            <div class="row__25 ">
+                <div class="peach-bg">
+                    <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/mindset-ic.png" alt=""/>
+                    <p class="text-ic">Trading</br>
+                        Mindset</p>
+                </div>
+                <p class="benefits-text">Develop the mindset
+                    to <span class="bold">live the life of your dreams.</span></p>
             </div>
         </div>
-
     </section>
 
 

@@ -4661,6 +4661,19 @@ blockquote:after {
     margin-bottom: 20px;
 }
 
+.bold-line3{
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bold-line4{
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
 
 .checklist{
     color: #fff;
@@ -4686,6 +4699,14 @@ blockquote:after {
 
 .pright-15{
     padding-right: 15px;
+}
+
+.pright-30{
+    padding-right: 30px;
+}
+
+.mleft-100{
+    margin-left: 100px;
 }
 
 .mleft-70{
@@ -4756,6 +4777,10 @@ blockquote:after {
 .mtop-50{
      margin-top: 50px;
  }
+
+.mtop-40{
+    margin-top: 40px;
+}
 
 .mtop-30{
     margin-top: 30px;
@@ -4970,7 +4995,7 @@ blockquote:after {
 }
 
 .text-white{
-    color: #fff;
+    color: #fff!important;
 }
 
 .text-orange{
@@ -5165,7 +5190,7 @@ blockquote:after {
 }
 
 .form-sec{
-    background-color: #000;
+
 }
 
 .benefits-sec{
@@ -5179,5 +5204,64 @@ blockquote:after {
 
 .peach-bg{
     background-color: #fbfcd4;
-    margin-left: 100px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.text-ic{
+    font-size: 20px;
+    color: #fba419;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.benefits-text{
+    text-align: left;
+    margin: 20px 50px;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.black-bg{
+    background-color: #000;
+    padding: 50px;
+}
+
+.darkblue-bg{
+    background-color: #23415e;
+}
+
+.contact-heading{
+    font-size: 25px;
+    margin: 0 auto;
+    text-align: left;
+    color: #966f34;
+    line-height: 41px;
+    font-weight: 800;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.contact-white-box {
+    background-color: #fff;
+    padding: 30px 50px;
+    margin-bottom: 50px;
+}
+
+.contact-black-bg{
+    background-color: #000;
+    padding: 30px 50px;
+    margin-bottom: 50px;
+}
+
+.contact-sub {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.contact-ic{
+    margin-top: 50px;
 }

@@ -8,10 +8,10 @@
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542106587940" ignored="false" />
+    <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542266781738" ignored="false" />
     <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1540978961826" ignored="false" />
-    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542108285802" ignored="false" />
-    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542110757707" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542269346440" ignored="false" />
+    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542269457566" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5181" column="23" selection-start="101419" selection-end="101419" vertical-scroll-proportion="0.0">
+            <state line="4704" column="21" selection-start="95704" selection-end="95704" vertical-scroll-proportion="-10.92">
               <folding />
             </state>
           </provider>
@@ -43,7 +43,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="269" column="58" selection-start="16641" selection-end="16641" vertical-scroll-proportion="0.4866785">
+            <state line="292" column="40" selection-start="18012" selection-end="18012" vertical-scroll-proportion="0.54706925">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="18" selection-start="490" selection-end="772" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -106,6 +115,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -126,7 +136,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,6 +242,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="24" selection-start="20083" selection-end="20083" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5181" column="23" selection-start="101419" selection-end="101419" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="58" selection-start="16641" selection-end="16641" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4731" column="11" selection-start="95904" selection-end="95914" vertical-scroll-proportion="0.0">
@@ -305,19 +335,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="22" selection-start="2485" selection-end="2485" vertical-scroll-proportion="-1.2156863" />
+        <state line="20" column="18" selection-start="490" selection-end="772" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5181" column="23" selection-start="101419" selection-end="101419" vertical-scroll-proportion="0.0">
+        <state line="4704" column="21" selection-start="95704" selection-end="95704" vertical-scroll-proportion="-10.92">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="269" column="58" selection-start="16641" selection-end="16641" vertical-scroll-proportion="0.4866785">
+        <state line="292" column="40" selection-start="18012" selection-end="18012" vertical-scroll-proportion="0.54706925">
           <folding />
         </state>
       </provider>
