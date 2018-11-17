@@ -187,8 +187,8 @@ get_header(); ?>
 
     <section>
         <div class="aboutfx-us">
-            <div class="aboutfx-content flex-container flex-container3">
-                <div class="aboutfx-left row__50">
+            <div class="aboutfx-content flex-container flex-container3 flex-aboutus">
+                <div class="aboutfx-left row__50 mobile-width">
                     <h1 class="aboutfx-head">Know <span class="text-orange bold">about us</span></h1>
 
                     <p class="aboutfx-sub"><span class="text-orange">Bull and Bear Academy</span> was conceived by a financial trader just like you before, who was just looking for a way to make money from trading, the trader spent years trading Forex experiencing the ups and downs of the industry of how it is to be a forex trader.</p>
@@ -197,10 +197,9 @@ get_header(); ?>
                     generated thousands of dollars in income & developed strategies for trading success. <span class="text-orange">This community was developed just so he could guide and share some of the secrets that he does in his strategies.</span></p>
 
                     <p class="aboutfx-sub">As a newbie trader before, just like you, it is very hard to learn and be consistent in this industry as for a few reasons which are lack of guidance, costly but not effective forex courses and to many traders who are not helping each other out.</p>
-
                 </div>
 
-                <div class="aboutfx-right row__50">
+                <div class="aboutfx-right row__50 mobile-width">
                     <div class="fx-blackbg">
                         <h1 class="aboutfx-title no-bottom">passion</h1>
                         <p class="aboutfx-sub">The trader started teaching students & true enough the students who pushed themselves to the limits are having
@@ -220,15 +219,15 @@ get_header(); ?>
 
 <section>
     <div class="success-fx">
-        <div class=" flex-container flex-container3">
+        <div class=" flex-container flex-container3 ">
             <div class="row__50 aboutfx-left-bg">
                 <img class="mbottom-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/left-content.png" alt=""/>
             </div>
 
 
-            <div class="row__50 mtop-85 mleft-70">
+            <div class="row__50 mtop-85 mleft-70 mobile-bottom">
                 <div>
-                    <h2 class="wb-heading text-orange mbottom-15">
+                    <h2 class="wb-heading text-orange mbottom-15 ">
                         our</br>
                         <span class="text-black extra-bold">success</span></h2>
                     <img class="mbottom-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/about-divider.png" alt=""/>
@@ -269,6 +268,17 @@ get_header(); ?>
             <div class="row__60 contact-white-box">
                 <h4 class="contact-heading">TALK to us</h4>
                 <img class=" bold-line4" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
+
+                <form action="/action_page.php">
+                    <fieldset>
+                        <p>NAME:</p><br>
+                        <input type="text" name="firstname" value="Mickey"><br>
+                        MESSAGE:<br>
+                        <input class="input-name" type="text" name="lastname" value="Mouse"><br><br>
+                        <input type="submit" value="Submit">
+                    </fieldset>
+                </form>
+
             </div>
 
             <div class="row__40 contact-black-bg">
@@ -299,24 +309,15 @@ get_header(); ?>
         </div>
     </section>
 
-<!--    <section class="form-sec">-->
-<!--       <div class="flex-container3 flex-container">-->
-<!--           <div class="row__65">-->
-<!--               <h4></h4>-->
-<!--           </div>-->
-<!---->
-<!--       </div>-->
-<!--    </section>-->
-
     <section class="review-sec ">
-        <div class="flex-container mtop-50 mbottom-50 flex-container3">
-            <div class="row__30 mtop-30">
-                <h2 class="wb-heading text-orange">Our
+        <div class="flex-container mtop-50 mbottom-50 flex-container3 flex-reviewsec">
+            <div class="row__30 mtop-30 mobile-reviewsec mobile-width">
+                <h2 class="wb-heading text-orange mobile-center">Our
                     <span class="text-black bold">Client say</span></h2>
                 <img class=" bold-line1" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
             </div>
 
-            <div class="row__70 center mright-70">
+            <div class="row__70 center mright-70 mobile-width mobile-top">
                 <img class="review-quote" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/contactfx-quote.png" alt=""/>
                 <p class="contact-rev ">As a financial adviser, I was exposed and studied different kind of trading
                     techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.</p>
@@ -327,8 +328,7 @@ get_header(); ?>
     </section>
 
     <section class="form-sec">
-        <div class="flex-container">
-             <div class="row__50 black-bg ">
+             <div class="row__50 black-bg mobile-width2">
                  <h2 class="wb-heading text-orange mbottom-15">
                      Discover</br>
                      <span class="text-white bold">Trade Strategies</span>
@@ -345,18 +345,30 @@ get_header(); ?>
                   <p class="wb-par text-gray">Learn the Forex trading strategies and risk-management tools that will <span class="text-orange">help you develop your own trading plan.</span></p>
             </div>
 
-            <div class="row__50 darkblue-bg"></div>
+            <div class="row__50 darkblue-bg mobile-width2">
+
+                <form action="/action_page.php">
+                    <fieldset>
+                        <p>NAME:</p><br>
+                        <input type="text" name="firstname" value="Mickey"><br>
+                        MESSAGE:<br>
+                        <input class="input-name" type="text" name="lastname" value="Mouse"><br><br>
+                        <input type="submit" value="Submit">
+                    </fieldset>
+                </form>
+
+            </div>
         </div>
     </section>
 
     <section class="benefits-sec">
-        <div class="flex-container ">
-            <div class="row__25 mleft-100 mtop-40">
+        <div class="flex-container flex-benefitsec">
+            <div class="row__25 mleft-100 mtop-40 mobile-width3">
                 <h2 class="wb-heading text-black">Benefits</h2>
                 <img class="bold-line3 mbottom-50" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
             </div>
 
-            <div class="row__25 ">
+            <div class="row__25 mobile-width3">
                 <div class="peach-bg">
                     <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/management-ic.png" alt=""/>
                     <p class="text-ic">Risk</br>
@@ -367,7 +379,7 @@ get_header(); ?>
                     <span class="bold">trading risk.</span></p>
             </div>
 
-            <div class="row__25">
+            <div class="row__25 mobile-width3">
                 <div class="peach-bg">
                     <img class=" " src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/strategy-ic.png" alt=""/>
                     <p class="text-ic">Winning Forex</br>
@@ -376,7 +388,7 @@ get_header(); ?>
                 <p class="benefits-text">Discover proven, <span class="bold">winning trading plans</span> used by successful traders.</p>
             </div>
 
-            <div class="row__25 ">
+            <div class="row__25 mobile-width3">
                 <div class="peach-bg">
                     <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/mindset-ic.png" alt=""/>
                     <p class="text-ic">Trading</br>

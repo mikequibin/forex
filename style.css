@@ -4269,7 +4269,7 @@ blockquote:after {
 @media (max-width: 800px){
     .wb-heading{
         font-size: 25px;
-
+        line-height: 30px;
     }}
 
 
@@ -4410,6 +4410,46 @@ blockquote:after {
     margin: 0 auto;
 }
 
+@media (max-width: 1210px){
+    .orange-btn-3 {
+        width: 35%;
+    }}
+
+@media (max-width: 1140px){
+    .orange-btn-3 {
+        width: 40%;
+    }}
+
+@media (max-width: 900px){
+    .orange-btn-3 {
+        width: 45%;
+    }}
+
+@media (max-width: 800px){
+    .orange-btn-3 {
+        font-size: 15px;
+        width: 50%;
+    }}
+
+@media (max-width: 715px){
+    .orange-btn-3 {
+        width: 60%;
+    }}
+
+@media (max-width: 650px){
+    .orange-btn-3 {
+        width: 70%;
+    }}
+
+@media (max-width: 440px){
+    .orange-btn-3 {
+        width: 80%;
+    }}
+
+@media (max-width: 390px){
+    .orange-btn-3 {
+        width: 100%;
+    }}
 
 @media (max-width: 865px){
     .green-btn {
@@ -4521,10 +4561,8 @@ blockquote:after {
     padding: 0 30px;
 }
 
-.review-quote{
-     margin-bottom: -30px;
-     margin-left: -20px;
- }
+
+
 .review-quote-med{
     margin-bottom: 2.81rem;
 }
@@ -4533,6 +4571,11 @@ blockquote:after {
     margin-bottom: 1rem;
     width: 8%;
 }
+
+@media (max-width: 1016px){
+    .review-quote {
+        width: 5%;
+    }}
 
 
 .text-image{
@@ -4551,6 +4594,13 @@ blockquote:after {
     color: #fba419;
     font-weight: 800;
 }
+
+@media (max-width: 800px){
+    .change-head {
+       font-size: 25px;
+    }
+}
+
 
 .footer-logo{
 }
@@ -4655,6 +4705,11 @@ blockquote:after {
     margin-bottom: 20px;
 }
 
+@media (max-width: 1016px){
+    .bold-line1 {
+        display: none;
+    }}
+
 .bold-line2{
     width: 30%;
     margin-top: 20px;
@@ -4709,6 +4764,11 @@ blockquote:after {
     margin-left: 100px;
 }
 
+@media (max-width: 800px){
+    .mleft-100 {
+        margin-left: 50px
+    }}
+
 .mleft-70{
     margin-left: 70px;
 }
@@ -4723,8 +4783,12 @@ blockquote:after {
 
 .mright-70{
     margin-right: 70px;
-
 }
+
+@media (max-width: 1135px){
+    .mright-70 {
+        margin: 0;
+    }}
 
 .mtop-85{
      margin-top: 85px;
@@ -4876,6 +4940,25 @@ blockquote:after {
         display: block;
     }}
 
+@media (max-width: 1017px){
+    .flex-aboutus {
+        display: block;
+    }}
+
+@media (max-width: 1017px){
+    .flex-reviewsec {
+        display: block;
+    }}
+
+@media (max-width: 700px){
+    .flex-formsec {
+        display: block;
+    }}
+
+@media (max-width: 722px){
+    .flex-benefitsec {
+        display: block;
+    }}
 
 .white-box {
     background-color: #fff;
@@ -5094,11 +5177,63 @@ blockquote:after {
         padding-top: 0;
     }}
 
+@media (max-width: 1017px){
+    .mobile-width{
+        width: 100%!important;
+    }}
+
+@media (max-width: 700px){
+    .mobile-width2{
+        width: 100%!important;
+    }}
+
+@media (max-width: 722px){
+    .mobile-width3{
+        width: 100%!important;
+        margin-bottom: 50px;
+    }}
+
+@media (max-width: 1035px){
+    .mobile-bottom{
+        margin-bottom: 40px;
+    }}
+
+@media (max-width: 1017px){
+    .mobile-reviewsec{
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1016px){
+    .mobile-center{
+        text-align: center;
+    }
+}
+
+@media (max-width: 1016px){
+    .mobile-top{
+        margin-top: 30px;
+    }
+}
+
+
 /*ABOUT PAGE*/
 
 .aboutfx-us{
     background: url("assets/images/aboutfx-bg.jpg")
 }
+
+@media (max-width: 1120px){
+    .aboutfx-us{
+        padding: 0 50px
+    }}
+
+@media (max-width: 1017px){
+    .aboutfx-us{
+        padding-top: 50px;
+    }}
+
 
 .aboutfx-content{
     padding-top: 30px;
@@ -5113,10 +5248,20 @@ blockquote:after {
     font-weight: 600;
 }
 
+@media (max-width: 800px){
+    .aboutfx-head{
+        font-size: 25px;
+    }}
+
 .aboutfx-sub{
     color: #fff;
     font-size: 1.2rem;
 }
+
+@media (max-width: 800px){
+    .aboutfx-sub{
+        font-size: 1rem;
+    }}
 
 .aboutfx-title{
     font-size: 25px;
@@ -5131,6 +5276,10 @@ blockquote:after {
     border: 5px solid #fba419;
     margin-left: 50px;
 }
+@media (max-width: 1017px){
+    .fx-blackbg{
+        margin-left: 0px;
+    }}
 
 .aboutfx-right{
     margin-top: 40px;
@@ -5139,6 +5288,11 @@ blockquote:after {
 .success-fx{
     background-color: #fff;
 }
+
+@media (max-width: 1120px){
+    .success-fx{
+        padding: 0 50px;
+    }}
 
 /*.aboutfx-left-bg{*/
     /*background: url("assets/images/left-content.jpg");*/
@@ -5181,6 +5335,11 @@ blockquote:after {
     padding: 50px 0;
 }
 
+@media (max-width: 1135px){
+    .review-sec{
+        padding: 50px;
+    }}
+
 .flex-container-contact{
     display: flex;
     justify-content: space-between;
@@ -5190,7 +5349,6 @@ blockquote:after {
 }
 
 .form-sec{
-
 }
 
 .benefits-sec{
@@ -5208,6 +5366,11 @@ blockquote:after {
     padding: 40px 0;
 }
 
+@media (max-width: 722px){
+    .peach-bg{
+        margin: 0 180px;
+    }}
+
 .text-ic{
     font-size: 20px;
     color: #fba419;
@@ -5222,6 +5385,18 @@ blockquote:after {
     font-size: 15px;
     line-height: 20px;
 }
+
+@media (max-width: 1010px){
+    .benefits-text{
+        margin: 20px 10px;
+    }}
+
+@media (max-width: 722px){
+    .benefits-text{
+        text-align: center;
+    }}
+
+
 
 .black-bg{
     background-color: #000;
@@ -5265,3 +5440,18 @@ blockquote:after {
 .contact-ic{
     margin-top: 50px;
 }
+
+.input-name{
+    height: 100px!important;
+}
+
+fieldset{
+    margin: 50px;
+    padding: 50px;
+}
+
+@media (max-width: 700px){
+   fieldset{
+        margin: 0;
+    }}
+
