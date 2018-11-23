@@ -16,8 +16,8 @@
         <div class="footer-top">
             <img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/forextrading-logo.png" alt=""/>
             <div class="footer-ic">
-                <img class="pright-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/>
-                <img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/>
+                    <img class="pright-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/>
+                    <img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/>
             </div>
         </div>
 
