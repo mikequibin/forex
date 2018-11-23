@@ -4823,6 +4823,11 @@ blockquote:after {
     margin-bottom: 20px;
 }
 
+@media (max-width: 1000px){
+    .bold-line2 {
+        margin-bottom: 0px!important;
+    }}
+
 .bold-line3{
     width: 40%;
     margin-top: 20px;
@@ -5468,6 +5473,11 @@ blockquote:after {
         padding: 0 50px;
     }}
 
+@media (max-width: 950px){
+    .success-fx{
+        padding-bottom: 50px;
+    }}
+
 /*.aboutfx-left-bg{*/
 /*background: url("assets/images/left-content.jpg");*/
 /*}*/
@@ -5523,8 +5533,11 @@ blockquote:after {
     margin: 0 auto;
 }
 
-.form-sec{
-}
+@media (max-width: 850px){
+    .form-sec{
+        display: block;
+    }}
+
 
 .benefits-sec{
     background-color: #fff;
@@ -5579,10 +5592,20 @@ blockquote:after {
     padding: 50px;
 }
 
+@media (max-width: 1000px){
+    .black-bg{
+        width: 100%;
+    }}
+
 .darkblue-bg{
     background-color: #23415e;
 	padding: 50px;
 }
+
+@media (max-width: 1000px){
+    .darkblue-bg{
+        width: 100%;
+    }}
 
 .contact-heading{
     font-size: 25px;
@@ -5730,6 +5753,7 @@ fieldset{
 .contact-label .wpcf7-form-control-wrap input{
 	border: 2px solid #d9d9dd;
     background-color: #fff;
+	height: 35px;
 }
 
 @media (max-width: 1115px){
@@ -5756,11 +5780,16 @@ fieldset{
 .flex-container .row__50 .wpcf7-form-control-wrap .wpcf7-validates-as-required{
 	background: #fff;
 /*     border: 2px solid #fc9e20; */
-	height: 50px;
+	height: 35px;
     border-radius: 0px;
 	margin-top: 5px;
 	width: 260px!important;
 }
+
+@media (max-width: 1280px){
+    .flex-container .row__50 .wpcf7-form-control-wrap .wpcf7-validates-as-required{
+       width: auto!important;
+    }}
 
 .flex-container .row__50 label{
 	 color: #fff;
@@ -5770,6 +5799,12 @@ fieldset{
 
 textarea{
 	width: 160%;
+	height: 150px;
 }
 
+/* @media (max-width: 1280px){
+    textarea{
+       width: auto!important;
+    }}
+ */
 
