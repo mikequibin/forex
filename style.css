@@ -3249,7 +3249,7 @@ footer.bg-dark a {
 
 @media all and (max-width: 767px) {
     .mb-xs-24 {
-        margin-bottom: 24px;
+        margin-bottom: 0px;
     }
 
     .mb-xs-40 {
@@ -4271,6 +4271,12 @@ blockquote:after {
         line-height: 30px;
     }}
 
+@media (max-width: 600px){
+    .wb-heading{
+        font-size: 20px;
+        line-height: 30px;
+    }}
+
 
 @media (max-width: 1010px){
     .mobile-heading {
@@ -4285,6 +4291,7 @@ blockquote:after {
 @media (max-width: 700px){
     .mobile-heading {
         margin-bottom: 15px;
+		
     }}
 
 .bb-heading{
@@ -4721,6 +4728,12 @@ blockquote:after {
     border-bottom: 3px solid #ddd;
 }
 
+@media (max-width: 462px){
+    .footer-cont .footer-top {
+        border: none;
+    }
+}
+
 @media (max-width: 940px){
     .footer-cont .flex-container.maxwidth-1200 {
         width: 40%;
@@ -5095,6 +5108,11 @@ blockquote:after {
         display: block;
     }}
 
+@media (max-width: 900px){
+    .flex-success {
+        display: block;
+    }}
+
 .white-box {
     background-color: #fff;
     padding-bottom: 90px;
@@ -5267,6 +5285,13 @@ blockquote:after {
         margin: 0 50px;
     }}
 
+@media (max-width: 1220px){
+    .maxwidth-1200-footer{
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+}
+
 
 .maxwidth-45p{
     max-width: 45%;
@@ -5394,6 +5419,34 @@ blockquote:after {
         display: block;
     }
 }
+
+@media (max-width: 900px){
+	.mobile-center{
+        text-align: center;
+    }
+}
+
+@media (max-width: 900px){
+	.mobile-margin{
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 900px){
+	.about-vimeo{
+        margin-top: 70px;
+		margin-bottom: 50px;
+		height: 300px;
+    }
+}
+
+@media (max-width: 635px){
+	.about-vimeo{
+        margin: 30px 0;
+    }
+}
+
+
 
 
 /*ABOUT PAGE*/
@@ -5559,6 +5612,21 @@ blockquote:after {
         margin: 0 180px;
     }}
 
+@media (max-width: 622px){
+    .peach-bg{
+        margin: 0 140px;
+    }}
+
+@media (max-width: 522px){
+    .peach-bg{
+        margin: 0 120px;
+    }}
+
+@media (max-width: 450px){
+    .peach-bg{
+        margin: 0 80px;
+    }}
+
 .text-ic{
     font-size: 20px;
     color: #fba419!important;
@@ -5566,6 +5634,11 @@ blockquote:after {
     text-transform: uppercase;
     margin-top: 30px;
 }
+
+@media (max-width: 522px){
+    .text-ic{
+        font-size: 18px;
+    }}
 
 .benefits-text{
     text-align: left;
@@ -5585,7 +5658,11 @@ blockquote:after {
         text-align: center;
     }}
 
-
+@media (max-width: 522px){
+    .benefits-text{
+     font-size: 13px;
+	margin: 20px 50px;
+    }}
 
 .black-bg{
     background-color: #000;

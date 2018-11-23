@@ -12,7 +12,7 @@
 ?>
 
 <footer class="footer-cont">
-    <div class="maxwidth-1200">
+    <div class="maxwidth-1200 maxwidth-1200-footer">
         <div class="footer-top">
             <img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/forextrading-logo.png" alt=""/>
             <div class="footer-ic">

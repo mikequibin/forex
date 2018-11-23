@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -11,7 +10,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542939345930" ignored="false" />
     <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542852053359" ignored="false" />
-    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542619154013" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542943249863" ignored="false" />
     <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542851639965" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542850521205" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +35,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5773" column="0" selection-start="110690" selection-end="110690" vertical-scroll-proportion="0.7691002">
+            <state line="4731" column="28" selection-start="96370" selection-end="96370" vertical-scroll-proportion="0.5744681">
               <folding />
             </state>
           </provider>
@@ -45,7 +44,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="8" selection-start="1237" selection-end="2271" vertical-scroll-proportion="-0.65384614">
+            <state line="42" column="8" selection-start="1237" selection-end="2271" vertical-scroll-proportion="-3.2692308">
               <folding />
             </state>
           </provider>
@@ -54,7 +53,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="43" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.0">
+            <state line="14" column="50" selection-start="329" selection-end="329" vertical-scroll-proportion="-3.9230769">
               <folding />
             </state>
           </provider>
@@ -78,9 +77,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -335,21 +334,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="43" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.0">
+        <state line="14" column="50" selection-start="329" selection-end="329" vertical-scroll-proportion="-3.9230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="8" selection-start="1237" selection-end="2271" vertical-scroll-proportion="-0.65384614">
+        <state line="42" column="8" selection-start="1237" selection-end="2271" vertical-scroll-proportion="-3.2692308">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5773" column="0" selection-start="110690" selection-end="110690" vertical-scroll-proportion="0.7691002">
+        <state line="4731" column="28" selection-start="96370" selection-end="96370" vertical-scroll-proportion="0.5744681">
           <folding />
         </state>
       </provider>
