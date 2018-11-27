@@ -34,7 +34,7 @@
                 <h5 class=" footer-sub">Support Team</h5>
             </div>
 
-            <div class="row__35">
+            <div class="row__35 mobile-fullwidth">
                 <div class="mright-20 ">
                     <div class="image-text">
                         <h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sched-ic.png" alt=""/> 9AM - 5PM EST</h5>
@@ -53,9 +53,9 @@
     </div>
 
     <div class="mobile-fullwidth riskdisclaimer-cont">
-        <h5 class="riskdisclaimer-head no-bottom footer-head">RISK DISCLAIMER </h5>
+<!--        <h5 class="riskdisclaimer-head no-bottom footer-head">RISK DISCLAIMER</h5>-->
         <h5 class="riskdisclaimer-sub ">
-            Before deciding to invest in foreign exchange you should carefully
+            <span class="riskdisclaimer-head">RISK DISCLAIMER</span> Before deciding to invest in foreign exchange you should carefully
             consider your investment objectives and risk appetite.  The possibility
             exists that you could sustain a loss of some or all of your initial
             investment and therefore you should not invest money that you

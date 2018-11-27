@@ -1616,26 +1616,26 @@ nav {
 }
 
 .menu li a {
-    font-size: .9rem;
     text-transform: uppercase;
-    letter-spacing: 1px;
     color: white;
-    font-weight: 500;
+    font-family: 'Gill Sans', sans-serif;
+    letter-spacing: 2px;
+    font-size: 0.8rem;
 }
 
-.menu li a:hover {
-    color: #fc9e20;
+/*.menu li a:hover {*/
+    /*color: #fc9e20;*/
     /*padding-bottom: 0.31rem;*/
     /*border-bottom: 0.25rem solid #f29729;*/
-    cursor: pointer;
-}
+    /*cursor: pointer;*/
+/*}*/
 
 .menu li a:hover {
      opacity: 1 !important;
  }
 
 .menu li:hover {
-    background-color: #2066a3;
+    background-color: #fc9e20;
     transition: background-color 0.5s ease;
 }
 
