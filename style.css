@@ -611,11 +611,10 @@ textarea {
 --------------------------------------------------------------*/
 
 .navbar-fixed-top {
-	background-color: #fc9e20;
+	background-color: #0f1c28;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 5px;
     z-index: 2;
 }
 .navbar-fixed-top.scrolled {
@@ -1622,11 +1621,10 @@ nav {
     letter-spacing: 1px;
     color: white;
     font-weight: 500;
-
 }
 
 .menu li a:hover {
-    color: #fff;
+    color: #fc9e20;
     padding-bottom: 0.31rem;
     /*border-bottom: 0.25rem solid #f29729;*/
     cursor: pointer;
@@ -1653,7 +1651,6 @@ nav {
 }
 
 .menu > li:last-child a{
-    background-color: #fc9e20;
     border-radius: 15px;
     /* line-height: 10px; */
     height: 39px;

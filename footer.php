@@ -46,22 +46,21 @@
                         </div>
                 </div>
             </div>
-
-            <div class="row__50 mobile-fullwidth">
-                <h5 class="mbottom-5  footer-head">RISK DISCLAIMER</h5>
-                <h5 class="footer-sub bold">Trading foreign exchange on margin carries a high level of risk
-                    and may not be suitable for all investors. Past performance is not
-                    indicative of future results. </h5>
-                <h5 class="footer-sub bold">Before deciding to invest in foreign exchange you should carefully
-                    consider your investment objectives and risk appetite.  The possibility
-                    exists that you could sustain a loss of some or all of your initial
-                    investment and therefore you should not invest money that you
-                    cannot afford to lose.</h5>
-            </div>
         </div>
-
-
     </div>
+
+    <div class="row__50 mobile-fullwidth">
+        <h5 class="mbottom-5  footer-head">RISK DISCLAIMER</h5>
+        <h5 class="footer-sub bold">Trading foreign exchange on margin carries a high level of risk
+            and may not be suitable for all investors. Past performance is not
+            indicative of future results. </h5>
+        <h5 class="footer-sub bold">Before deciding to invest in foreign exchange you should carefully
+            consider your investment objectives and risk appetite.  The possibility
+            exists that you could sustain a loss of some or all of your initial
+            investment and therefore you should not invest money that you
+            cannot afford to lose.</h5>
+    </div>
+
     <div class="copyright-sect">
         <h5 class="copyright-text text-center">Copyright © 2018 Forex Trading by Bull and Bear Academy</h5>
     </div>
