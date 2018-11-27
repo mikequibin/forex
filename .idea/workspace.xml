@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +33,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1619" column="17" selection-start="31506" selection-end="31506" vertical-scroll-proportion="0.15248227">
+            <state line="1577" column="14" selection-start="30742" selection-end="30742" vertical-scroll-proportion="0.39361703">
               <folding />
             </state>
           </provider>
@@ -323,7 +321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1619" column="17" selection-start="31506" selection-end="31506" vertical-scroll-proportion="0.15248227">
+        <state line="1577" column="14" selection-start="30742" selection-end="30742" vertical-scroll-proportion="0.39361703">
           <folding />
         </state>
       </provider>
