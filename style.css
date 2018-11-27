@@ -5916,3 +5916,48 @@ textarea{
     }}
  */
 
+
+/*Animation*/
+
+.anim-tradeanywhere img {
+    position: relative;
+    -webkit-animation-name: tradeanywhere; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 5s; /* Safari 4.0 - 8.0 */
+    animation-name: tradeanywhere;
+    animation-duration: 5s;
+}
+
+@keyframes tradeanywhere {
+    0%   {left:400px; top:0px;     opacity: 0.2;}
+    25%  {left:0px; top:0px;     opacity: 1;}
+    50%  {left:0px; top:0px;     opacity: 1;}
+    100% {left:0px; top:0px;     opacity: 1;}
+}
+
+.anim-top1 h3 {
+    position: relative;
+    -webkit-animation-name: top1; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 5s; /* Safari 4.0 - 8.0 */
+    animation-name: top1;
+    animation-duration: 5s;
+}
+
+@keyframes top1 {
+    0%   {right:700px; top:0px;     opacity: 0.2;}
+    25%  {right:0px; top:0px;     opacity: 1;}
+    50%  {right:0px; top:0px;     opacity: 1;}
+    100% {right:0px; top:0px;     opacity: 1;}
+}
+
+/*Slide Button*/
+
+.slide{
+    transition: 0.5s ease;
+}
+
+.slide:hover{
+    background:#383736;
+    transition: 0.5s ease;
+    color: #fff;
+}
+
