@@ -27,7 +27,9 @@ get_header(); ?>
         </div>
     </header>
 
-    <section class="white-box financial-diamond">
+
+
+    <section class="white-box financial-diamond anim-financial">
         <div class="maxwidth-1200">
             <h2 class="ptop-90 wb-heading mobile-heading"><span class="extra-bold text-orange">Your Financial</span></br> Freedom</br> Begins Here</h2>
             <img class="bold-line" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bold-line.png" alt=""/>
