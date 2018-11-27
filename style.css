@@ -1625,13 +1625,18 @@ nav {
 
 .menu li a:hover {
     color: #fc9e20;
-    padding-bottom: 0.31rem;
+    /*padding-bottom: 0.31rem;*/
     /*border-bottom: 0.25rem solid #f29729;*/
     cursor: pointer;
 }
 
 .menu li a:hover {
-    opacity: 1 !important;
+     opacity: 1 !important;
+ }
+
+.menu li:hover {
+    background-color: #2066a3;
+    transition: background-color 0.5s ease;
 }
 
 .menu > li {
@@ -1639,7 +1644,8 @@ nav {
     text-transform: uppercase;
     text-align: left;
     position: relative;
-    padding-left: 1.8rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     margin-bottom: 1.25rem;
     font-weight: 800;
     list-style: none;
@@ -4782,6 +4788,34 @@ blockquote:after {
 }
 .footer-ic{
     float: right;
+}
+
+.riskdisclaimer-cont{
+    background-color: #434343;
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.riskdisclaimer-head{
+    color: #fba419;
+    font-size: 8px;
+    opacity: .8;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+.riskdisclaimer-sub{
+    color: #fff;
+    font-size: 8px;
+    opacity: .8;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    text-align: justify;
+    line-height: 15px;
+    margin-bottom: 5px;
 }
 
 
