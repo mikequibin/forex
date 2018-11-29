@@ -38,7 +38,7 @@ get_header(); ?>
                 <p class="wb-par">Forex traders make thousands to millions of dollars</br>every day by buying and selling currency,  and with</br>proper training you too can realize financial freedom</br>through Forex.</p>
                 <p class="wb-par">Register through our free forex trading course to learn more.</p>
                 <a href="https://freefxcourse.com/contact/">
-                    <h3 class="mtop-50 orange-btn slide">Get Your 100% Free Course</h3>
+                    <h3 class="mtop-50 orange-btn slide code code--small code--left aos-init aos-animate" data-aos="fade-right">Get Your 100% Free Course</h3>
                 </a>
             </div>
 
@@ -55,7 +55,7 @@ get_header(); ?>
                         <p class="wb-par text-white">You deserve success and financial freedom, so you must take the necessary steps to achieving that goal.</p>
                         <p class="wb-par text-white">Take control of your financial future and explore the possibilities of wealth creation with Forex trading simply take the free forex trading course.</p>
                         <a href="https://freefxcourse.com/contact/">
-                        <h3 class="mtop-50 orange-btn1 slide">Get Your 100% Free Course</h3>
+                        <h3 class="mtop-50 orange-btn1 slide code code--small code--left aos-init aos-animate" data-aos="fade-right">Get Your 100% Free Course</h3>
                         </a>
                     </div>
 
@@ -80,7 +80,7 @@ get_header(); ?>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
-                        <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Massive Income</br>
                             Potential</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
@@ -93,7 +93,7 @@ get_header(); ?>
                     </div>
 
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Flexible
                             Hours</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
@@ -103,7 +103,7 @@ get_header(); ?>
                             time that suits you.</p>
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Easy to
                             Learn</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
@@ -115,7 +115,7 @@ get_header(); ?>
                 </div>
             </div>
             <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">
-                <h3 class="mtop-50 orange-btn-2 slide">Get Your 100% Free Course</h3>
+                <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Get Your 100% Free Course</h3>
             </a>
         </div>
     </section>
@@ -173,7 +173,7 @@ get_header(); ?>
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
                 <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
                 <a href="https://freefxcourse.com/contact/">
-                    <h3 class="mtop-30 orange-btn-3 slide">Get Your 100% Free Course</h3>
+                    <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Get Your 100% Free Course</h3>
                 </a>
                 <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
         </div>
