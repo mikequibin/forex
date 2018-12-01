@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\finance-diamond.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\finance-diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\financial-tiles-cut.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\forex\assets\images\financial-tiles.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -9,7 +14,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543666498686" ignored="false" />
     <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543315293061" ignored="false" />
-    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543677136150" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543681500494" ignored="false" />
     <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543675316130" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542850521205" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,22 +36,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5620" column="27" selection-start="108308" selection-end="108308" vertical-scroll-proportion="0.42375886">
+            <state line="5626" column="0" selection-start="108368" selection-end="108368" vertical-scroll-proportion="-13.64">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="31" selection-start="11755" selection-end="11755" vertical-scroll-proportion="-3.1764705">
+            <state line="248" column="0" selection-start="15209" selection-end="15209" vertical-scroll-proportion="0.936803">
               <folding>
                 <element signature="e#649#677#0" expanded="true" />
-                <element signature="e#11546#11564#0" expanded="true" />
+                <element signature="e#2919#2937#0" expanded="true" />
+                <element signature="e#11802#11820#0" expanded="true" />
+                <element signature="e#14251#14276#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,8 +78,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -135,6 +142,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../StemediaTheme" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -148,19 +156,9 @@
       <changelist id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="" />
       <created>1540974307769</created>
       <updated>1540974307769</updated>
-<<<<<<< HEAD
-      <workItem from="1543479741157" duration="3444000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3711000" />
-  </component>
-=======
-    </task>
-    <servers />
-  </component>
->>>>>>> 2666cda9c6db4861da83d90e67974bc9b27fdd40
   <component name="ToolWindowManager">
     <frame x="55" y="-8" width="1319" height="784" extended-state="6" />
     <editor active="true" />
@@ -325,20 +323,22 @@
         <state line="36" column="48" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.030195381" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="31" selection-start="11755" selection-end="11755" vertical-scroll-proportion="-3.1764705">
-          <folding>
-            <element signature="e#649#677#0" expanded="true" />
-            <element signature="e#11546#11564#0" expanded="true" />
-          </folding>
+        <state line="5626" column="0" selection-start="108368" selection-end="108368" vertical-scroll-proportion="-13.64">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5620" column="27" selection-start="108308" selection-end="108308" vertical-scroll-proportion="0.42375886">
-          <folding />
+        <state line="248" column="0" selection-start="15209" selection-end="15209" vertical-scroll-proportion="0.936803">
+          <folding>
+            <element signature="e#649#677#0" expanded="true" />
+            <element signature="e#2919#2937#0" expanded="true" />
+            <element signature="e#11802#11820#0" expanded="true" />
+            <element signature="e#14251#14276#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

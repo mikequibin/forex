@@ -5353,7 +5353,7 @@ blockquote:after {
 }
 
 .financial-diamond{
-    background: url("assets/images/finance-diamond.png") no-repeat center;
+    background: url("assets/images/financial-diamond.png") no-repeat center;
 }
 
 @media (max-width: 700px){
@@ -5368,6 +5368,7 @@ blockquote:after {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 /*Mobile Responsive*/
 
 @media (max-width: 850px){
@@ -5615,7 +5616,7 @@ blockquote:after {
 }
 
 .rev-icon{
-    /*background: url("assets/images/rev-icon-bg.jpg");*/
+    background: url("assets/images/rev-icon.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

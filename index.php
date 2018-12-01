@@ -55,7 +55,7 @@ get_header(); ?>
                         <p class="wb-par text-white">You deserve success and financial freedom, so you must take the necessary steps to achieving that goal.</p>
                         <p class="wb-par text-white">Take control of your financial future and explore the possibilities of wealth creation with Forex trading simply take the free forex trading course.</p>
                         <a href="https://freefxcourse.com/contact/">
-                        <h3 class="mtop-50 orange-btn1 slide code code--small code--left aos-init aos-animate" data-aos="fade-right">Get Your 100% Free Course</h3>
+                            <h3 class="mtop-50 orange-btn1 slide code code--small code--left aos-init aos-animate" data-aos="fade-right">Get Your 100% Free Course</h3>
                         </a>
                     </div>
 
@@ -120,69 +120,69 @@ get_header(); ?>
         </div>
     </section>
 
-<!--    <section class="review-bg">-->
-<!--        <div class="slideshow-container">-->
-<!--            <div class="flex-container">-->
-<!--                <div class="mySlides fader">-->
-<!---->
-<!--                    <div class=" mobile-width4 row__50 center">-->
-<!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
-<!--                            <span class="text-white extra-bold">Client say</span>-->
-<!--                        </h2>-->
-<!--                        <p class="contact-rev">Now I can work and trade at the-->
-<!--                            side cause of swing trading.</p>-->
-<!--                        <p class="contact-rev">Through the guidance and the-->
-<!--                            relentless passion of the founder-->
-<!--                            I found my own trading plan-->
-<!--                            and stick to the rules.</p>-->
-<!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">Jin, CA</h4>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--                <div class="row__50">-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="flex-container">-->
-<!--                <div class="mySlides fader">-->
-<!--                    <div class=" mobile-width4 row__50 center">-->
-<!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
-<!--                            <span class="text-white extra-bold">Client say</span>-->
-<!--                        </h2>-->
-<!--                        <p class="contact-rev">I was already trading since 2013, after years I still didn't know much to be  able to make profits consistently cause sometimes you think you know how to trade until you do-->
-<!--                            it practically. </p>-->
-<!--                        <p class="contact-rev">Then the trader came and taught me,-->
-<!--                            trust me he knows what he is doing, so make use of this community and it will actually change your life!</p>-->
-<!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">Mphok, za</h4>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--                <div class="row__50">-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="flex-container">-->
-<!--                <div class="mySlides fader">-->
-<!--                    <div class=" mobile-width4 row__50 center">-->
-<!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
-<!--                            <span class="text-white extra-bold">Client say</span>-->
-<!--                        </h2>-->
-<!--                        <p class="contact-rev ">As a financial adviser, I was exposed and studied different kind of trading-->
-<!--                            techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.</p>-->
-<!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">ALLAN, PH</h4>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--                <div class="row__50">-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<!--    <br>-->
-<!---->
-<!--    <div class="three-dots">-->
-<!--        <span class="dot" onclick="currentSlide(1)"></span><span class="dot" onclick="currentSlide(2)"></span><span class="dot" onclick="currentSlide(3)"></span>-->
-<!--    </div>-->
+    <!--    <section class="review-bg">-->
+    <!--        <div class="slideshow-container">-->
+    <!--            <div class="flex-container">-->
+    <!--                <div class="mySlides fader">-->
+    <!---->
+    <!--                    <div class=" mobile-width4 row__50 center">-->
+    <!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
+    <!--                            <span class="text-white extra-bold">Client say</span>-->
+    <!--                        </h2>-->
+    <!--                        <p class="contact-rev">Now I can work and trade at the-->
+    <!--                            side cause of swing trading.</p>-->
+    <!--                        <p class="contact-rev">Through the guidance and the-->
+    <!--                            relentless passion of the founder-->
+    <!--                            I found my own trading plan-->
+    <!--                            and stick to the rules.</p>-->
+    <!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">Jin, CA</h4>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!---->
+    <!--                <div class="row__50">-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!---->
+    <!--            <div class="flex-container">-->
+    <!--                <div class="mySlides fader">-->
+    <!--                    <div class=" mobile-width4 row__50 center">-->
+    <!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
+    <!--                            <span class="text-white extra-bold">Client say</span>-->
+    <!--                        </h2>-->
+    <!--                        <p class="contact-rev">I was already trading since 2013, after years I still didn't know much to be  able to make profits consistently cause sometimes you think you know how to trade until you do-->
+    <!--                            it practically. </p>-->
+    <!--                        <p class="contact-rev">Then the trader came and taught me,-->
+    <!--                            trust me he knows what he is doing, so make use of this community and it will actually change your life!</p>-->
+    <!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">Mphok, za</h4>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!---->
+    <!--                <div class="row__50">-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!---->
+    <!--            <div class="flex-container">-->
+    <!--                <div class="mySlides fader">-->
+    <!--                    <div class=" mobile-width4 row__50 center">-->
+    <!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
+    <!--                            <span class="text-white extra-bold">Client say</span>-->
+    <!--                        </h2>-->
+    <!--                        <p class="contact-rev ">As a financial adviser, I was exposed and studied different kind of trading-->
+    <!--                            techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.</p>-->
+    <!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">ALLAN, PH</h4>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!---->
+    <!--                <div class="row__50">-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </section>-->
+    <!--    <br>-->
+    <!---->
+    <!--    <div class="three-dots">-->
+    <!--        <span class="dot" onclick="currentSlide(1)"></span><span class="dot" onclick="currentSlide(2)"></span><span class="dot" onclick="currentSlide(3)"></span>-->
+    <!--    </div>-->
 
     <section>
         <div class="">
@@ -224,11 +224,11 @@ get_header(); ?>
 
     <section class="change-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
-                <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
-                <a href="https://freefxcourse.com/contact/">
-                    <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Get Your 100% Free Course</h3>
-                </a>
-                <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
+            <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
+            <a href="https://freefxcourse.com/contact/">
+                <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Get Your 100% Free Course</h3>
+            </a>
+            <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
         </div>
     </section>
 
@@ -238,11 +238,11 @@ get_header(); ?>
     </div>
 
 
- </div>
+    </div>
     </div>
     </body>
 
-
+    <!--sample-->
 
 <?php
 get_footer();
