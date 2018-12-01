@@ -242,7 +242,11 @@ get_header(); ?>
     </div>
     </body>
 
+<<<<<<< HEAD
     <!--sample-->
+=======
+<!--sample-->
+>>>>>>> 2e5eef423fcada1ad9e4116fa9ebd581cc5e9a73
 
 <?php
 get_footer();
