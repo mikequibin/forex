@@ -5615,7 +5615,7 @@ blockquote:after {
 }
 
 .rev-icon{
-    background: url("assets/images/rev-icon-bg.jpg");
+    /*background: url("assets/images/rev-icon-bg.jpg");*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
