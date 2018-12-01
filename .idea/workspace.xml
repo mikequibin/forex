@@ -4,13 +4,14 @@
     <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543666498686" ignored="false" />
     <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543315293061" ignored="false" />
-    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543672891709" ignored="false" />
-    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543672846545" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543677136150" ignored="false" />
+    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543675316130" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542850521205" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5614" column="0" selection-start="108140" selection-end="108140" vertical-scroll-proportion="0.36347517">
+            <state line="5617" column="46" selection-start="108191" selection-end="108202" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -43,8 +44,11 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="186" column="30" selection-start="11419" selection-end="11429" vertical-scroll-proportion="-6.5384617">
-              <folding />
+            <state line="192" column="31" selection-start="11755" selection-end="11755" vertical-scroll-proportion="-3.1764705">
+              <folding>
+                <element signature="e#649#677#0" expanded="true" />
+                <element signature="e#11546#11564#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -315,14 +319,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="30" selection-start="11419" selection-end="11429" vertical-scroll-proportion="-6.5384617">
-          <folding />
+        <state line="192" column="31" selection-start="11755" selection-end="11755" vertical-scroll-proportion="-3.1764705">
+          <folding>
+            <element signature="e#649#677#0" expanded="true" />
+            <element signature="e#11546#11564#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5614" column="0" selection-start="108140" selection-end="108140" vertical-scroll-proportion="0.36347517">
+        <state line="5617" column="46" selection-start="108191" selection-end="108202" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>

@@ -5606,12 +5606,24 @@ blockquote:after {
 
 .review-sec{
     background-color: #fbfcd4;
-    padding: 50px 0;
+    padding-bottom: 50px;
 }
 
-.review-bg{
-    background: url("assets/images/rev-bg.jpg");
+.rev-bg{
+    width: 100%!important;
+    margin-bottom: 0px;
 }
+
+.rev-icon{
+    background: url("assets/images/rev-icon-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 2;
+    margin-top: -7px;
+    padding-top: 40px;
+}
+
 
 
 @media (max-width: 1135px){
