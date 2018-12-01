@@ -185,6 +185,7 @@ get_header(); ?>
 <!--    </div>-->
 
     <section class="review-sec ">
+        <div class="rev-bg"></div>
         <div class="flex-container mtop-50 mbottom-50 flex-container3 flex-reviewsec">
             <div class="row__30 mtop-30 mobile-reviewsec mobile-width">
                 <h2 class="wb-heading text-orange mobile-center">Our<br>
