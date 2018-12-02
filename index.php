@@ -142,7 +142,7 @@ get_header(); ?>
                         <span class="text-black bold">Client say</span></h2>
                     <p><img class=" bold-line1" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                 </div>
-                <div class="row__70 center mright-70 mobile-width mobile-top"><img class="review-quote" src="https://i.imgur.com/8aSGLrK.png" alt="">
+                <div class="row__70 center mright-70 mobile-width mobile-top"><img class="review-quote" data-aos="fade-up" src="https://i.imgur.com/8aSGLrK.png" alt="">
                     <div class="slideshow-container">
                         <div class="mySlides fader">
                             <p class="contact-rev">As a financial adviser, I was exposed and studied different kind of trading<br>

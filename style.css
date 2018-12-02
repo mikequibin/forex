@@ -5683,10 +5683,10 @@ blockquote:after {
 
 
 
-@media (max-width: 1135px){
+/* @media (max-width: 1135px){
     .review-sec{
         padding: 50px;
-    }}
+    }} */
 
 .flex-container-contact{
     display: flex;
