@@ -6142,3 +6142,10 @@ body {font-family: Verdana, sans-serif; margin:0}
     padding: 0 15px;
     display: none!important;
 }
+
+.search-form {
+    padding: 8px;
+    display: none!important;
+    width: 100%;
+    line-height: 50px;
+}
