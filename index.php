@@ -60,20 +60,20 @@ get_header(); ?>
                     </div>
 
                     <div class="row__50 mleft-60 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        <h4 class="checklist nobottom-mobile center">Our Forex Education will teach you:</h4>
+                        <h4 class="checklist nobottom-mobile center mleft">Our Forex Education will teach you:</h4>
                         <ul>
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-1.png" style="" alt=""/>
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-1.png" style="" alt="" data-aos="fade-left">
                                 <p class="comf-par text-white">How to make money in trading </p>
                             </div>
 
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-2.png" style="" alt=""/>
-                                <p class="comf-par text-white">Proven successful forex techniques</p>
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-2.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">Proven successful Forex techniques</p>
                             </div>
 
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-3.png" style="" alt=""/>
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-3.png" style="" alt="" data-aos="fade-left"/>
                                 <p class="comf-par text-white">Risk Management Technique and Tips</p>
                             </div>
                         </ul>
@@ -133,7 +133,7 @@ get_header(); ?>
 
     <section>
         <div class="">
-            <img class="rev-bg" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/rev-bg1.png" style="width:28%;" alt=""/>
+            <img class="rev-bg" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/review-bg2.jpg" style="width:28%;" alt=""/>
         </div>
         <div class="review-sec rev-icon">
             <div class=" flex-container mtop-50 mbottom-50 flex-container3 flex-reviewsec ">
