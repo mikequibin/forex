@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/city-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/city-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543716380600" ignored="false" />
     <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543315293061" ignored="false" />
-    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543681500494" ignored="false" />
-    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543718964881" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543723530929" ignored="false" />
+    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1543723684178" ignored="false" />
     <file path="$PROJECT_DIR$/../StemediaTheme/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1542850521205" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5689" column="30" selection-start="109328" selection-end="109328" vertical-scroll-proportion="0.0">
+            <state line="4435" column="17" selection-start="91927" selection-end="91927" vertical-scroll-proportion="-15.0">
               <folding />
             </state>
           </provider>
@@ -44,12 +43,12 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="248" column="4" selection-start="15208" selection-end="15208" vertical-scroll-proportion="0.5168739">
+            <state line="62" column="67" selection-start="3774" selection-end="3774" vertical-scroll-proportion="0.4275093">
               <folding>
                 <element signature="e#649#677#0" expanded="true" />
-                <element signature="e#2919#2937#0" expanded="true" />
-                <element signature="e#11802#11820#0" expanded="true" />
-                <element signature="e#14251#14276#0" expanded="true" />
+                <element signature="e#2908#2926#0" expanded="true" />
+                <element signature="e#8607#8625#0" expanded="true" />
+                <element signature="e#11056#11081#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,6 +126,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="forex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemediaTheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,11 +317,6 @@
         <state line="98" column="77" selection-start="5986" selection-end="5986" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="23" selection-start="3271" selection-end="3271" vertical-scroll-proportion="0.3032929" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="30" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.3246528" />
@@ -319,21 +327,28 @@
         <state line="36" column="48" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.030195381" />
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="23" selection-start="3271" selection-end="3271" vertical-scroll-proportion="0.30319148">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5689" column="30" selection-start="109328" selection-end="109328" vertical-scroll-proportion="0.0">
+        <state line="4435" column="17" selection-start="91927" selection-end="91927" vertical-scroll-proportion="-15.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="248" column="4" selection-start="15208" selection-end="15208" vertical-scroll-proportion="0.5168739">
+        <state line="62" column="67" selection-start="3774" selection-end="3774" vertical-scroll-proportion="0.4275093">
           <folding>
             <element signature="e#649#677#0" expanded="true" />
-            <element signature="e#2919#2937#0" expanded="true" />
-            <element signature="e#11802#11820#0" expanded="true" />
-            <element signature="e#14251#14276#0" expanded="true" />
+            <element signature="e#2908#2926#0" expanded="true" />
+            <element signature="e#8607#8625#0" expanded="true" />
+            <element signature="e#11056#11081#0" expanded="true" />
           </folding>
         </state>
       </provider>

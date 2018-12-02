@@ -47,7 +47,7 @@ get_header(); ?>
 
     <section class="comfy-life">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
-            <div class="flex-mobile">
+            <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mobile-width2">
                         <h2 class="wb-heading mobile-heading text-white"><span class="extra-bold text-orange">Your</br> Comfortable</br> </span>Life Awaits</h2>
@@ -59,12 +59,23 @@ get_header(); ?>
                         </a>
                     </div>
 
-                    <div class="row__50 mleft-60 mtop-9 mobile-width2 leftno-mobile top-mobile5">
-                        <h4 class="checklist">Our Forex Education will teach you:</h4>
+                    <div class="row__50 mleft-60 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
+                        <h4 class="checklist nobottom-mobile center">Our Forex Education will teach you:</h4>
                         <ul>
-                            <li class="checklist__item">How to make money in trading </li>
-                            <li class="checklist__item">Proven successful forex techniques</li>
-                            <li class="checklist__item">Risk Management Technique and Tips</li>
+                            <div class="flex-container comf-border">
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-1.png" style="" alt=""/>
+                                <p class="comf-par text-white">How to make money in trading </p>
+                            </div>
+
+                            <div class="flex-container comf-border">
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-2.png" style="" alt=""/>
+                                <p class="comf-par text-white">Proven successful forex techniques</p>
+                            </div>
+
+                            <div class="flex-container comf-border">
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/b-3.png" style="" alt=""/>
+                                <p class="comf-par text-white">Risk Management Technique and Tips</p>
+                            </div>
                         </ul>
                     </div>
 
@@ -119,70 +130,6 @@ get_header(); ?>
             </a>
         </div>
     </section>
-
-    <!--    <section class="review-bg">-->
-    <!--        <div class="slideshow-container">-->
-    <!--            <div class="flex-container">-->
-    <!--                <div class="mySlides fader">-->
-    <!---->
-    <!--                    <div class=" mobile-width4 row__50 center">-->
-    <!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
-    <!--                            <span class="text-white extra-bold">Client say</span>-->
-    <!--                        </h2>-->
-    <!--                        <p class="contact-rev">Now I can work and trade at the-->
-    <!--                            side cause of swing trading.</p>-->
-    <!--                        <p class="contact-rev">Through the guidance and the-->
-    <!--                            relentless passion of the founder-->
-    <!--                            I found my own trading plan-->
-    <!--                            and stick to the rules.</p>-->
-    <!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">Jin, CA</h4>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!---->
-    <!--                <div class="row__50">-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!---->
-    <!--            <div class="flex-container">-->
-    <!--                <div class="mySlides fader">-->
-    <!--                    <div class=" mobile-width4 row__50 center">-->
-    <!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
-    <!--                            <span class="text-white extra-bold">Client say</span>-->
-    <!--                        </h2>-->
-    <!--                        <p class="contact-rev">I was already trading since 2013, after years I still didn't know much to be  able to make profits consistently cause sometimes you think you know how to trade until you do-->
-    <!--                            it practically. </p>-->
-    <!--                        <p class="contact-rev">Then the trader came and taught me,-->
-    <!--                            trust me he knows what he is doing, so make use of this community and it will actually change your life!</p>-->
-    <!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">Mphok, za</h4>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!---->
-    <!--                <div class="row__50">-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!---->
-    <!--            <div class="flex-container">-->
-    <!--                <div class="mySlides fader">-->
-    <!--                    <div class=" mobile-width4 row__50 center">-->
-    <!--                        <h2 class="wb-heading text-orange" style="">Our</br>-->
-    <!--                            <span class="text-white extra-bold">Client say</span>-->
-    <!--                        </h2>-->
-    <!--                        <p class="contact-rev ">As a financial adviser, I was exposed and studied different kind of trading-->
-    <!--                            techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.</p>-->
-    <!--                        <h4 class="review-head text-black text-cente margin-0 ptop-30">ALLAN, PH</h4>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!---->
-    <!--                <div class="row__50">-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </section>-->
-    <!--    <br>-->
-    <!---->
-    <!--    <div class="three-dots">-->
-    <!--        <span class="dot" onclick="currentSlide(1)"></span><span class="dot" onclick="currentSlide(2)"></span><span class="dot" onclick="currentSlide(3)"></span>-->
-    <!--    </div>-->
 
     <section>
         <div class="">
@@ -246,7 +193,7 @@ get_header(); ?>
     <!--sample-->
 
 <!--sample-->
-    
+
 
 
 

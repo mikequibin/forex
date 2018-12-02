@@ -4316,6 +4316,35 @@ blockquote:after {
         font-size: 1rem;
     }}
 
+.comf-par{
+    font-size: 1.2rem;
+    color: #381e07!important;
+    font-weight: 400;
+    width: 50%;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+@media (max-width: 700px){
+    .comf-par {
+        margin: 0 20px;
+    }}
+
+@media (max-width: 500px){
+    .comf-par {
+        font-size: 1rem;
+    }}
+
+@media (max-width: 500px){
+    .icon-width {
+        width: 30%;
+    }}
+
+.comf-border{
+    padding: 30px 0;
+    border-bottom: 1px solid #fc9e20;
+}
+
 .bb-par{
     font-size: 20px;
     color: #fff;
@@ -4394,24 +4423,19 @@ blockquote:after {
 
 @media (max-width: 1130px){
     .orange-btn1 {
-        width: 65%;
+        width: 60%;
     }}
 
-@media (max-width: 980px){
+@media (max-width: 1000px){
     .orange-btn1 {
-        width: 85%;
+        width: 35%;
     }}
 
-@media (max-width: 800px){
+@media (max-width: 750px){
     .orange-btn1 {
-        width: 95%;
+        width: 45%;
     }}
 
-@media (max-width: 765px){
-    .orange-btn1 {
-        margin: 0 auto;
-        width: 100%;
-    }}
 
 @media (max-width: 700px){
     .orange-btn1 {
@@ -4564,7 +4588,7 @@ blockquote:after {
 }
 
 .checklist__item {
-    list-style-image: url("assets/images/checkmark-orange.png");
+    /*list-style-image: url("assets/images/checkmark-orange.png");*/
     list-style-type: none;
     color: #fff;
     font-size: 1rem;
@@ -4962,6 +4986,10 @@ blockquote:after {
     margin-top: 85px;
 }
 
+.ptop-40{
+	padding-top: 40px;
+}
+
 .ptop-80{
     padding-top: 80px;
 }
@@ -5128,7 +5156,7 @@ blockquote:after {
         display: block;
     }}
 
-@media (max-width: 700px){
+@media (max-width: 1000px){
     .flex-formsec  {
         display: block;
     }}
@@ -5371,6 +5399,25 @@ blockquote:after {
 
 /*Mobile Responsive*/
 
+@media (max-width: 1000px){
+    .nobottom-mobile{
+        margin-bottom: 0;
+    }
+}
+
+
+@media (max-width: 1000px){
+    .noleft-margin{
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 1000px){
+    .mtop{
+        margin-top: 50px;
+    }
+}
+
 @media (max-width: 850px){
     .top30-mobile {
         margin-top: 30px;
@@ -5386,7 +5433,7 @@ blockquote:after {
         width: 100%!important;
     }}
 
-@media (max-width: 700px){
+@media (max-width: 1000px){
     .mobile-width2{
         width: 100%!important;
     }}
@@ -5606,7 +5653,7 @@ blockquote:after {
 }
 
 .review-sec{
-    background-color: #fbfcd4;
+    background-color: #fff;
     padding-bottom: 50px;
 }
 
