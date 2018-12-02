@@ -6135,3 +6135,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 .icon-width{
     height: 80px;
 }
+
+/*HIDDEN*/
+
+.search-widget-handle .search {
+    padding: 0 15px;
+    display: none!important;
+}

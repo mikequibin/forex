@@ -23,15 +23,15 @@
 
         <div class="flex-container ptop-20 leftright-4">
             <div class="row__35 mobile-fullwidth">
-                <h5 class="mbottom-5  footer-head">ABOUT</h5>
-                <h5 class="mbottom-5  footer-sub">Who are We</h5>
-                <h5 class=" footer-sub" >Benefits</h5>
+                <a href="https://www.freefxcourse.com/about/"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
+                <a href="https://www.freefxcourse.com/about/"><h5 class="mbottom-5  footer-sub">Who are We</h5></a>
+                <a href="https://www.freefxcourse.com/about/"><h5 class=" footer-sub" >Benefits</h5></a>
             </div>
 
             <div class="row__35 mobile-fullwidth">
-                <h5 class="mbottom-5  footer-head">CONTACT US</h5>
-                <h5 class="mbottom-5  footer-sub">Talk to Us</h5>
-                <h5 class=" footer-sub">Support Team</h5>
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-head">CONTACT US</h5></a>
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-sub">Talk to Us</h5></a>
+                <a href="https://www.freefxcourse.com/contact/"><h5 class=" footer-sub">Support Team</h5></a>
             </div>
 
             <div class="row__35 mobile-fullwidth">
