@@ -4351,7 +4351,7 @@ blockquote:after {
 
 .mleft{
     color: #fc9e20!important;
-    margin-left: -25%;
+    padding-bottom: 20px;
 }
 
 .bb-par{
@@ -5925,6 +5925,8 @@ fieldset{
 	border: 2px solid #d9d9dd;
     background-color: #fff;
 }
+
+
 
 .three-dots{
     text-align: center;
