@@ -71,7 +71,7 @@ footer{
 }
 
 .header {
-    background: url("assets/images/city-bg2.jpg") no-repeat center;
+    background: url("assets/images/nm-bg.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4258,7 +4258,7 @@ blockquote:after {
 }
 
 .wb-heading{
-    font-size: 30px;
+    font-size: 25px;
     margin: 0 auto;
     /*text-align: left;*/
     color: #966f34;
@@ -5089,8 +5089,8 @@ blockquote:after {
     padding-top: 5%;
 }
 
-.pbottomp-5{
-    padding-bottom: 5%;
+.pbottomp-35{
+    padding-bottom: 35%;
 }
 
 .mleft-5{
@@ -5127,6 +5127,9 @@ blockquote:after {
     margin: 0 4rem;
 }
 
+.left-40{
+    margin-left: 40px;
+}
 
 /*Container*/
 
@@ -5135,7 +5138,7 @@ blockquote:after {
     justify-content: space-between;
     cursor: pointer; }
 
-@media (max-width: 1010px){
+@media (max-width: 1010pxa){
     .flex-mobile {
         margin: 0 50px!important;
     }}
@@ -5389,9 +5392,9 @@ blockquote:after {
     text-align: center;
 }
 
-.financial-diamond{
-    background: url("assets/images/financial-diamond.png") no-repeat center;
-}
+/*.financial-diamond{*/
+    /*background: url("assets/images/nehemiah-mabry.jpg") no-repeat center;*/
+/*}*/
 
 @media (max-width: 700px){
     .financial-diamond {
@@ -6149,3 +6152,28 @@ body {font-family: Verdana, sans-serif; margin:0}
     width: 100%;
     line-height: 50px;
 }
+
+
+/*Nehemiah Mabry*/
+
+.bg-orange {
+    background-color: #fc9e20;
+    margin-bottom: 30px;
+
+}
+
+.bg-orange2{
+    background-color: #fc9e20;
+    width: 60%;
+    box-shadow: 0.12rem 0.5rem 1.1rem #a99a9a;
+    border-radius: 3px;
+}
+
+.text-transform{
+    text-transform: capitalize;
+}
+
+.border-bg{
+    border: 5px solid #fc9e20;
+}
+
