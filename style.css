@@ -71,7 +71,7 @@ footer{
 }
 
 .header {
-    background: url("assets/images/nm-bg.jpg") no-repeat center;
+    background: url("assets/images/city-bg2.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4650,7 +4650,7 @@ blockquote:after {
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .fb-image{
@@ -5109,6 +5109,10 @@ blockquote:after {
     margin-left: 60px;
 }
 
+.mleft-100{
+    margin-left: 100px;
+}
+
 .no-bottom{
     padding-bottom: 0!important;
     margin-bottom: 0;
@@ -5233,7 +5237,7 @@ blockquote:after {
 
 
 .tile-bg{
-    background: url("assets/images/comfortablelife-tile.jpg");
+    /*background: url("assets/images/comfortablelife-tile.jpg");*/
 }
 
 
@@ -5392,9 +5396,9 @@ blockquote:after {
     text-align: center;
 }
 
-/*.financial-diamond{*/
-    /*background: url("assets/images/nehemiah-mabry.jpg") no-repeat center;*/
-/*}*/
+.financial-diamond{
+background: url("assets/images/financial-diamond2.jpg") no-repeat center;
+}
 
 @media (max-width: 700px){
     .financial-diamond {
@@ -5403,7 +5407,14 @@ blockquote:after {
     }}
 
 .comfy-life{
-    background: url("assets/images/comfy-life2.jpg") center;
+    background: url("assets/images/comfy-life3.jpg") center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.review-nh{
+    background: url("assets/images/review-nh2.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

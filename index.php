@@ -17,140 +17,159 @@ get_header(); ?>
     <body>
 
     <header class="header">
-        <div class="header-container pbottomp-35">
+        <div class="header-container ptopp-5 pbottomp-5">
             <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;">
-<!--                <img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/header-text.png" alt=""/>-->
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/nehemiah-headertext.png" alt=""/>
             </div>
             <div class="maxwidth-1200 anim-top1">
-                <h3 class="banner-sub extra-bold">ENGINEER | <span class="text-white extra-bold">EDUCATOR</span> | ENTREPRENEUR</h3>
+<!--                <h3 class="banner-sub extra-bold">ENGINEER | <span class="text-white extra-bold">EDUCATOR</span> | ENTREPRENEUR</h3>-->
             </div>
         </div>
     </header>
 
-    <section class="white-box financial-diamond anim-financial">
-        <div class="bg-orange">
-            <h2 class="left-40 wb-heading">BIO</h2>
-        </div>
-
+    ﻿<section class="white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
-            <div class="row__50">
-                <div class="">
-                     <p class="wb-par">
-                            Dr. Nehemiah James Mabry is a Structural Engineer, STEM Educator and Social Entrepreneur based in Raleigh, North Carolina. His experience includes over 8 years of research at the National Aeronautics and Space Administration (NASA) and currently works as a Bridge Design Engineer at Simpson Engineers & Associates.
-                     </p>
-                     <p class="wb-par">
-                            In 2012, while attending NC State University as a graduate student, he founded STEMedia Incorporated. STEMedia provides creative, inspirational and educational content for the Science, Technology, Engineering, and Math (STEM) community. Since its inception, Dr. Mabry has won national awards, engaged audiences through public speaking, rendered guest lectures and partnered with several organizations, businesses and academic institutions in STEM outreach.
-                     </p>
-                </div>
-
+            <div class="row__60 ptop-20">
+                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
+                <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                 <div>
-                    <div class="bg-orange2">
-                        <h2 class="left-40 wb-heading mbottom-15 text-transform">Popular Speaking Topics:</h2>
-                    </div>
-
-                    <div class="maxwidth-1200">
-                        <ul>
-                            <li class="wb-par no-bottom">Student Success & Perseverance</li>
-                            <li class="wb-par no-bottom">STEM + Arts & Creativity</li>
-                            <li class="wb-par no-bottom">STEM/STEAM Leadership Development</li>
-                        </ul>
-                    </div>
+                    <p class="wb-par">
+                        Dr. Nehemiah James Mabry is a Structural Engineer, STEM Educator and Social Entrepreneur based in Raleigh, North Carolina. His experience includes over 8 years of research at the National Aeronautics and Space Administration (NASA) and currently works as a Bridge Design Engineer at Simpson Engineers & Associates.
+                    </p>
+                    <p class="wb-par">
+                        In 2012, while attending NC State University as a graduate student, he founded STEMedia Incorporated. STEMedia provides creative, inspirational and educational content for the Science, Technology, Engineering, and Math (STEM) community. Since its inception, Dr. Mabry has won national awards, engaged audiences through public speaking, rendered guest lectures and partnered with several organizations, businesses and academic institutions in STEM outreach.
+                    </p>
                 </div>
-            </div>
 
-            <div class="row__50 center">
-                <img class="border-bg" src="assets/images/nehemiah-mabry.png" alt="" width="460" height="600"/>
-            </div>
+                <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
+                    <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" style="margin:0; width:40%;" data-aos="fade-up">Book Dr. Mabry</h3>
+                </a>
 
+            </div>
         </div>
     </section>
 
-<!--    <section class="comfy-life">-->
-<!--        <div class="maxwidth-1200 ptop-90 pbottom-90">-->
-<!--            <div class="">-->
-<!--                <div class="flex-container flex-formsec">-->
-<!--                    <div class="row__50 mobile-width2">-->
-<!--                        <h2 class="wb-heading mobile-heading text-white"><span class="extra-bold text-orange">Your</br> Comfortable</br> </span>Life Awaits</h2>-->
-<!--                        <img class="bold-line" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/bold-line.png" style="width:28%;" alt=""/>-->
-<!--                        <p class="wb-par text-white">You deserve success and financial freedom, so you must take the necessary steps to achieving that goal.</p>-->
-<!--                        <p class="wb-par text-white">Take control of your financial future and explore the possibilities of wealth creation with Forex trading simply take the free forex trading course.</p>-->
-<!--                        <a href="https://freefxcourse.com/contact/">-->
-<!--                            <h3 class="mtop-50 orange-btn1 slide code code--small code--left aos-init aos-animate" data-aos="fade-right">Get Your 100% Free Course</h3>-->
-<!--                        </a>-->
-<!--                    </div>-->
-<!---->
-<!--                    <div class="row__50 mleft-60 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">-->
-<!--                        <h4 class="checklist nobottom-mobile center mleft">Our Forex Education will teach you:</h4>-->
-<!--                        <ul>-->
-<!--                            <div class="flex-container comf-border">-->
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/b-1.png" style="" alt="" data-aos="fade-left">-->
-<!--                                <p class="comf-par text-white">How to make money in trading </p>-->
-<!--                            </div>-->
-<!---->
-<!--                            <div class="flex-container comf-border">-->
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/b-2.png" style="" alt="" data-aos="fade-left"/>-->
-<!--                                <p class="comf-par text-white">Proven successful Forex techniques</p>-->
-<!--                            </div>-->
-<!---->
-<!--                            <div class="flex-container comf-border">-->
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/b-3.png" style="" alt="" data-aos="fade-left"/>-->
-<!--                                <p class="comf-par text-white">Risk Management Technique and Tips</p>-->
-<!--                            </div>-->
-<!--                        </ul>-->
-<!--                    </div>-->
-<!---->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
+    ﻿<section class="comfy-life">
+        <div class="maxwidth-1200 ptop-90 pbottom-90">
+            <div class="">
+                <div class="flex-container flex-formsec">
+                    <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
+                        ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</h2>
+                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <ul>
+                            <div class="flex-container comf-border">
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">
+                                <p class="comf-par text-white">Student Success & Perseverance</p>
+                            </div>
 
-<!--    <section class="trader-box">-->
-<!--        <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">-->
-<!--            <h2 class="pbottom-15 wb-heading text-orange text-center">Learn from <span class="text-black extra-bold">the traders</span></h2>-->
-<!--            <p class="wb-par text-center bold">Be part of the community and be the next to testify with your own results</p>-->
-<!--            <div class="flex-container2">-->
-<!--                <div class="flex-container mtop-50 flexcont-mobile">-->
-<!--                    <div class="row row__30 forex-box row-mobile">-->
-<!--                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/massive-ic.png" alt=""/>-->
-<!--                        <h4 class="fb-head no-bottom">Massive Income</br>-->
-<!--                            Potential</h4>-->
-<!--                        <img class="margin-20" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/gray-line.png" alt=""/>-->
-<!--                        <p class="fb-cont">Be part of the community and be the next-->
-<!--                            to testify with your own results. Forex-->
-<!--                            trading offers a path to financial freedom.-->
-<!--                            Using proven strategies, traders stand-->
-<!--                            to earn millions in income and generate-->
-<!--                            wealth.</p>-->
-<!--                    </div>-->
-<!---->
-<!--                    <div class="row row__30 forex-box row-mobile top30-mobile">-->
-<!--                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/flexible-ic.png" alt=""/>-->
-<!--                        <h4 class="fb-head no-bottom">Flexible-->
-<!--                            Hours</h4>-->
-<!--                        <img class="margin-20" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/gray-line.png" alt=""/>-->
-<!--                        <p class="fb-cont">The Foreign Exchange is a 24/7 global-->
-<!--                            marketplace. Trade from the comfort of-->
-<!--                            your home during your free time, or at a-->
-<!--                            time that suits you.</p>-->
-<!--                    </div>-->
-<!--                    <div class="row row__30 forex-box row-mobile top30-mobile">-->
-<!--                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/easy-ic.png" alt=""/>-->
-<!--                        <h4 class="fb-head no-bottom">Easy to-->
-<!--                            Learn</h4>-->
-<!--                        <img class="margin-20" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/gray-line.png" alt=""/>-->
-<!--                        <p class="fb-cont">People from all walks of life have the-->
-<!--                            potential to earn $$$ trading Forex,-->
-<!--                            simply take the free forex trading course-->
-<!--                            and start a career in trading now.</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">-->
-<!--                <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Get Your 100% Free Course</h3>-->
-<!--            </a>-->
-<!--        </div>-->
-<!--    </section>-->
-<!---->
+                            <div class="flex-container comf-border">
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-2.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">STEM + Arts & Creativity</p>
+                            </div>
+
+                            <div class="flex-container comf-border">
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-3.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">STEM/STEAM Leadership Development</p>
+                            </div>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    ﻿<section class="trader-box">
+        <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
+            <h2 class="pbottom-15 wb-heading text-orange text-center">Dr. Mabry <span class="text-black extra-bold">Has Work with</span></h2>
+            <p class="wb-par text-center bold">Invite Dr. Mabry to come inspire your students & staff!</p>
+            <div class="flex-container2">
+                <div class="flex-container mtop-50 flexcont-mobile">
+                    <div class="row row__30 forex-box row-mobile">
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
+                        <h4 class="fb-head no-bottom">K-12 Schools</h4>
+                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
+
+                        <p class="fb-cont">Envision Science Academy</p>
+                        <p class="fb-cont">NC School of Science & Math</p>
+                        <p class="fb-cont">Duplin Early College High School</p>
+                        <p class="fb-cont">Kinston High School</p>
+                        <p class="fb-cont">Moore's Square Magnet Middle School</p>
+                        <p class="fb-cont">Bragg Street Academy</p>
+                        <p class="fb-cont">Torchlight Academy</p>
+                        <p class="fb-cont">Rand Road Elementary</p>
+
+                    </div>
+
+                    <div class="row row__30 forex-box row-mobile top30-mobile">
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
+                        <h4 class="fb-head no-bottom">College & Universities</h4>
+                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
+
+                        <p class="fb-cont">Purdue University</p>
+                        <p class="fb-cont">NC State University</p>
+                        <p class="fb-cont">Campbell University</p>
+                        <p class="fb-cont">Duke University</p>
+                        <p class="fb-cont">University of Georgia</p>
+                        <p class="fb-cont">University of North Carolina</p>
+                        <p class="fb-cont">Elizabeth City State University</p>
+                        <p class="fb-cont">Oakwood University</p>
+                        <p class="fb-cont">Shaw University</p>
+
+                    </div>
+                    <div class="row row__30 forex-box row-mobile top30-mobile">
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
+                        <h4 class="fb-head no-bottom">Organizations</h4>
+                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
+
+                        <p class="fb-cont">American Society of Engineering Education</p>
+                        <p class="fb-cont">National Academy of Engineering</p>
+                        <p class="fb-cont">National Society of Black Engineers</p>
+                        <p class="fb-cont">Alpha Omega Epsilon (ΑΩΕ) </p>
+
+                    </div>
+                </div>
+            </div>
+            <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">
+                <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+            </a>
+        </div>
+    </section>
+
+    ﻿<section class="review-nh">
+        <div class="maxwidth-1200 ptop-90 pbottom-90">
+            <div class="">
+                <div class="flex-container flex-formsec">
+                    <div class="row__50 mobile-width2">
+
+                    </div>
+
+                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
+                        <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-orange">What they are Saying</h2>
+                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <div class="comf-border">
+                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px;">Dr. Louis Martin-Vega<br>Dean of Engineering<br>North Carolina State University</h5>
+                            <p class="wb-par" style="color: #000!important;">“The impact of his creation, STEMedia, has been so significant that I invited Nehemiah [Dr. Mabry] to participate as a guest speaker at a 2013 presentation of the College of Engineering to the NC State Board of Trustees, a moment that not only resulted in a resounding standing ovation for this exceptional young man but also a testament to how his work inspires audiences of all ages.”</p>
+                        </div>
+                        <div class="comf-border">
+                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">A. Monica Cutno<br>Co-Founder & Board Chair<br>Envision Science Academy</h5>
+                            <p class="wb-par" style="color: #000!important;">“Dr. Mabry kicked off our Career Day as keynote speaker where he engaged around 200 middle school students and numerous administrators and staff. His presentation was so motivational and encouraging, teachers and students sang his praises the entire day. Dr. Mabry’s presence at Envision Science Academy is critically important for our young scholars, as he is the epitome of STEAM (science, technology, engineering, arts, and mathematics).”</p>
+                        </div>
+                        <div class="comf-border">
+                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">William Smith<br>Director of International Programs<br>Purdue University College of Veterinary Medicine</h5>
+                            <p class="wb-par">“Dr. Nehemiah Mabry, President of STEMedia, spoke to the Purdue Black Male Excellence Network today and did an excellent job in not only encouraging our young men to engineer their path to success but to find their "zone of genius". I think he would be of great value to your programs and college. When I come across inspirational and excellent content for our community, I like to pass it along.”</p>
+                        </div>
+                        <div style="color: #000!important;">
+                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Summer Roberts<br>STEM Early College High School Teacher</h5>
+                            <p class="wb-par">“Thank you for your engaging presentation! I know it helped my students engage with and understand more about the power of wordplay and poetry. They also got to practice working as a team thanks to your interactive approach... your presentation and activities provided a great example of integrating the sciences and the arts.”</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
 <!--    <section>-->
 <!--        <div class="">-->
 <!--            <img class="rev-bg" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/review-bg2.jpg" style="width:28%;" alt=""/>-->
@@ -186,18 +205,18 @@ get_header(); ?>
 <!--            </div>-->
 <!--        </div>-->
 <!--    </section>-->
-<!---->
-<!---->
-<!---->
-<!--    <section class="change-box">-->
-<!--        <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">-->
-<!--            <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>-->
-<!--            <a href="https://freefxcourse.com/contact/">-->
-<!--                <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Get Your 100% Free Course</h3>-->
-<!--            </a>-->
-<!--            <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>-->
-<!--        </div>-->
-<!--    </section>-->
+
+
+
+    <section class="change-box">
+        <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
+            <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
+            <a href="https://freefxcourse.com/contact/">
+                <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+            </a>
+            <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
+        </div>
+    </section>
 
 
     </div>
@@ -208,11 +227,6 @@ get_header(); ?>
     </div>
     </div>
     </body>
-
-
-    <!--sample-->
-
-<!--sample-->
 
 
 
