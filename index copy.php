@@ -18,19 +18,19 @@ get_header(); ?>
 
     <header class="header">
         <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;position: absolute; padding-top: 8%; padding-left: 24%;">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/nehemiah-textlato.png" alt=""/>
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/nehemiah-textlato1.png" alt=""/>
         </div>
         <video autoplay muted loop class="fullvideo-container" poster="">
             <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">
         </video>
     </header>
 
-    ﻿<section class="white-box financial-diamond anim-financial">
+    ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
             <div class="row__60 ptop-20">
                 ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
                 <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
-                <div>
+                <div class="width-90">
                     <p class="wb-par">
                         Dr. Nehemiah James Mabry is a Structural Engineer, STEM Educator and Social Entrepreneur based in Raleigh, North Carolina. His experience includes over 8 years of research at the National Aeronautics and Space Administration (NASA) and currently works as a Bridge Design Engineer at Simpson Engineers & Associates.
                     </p>
@@ -47,13 +47,14 @@ get_header(); ?>
         </div>
     </section>
 
-    ﻿<section class="comfy-life">
+    ﻿<section class="remove-gray comfy-life">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
                         ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</h2>
-                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <p class="label-par  bold">Popular Speaking Topics</p>
+						<p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                         <ul>
                             <div class="flex-container comf-border">
                                 <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">
@@ -77,7 +78,7 @@ get_header(); ?>
         </div>
     </section>
 
-    ﻿<section class="trader-box">
+    ﻿<section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-orange text-center">Dr. Mabry <span class="text-black extra-bold">Has Work with</span></h2>
             <p class="wb-par text-center bold">Invite Dr. Mabry to come inspire your students & staff!</p>
@@ -134,7 +135,7 @@ get_header(); ?>
         </div>
     </section>
 
-    ﻿<section class="review-nh">
+    ﻿<section class="remove-gray review-nh">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
@@ -143,7 +144,7 @@ get_header(); ?>
                     </div>
 
                     <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-orange">What they are Saying</h2>
+                        <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-blue">What they are Saying</h2>
                         <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                         <div class="comf-border">
                             <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px;">Dr. Louis Martin-Vega<br>Dean of Engineering<br>North Carolina State University</h5>
@@ -206,9 +207,9 @@ get_header(); ?>
 
 
 
-    <section class="change-box">
+    <section class="remove-gray change-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
-            <h2 class="change-head">change your <span class="text-white extra-bold">life today</span></h2>
+            <h2 class="change-head">Inspire you Students <span class="text-white extra-bold">and Staff Today!</span></h2>
             <a href="https://freefxcourse.com/contact/">
                 <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
             </a>
