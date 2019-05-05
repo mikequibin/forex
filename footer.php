@@ -18,11 +18,14 @@
             
         </div>
 
-        <div class="flex-container ptop-20 leftright-4">
+        <div class="flex-container ptop-20 leftright-4 mbottom-mobile">
             <div class="row__35 mobile-fullwidth">
                 <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
                 <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-sub">Who are We</h5></a>
+<<<<<<< HEAD
+=======
                 
+>>>>>>> da873cd431f48d38024a86f19b8283ae87edd32e
             </div>
 
             <div class="row__35 mobile-fullwidth">
@@ -32,18 +35,26 @@
             </div>
 
             <div class="row__35 mobile-fullwidth">
+<<<<<<< HEAD
+                <div class="mright-20 no-margin-mobile">
+=======
                 <div class="mright-20 ">
                     
 
+>>>>>>> da873cd431f48d38024a86f19b8283ae87edd32e
                     <div>
                         <a href="https://www.stemedia.org/"><h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/web-ic.png" alt=""/> www.stemedia.org</h5></a>
                     </div>
 					<div class="">
                     <a href="https://www.facebook.com/STEM.Media/"><img class="pright-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/></a>
                     <a class="float-right" href="https://twitter.com/_stemedia/"><img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/></a>
+<<<<<<< HEAD
+                </div>
+=======
             </div>
 
                    
+>>>>>>> da873cd431f48d38024a86f19b8283ae87edd32e
                 </div>
             </div>
         </div>
