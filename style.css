@@ -4319,7 +4319,7 @@ blockquote:after {
 
 @media (max-width: 800px){
     .wb-par {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }}
 
 .comf-par{
@@ -4532,6 +4532,9 @@ blockquote:after {
     .orange-btn-2 {
         width: 90%;
     }}
+
+
+
 
 .orange-btn-3{
     color: #000!important;
@@ -4767,12 +4770,6 @@ blockquote:after {
     padding: 30px;
     border-bottom: 3px solid #ddd;
 }
-@media (max-width: 842px){
-    .footer-cont .footer-top {
-        text-align: center;
-    }
-}
-
 
 @media (max-width: 462px){
     .footer-cont .footer-top {
@@ -5022,11 +5019,6 @@ blockquote:after {
     margin-bottom: 15px;
 }
 
-@media (max-width: 1000px){
-    .ptop90-mobile {
-        padding-top: 0!important;
-    }}
-
 .mbottom-30{
     margin-bottom: 30px;
 }
@@ -5186,6 +5178,36 @@ blockquote:after {
 @media (max-width: 1000px){
     .flex-formsec  {
         display: block;
+    }}
+
+@media (max-width: 600px){
+    .flex-formsec2  {
+        display: block;
+    }}
+
+@media (max-width: 600px){
+    .review-nh  {
+       background: none!important;
+    }}
+
+@media (max-width: 600px){
+    .mobile-width6  {
+        width: 80%!important;
+    }}
+
+@media (max-width: 600px){
+    .ptop-90-mobile  {
+        padding-top: 0px;
+    }}
+
+@media (max-width: 1000px){
+    .flex-formsec2-mobile  {
+        margin-left:10%!important;
+    }}
+
+@media (max-width: 400px){
+    .flex-formsec2-mobile  {
+
     }}
 
 @media (max-width: 722px){
@@ -5408,7 +5430,7 @@ blockquote:after {
 }
 
 .financial-diamond{
-background: url("assets/images/financial-diamond2.jpg") no-repeat center;
+background: url("assets/images/financial-diamond3.jpg") no-repeat center;
 }
 
 @media (max-width: 700px){
@@ -5418,7 +5440,7 @@ background: url("assets/images/financial-diamond2.jpg") no-repeat center;
     }}
 
 .comfy-life{
-    background: url("assets/images/comfy-life4.jpg") center;
+    background: url("assets/images/comfy-life3.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5429,12 +5451,6 @@ background: url("assets/images/financial-diamond2.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-@media (max-width: 1000px){
-    .review-nh{
-        background: none;
-    }
 }
 
 /*Mobile Responsive*/
@@ -6214,21 +6230,6 @@ body {font-family: Verdana, sans-serif; margin:0}
 	width: 15%;
 }
 
-@media (max-width: 750px){
-    .footer-logo{
-        width: 20%;
-    }}
-
-@media (max-width: 600px){
-    .footer-logo{
-        width: 25%;
-    }}
-
-@media (max-width: 450px){
-    .footer-logo{
-        width: 30%;
-    }}
-
 .text-blue{
 	color: #4569ab;
 }
@@ -6250,35 +6251,3 @@ body {font-family: Verdana, sans-serif; margin:0}
 	padding-top: 9px;
 }
 
-
-@media (max-width: 800px){
-    .mobile-100{
-        width: 100%;
-    }}
-
-@media (max-width: 700px){
-    .mobile1-100{
-        width: 100%;
-    }}
-
-
-
-@media (max-width: 842px){
-    .no-margin-mobile{
-       margin: 0;
-    }}
-
-
-@media (max-width: 842px){
-    .mbottom-mobile{
-        margin-bottom: 15px;
-    }}
-
-@media (max-width: 900px){
-    .ptop-mobile{
-         padding-top: 50px;
-    }}
-
-.mbottom-35{
-    margin-bottom: 35px!important;
-}
