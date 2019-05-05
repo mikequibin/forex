@@ -136,14 +136,14 @@ get_header(); ?>
     </section>
 
     ﻿<section class="remove-gray review-nh">
-        <div class="maxwidth-1200 ptop-90 pbottom-90">
+        <div class="maxwidth-1200 ptop-90 ptop-90-mobile pbottom-90">
             <div class="">
-                <div class="flex-container flex-formsec">
-                    <div class="row__50 mobile-width2">
+                <div class="flex-container flex-formsec2">
+                    <div class="row__50">
 
                     </div>
 
-                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
+                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width6 leftno-mobile top-mobile5 flex-formsec2-mobile">
                         <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-blue">What they are Saying</h2>
                         <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                         <div class="comf-border">

@@ -5180,6 +5180,36 @@ blockquote:after {
         display: block;
     }}
 
+@media (max-width: 600px){
+    .flex-formsec2  {
+        display: block;
+    }}
+
+@media (max-width: 600px){
+    .review-nh  {
+       background: none!important;
+    }}
+
+@media (max-width: 600px){
+    .mobile-width6  {
+        width: 80%!important;
+    }}
+
+@media (max-width: 600px){
+    .ptop-90-mobile  {
+        padding-top: 0px;
+    }}
+
+@media (max-width: 1000px){
+    .flex-formsec2-mobile  {
+        margin-left:10%!important;
+    }}
+
+@media (max-width: 400px){
+    .flex-formsec2-mobile  {
+
+    }}
+
 @media (max-width: 722px){
     .flex-benefitsec {
         display: block;
@@ -5400,7 +5430,7 @@ blockquote:after {
 }
 
 .financial-diamond{
-background: url("assets/images/financial-diamond2.jpg") no-repeat center;
+background: url("assets/images/financial-diamond3.jpg") no-repeat center;
 }
 
 @media (max-width: 700px){
@@ -5410,7 +5440,7 @@ background: url("assets/images/financial-diamond2.jpg") no-repeat center;
     }}
 
 .comfy-life{
-    background: url("assets/images/comfy-life4.jpg") center;
+    background: url("assets/images/comfy-life3.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
