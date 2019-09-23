@@ -27,17 +27,10 @@ get_header(); ?>
 
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
-<<<<<<< HEAD
             <div class="row__60 ptop-20">
                 ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
                 <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                 <div class="width-90">
-=======
-            <div class="row__60 ptop-20 mobile1-100">
-                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
-                <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
-                <div class="width-90 mobile-100">
->>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
                     <p class="wb-par">
                         Dr. Nehemiah James Mabry is a Structural Engineer, STEM Educator and Social Entrepreneur based in Raleigh, North Carolina. His experience includes over 8 years of research at the National Aeronautics and Space Administration (NASA) and currently works as a Bridge Design Engineer at Simpson Engineers & Associates.
                     </p>
@@ -58,11 +51,7 @@ get_header(); ?>
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
-<<<<<<< HEAD
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-=======
-                    <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile">
->>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
                         ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</h2>
                         <p class="label-par  bold">Popular Speaking Topics</p>
 						<p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
@@ -108,7 +97,6 @@ get_header(); ?>
                         <p class="fb-cont">Bragg Street Academy</p>
                         <p class="fb-cont">Torchlight Academy</p>
                         <p class="fb-cont">Rand Road Elementary</p>
-<<<<<<< HEAD
 
                     </div>
 
@@ -133,32 +121,6 @@ get_header(); ?>
                         <h4 class="fb-head no-bottom">Organizations</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
-=======
-
-                    </div>
-
-                    <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">College & Universities</h4>
-                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
-                        <p class="fb-cont">Purdue University</p>
-                        <p class="fb-cont">NC State University</p>
-                        <p class="fb-cont">Campbell University</p>
-                        <p class="fb-cont">Duke University</p>
-                        <p class="fb-cont">University of Georgia</p>
-                        <p class="fb-cont">University of North Carolina</p>
-                        <p class="fb-cont">Elizabeth City State University</p>
-                        <p class="fb-cont">Oakwood University</p>
-                        <p class="fb-cont">Shaw University</p>
-
-                    </div>
-                    <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">Organizations</h4>
-                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
->>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
                         <p class="fb-cont">American Society of Engineering Education</p>
                         <p class="fb-cont">National Academy of Engineering</p>
                         <p class="fb-cont">National Society of Black Engineers</p>
@@ -174,7 +136,6 @@ get_header(); ?>
     </section>
 
     ﻿<section class="remove-gray review-nh">
-<<<<<<< HEAD
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
@@ -183,20 +144,6 @@ get_header(); ?>
                     </div>
 
                     <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-=======
-<<<<<<< HEAD
-        <div class="maxwidth-1200 ptop-90 ptop-90-mobile pbottom-90">
-=======
-        <div class="maxwidth-1200 ptop-90 ptop90-mobile pbottom-90">
->>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
-            <div class="">
-                <div class="flex-container flex-formsec2">
-                    <div class="row__50">
-
-                    </div>
-
-                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width6 leftno-mobile top-mobile5 flex-formsec2-mobile">
->>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
                         <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-blue">What they are Saying</h2>
                         <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                         <div class="comf-border">
@@ -269,11 +216,6 @@ get_header(); ?>
             <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
         </div>
     </section>
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
 
 
     </div>

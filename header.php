@@ -49,6 +49,10 @@
                             <div class="module left">
                                 <?php shapely_header_menu(); // main navigation ?>
                             </div>
+                            
+                            <div>
+                                <img src="assets/images/cropped-stem-logo.png" alt=""/>
+                            </div>
 
                             <div class="module widget-handle search-widget-handle left hidden-xs hidden-sm">
                                 <div class="search">
