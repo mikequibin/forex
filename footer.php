@@ -14,18 +14,15 @@
 <footer class="footer-cont">
     <div class="maxwidth-1200 maxwidth-1200-footer">
         <div class="footer-top">
-            <img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/forextrading-logo.png" alt=""/>
-            <div class="footer-ic">
-                    <img class="pright-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/>
-                    <img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/>
-            </div>
+            <a href="https://www.freefxcourse.com/"><img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/nehemiah-textlato1.png" alt=""/></a>
+            
         </div>
 
         <div class="flex-container ptop-20 leftright-4">
             <div class="row__35 mobile-fullwidth">
-                <a href="https://www.freefxcourse.com/about/"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
-                <a href="https://www.freefxcourse.com/about/"><h5 class="mbottom-5  footer-sub">Who are We</h5></a>
-                <a href="https://www.freefxcourse.com/about/"><h5 class=" footer-sub" >Benefits</h5></a>
+                <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
+                <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-sub">Who are We</h5></a>
+                
             </div>
 
             <div class="row__35 mobile-fullwidth">
@@ -36,37 +33,24 @@
 
             <div class="row__35 mobile-fullwidth">
                 <div class="mright-20 ">
-                    <div class="image-text">
-                        <h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sched-ic.png" alt=""/> 9AM - 5PM EST</h5>
-                    </div>
+                    
 
                     <div>
-                        <h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/web-ic.png" alt=""/> www.freefxcourse.com</h5>
+                        <a href="https://www.stemedia.org/"><h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/web-ic.png" alt=""/> www.stemedia.org</h5></a>
                     </div>
+					<div class="">
+                    <a href="https://www.facebook.com/STEM.Media/"><img class="pright-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/></a>
+                    <a class="float-right" href="https://twitter.com/_stemedia/"><img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/></a>
+            </div>
 
-                    <div>
-                        <h5 class="footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/mail-ic.png" alt=""/> support@freefxcourse.com</h5>
-                    </div>
+                   
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="mobile-fullwidth riskdisclaimer-cont">
-<!--        <h5 class="riskdisclaimer-head no-bottom footer-head">RISK DISCLAIMER</h5>-->
-        <h5 class="riskdisclaimer-sub ">
-            <span class="riskdisclaimer-head">RISK DISCLAIMER</span> Before deciding to invest in foreign exchange you should carefully
-            consider your investment objectives and risk appetite.  The possibility
-            exists that you could sustain a loss of some or all of your initial
-            investment and therefore you should not invest money that you
-            cannot afford to lose. Trading foreign exchange on margin carries a high level of risk
-            and may not be suitable for all investors. Past performance is not
-            indicative of future results.
-        </h5>
-    </div>
-
     <div class="copyright-sect">
-        <h5 class="copyright-text text-center">Copyright © 2018 Forex Trading by Bull and Bear Academy</h5>
+        <h5 class="copyright-text text-center">© 2019 WWW.STEMEDIA.ORG | ALL RIGHTS RESERVED | DEVELOPER&lt;MIKE QUIBIN/&gt; </h5>
     </div>
 
 </footer>

@@ -71,7 +71,7 @@ footer{
 }
 
 .header {
-    background: url("assets/images/nm-bg.jpg") no-repeat center;
+    background: url("assets/images/city-bg2.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -616,6 +616,7 @@ textarea {
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 2;
+	height: 55px;
 }
 .navbar-fixed-top.scrolled {
     /*background-color: #23282d;*/
@@ -1579,8 +1580,8 @@ nav {
 }
 
 .logo {
-    max-height: 90%;
-    padding-top: 10px;
+    max-height: 130%;
+    
 }
 
 .menu > li.dropdown {
@@ -1620,7 +1621,7 @@ nav {
     color: white;
     font-family: 'Gill Sans', sans-serif;
     letter-spacing: 2px;
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 
 /*.menu li a:hover {*/
@@ -1640,7 +1641,7 @@ nav {
 }
 
 .menu > li {
-    font-size: 0.8rem;
+    font-size: 1rem;
     text-transform: uppercase;
     text-align: left;
     position: relative;
@@ -1653,6 +1654,9 @@ nav {
 
 .menu > li:last-child {
     margin-right: 0;
+	background-color: #fc9e20;
+	padding: 7px;
+    margin-top: -8px;
 
 }
 
@@ -1722,6 +1726,8 @@ nav {
     -webkit-transform: translate3d(0, 0px, 0);
     -moz-transform: translate3d(0, 0px, 0);
     visibility: visible;
+	padding: 7px;
+    margin-top: -8px;
 }
 
 .nav-container {
@@ -4258,7 +4264,7 @@ blockquote:after {
 }
 
 .wb-heading{
-    font-size: 25px;
+    font-size: 28px;
     margin: 0 auto;
     /*text-align: left;*/
     color: #966f34;
@@ -4306,7 +4312,7 @@ blockquote:after {
 }
 
 .wb-par{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: #381e07!important;
     font-weight: 400;
 }
@@ -4317,7 +4323,7 @@ blockquote:after {
     }}
 
 .comf-par{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: #381e07!important;
     font-weight: 400;
     width: 70%;
@@ -4485,7 +4491,7 @@ blockquote:after {
 .orange-btn-2{
     color: #000;
     text-align: center;
-    font-size: 15px;
+    font-size: 17px;
     background-color: #fc9e20;
     width: 20%;
     border-radius: 35px;
@@ -4622,7 +4628,7 @@ blockquote:after {
 }
 
 .fb-head{
-    font-size: 20px;
+    font-size: 22x;
     font-weight: 500;
     line-height: 22px;
     margin-top: 10px;
@@ -4647,10 +4653,10 @@ blockquote:after {
 }
 
 .fb-cont{
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 500;
     line-height: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .fb-image{
@@ -4755,9 +4761,6 @@ blockquote:after {
     }
 }
 
-
-.footer-logo{
-}
 
 .footer-cont{
     background-color: #181818;
@@ -4925,7 +4928,7 @@ blockquote:after {
 
 .checklist{
     color: #fff;
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 1.5rem;
 }
 
@@ -5109,6 +5112,10 @@ blockquote:after {
     margin-left: 60px;
 }
 
+.mleft-100{
+    margin-left: 100px;
+}
+
 .no-bottom{
     padding-bottom: 0!important;
     margin-bottom: 0;
@@ -5233,7 +5240,7 @@ blockquote:after {
 
 
 .tile-bg{
-    background: url("assets/images/comfortablelife-tile.jpg");
+    /*background: url("assets/images/comfortablelife-tile.jpg");*/
 }
 
 
@@ -5392,9 +5399,9 @@ blockquote:after {
     text-align: center;
 }
 
-/*.financial-diamond{*/
-    /*background: url("assets/images/nehemiah-mabry.jpg") no-repeat center;*/
-/*}*/
+.financial-diamond{
+background: url("assets/images/financial-diamond2.jpg") no-repeat center;
+}
 
 @media (max-width: 700px){
     .financial-diamond {
@@ -5403,7 +5410,14 @@ blockquote:after {
     }}
 
 .comfy-life{
-    background: url("assets/images/comfy-life2.jpg") center;
+    background: url("assets/images/comfy-life4.jpg") center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.review-nh{
+    background: url("assets/images/review-nh4.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -6109,7 +6123,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .active, .dot:hover {
-    background-color: #fc9e20;
+    /*background-color: #fc9e20;*/
 }
 
 /* Fading animation */
@@ -6175,5 +6189,35 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .border-bg{
     border: 5px solid #fc9e20;
+}
+
+.footer-ic{
+    width: 24%;
+    margin-top: 15px;
+}
+
+.footer-logo{
+	width: 15%;
+}
+
+.text-blue{
+	color: #4569ab;
+}
+
+.label-par{
+	font-size: 1.3rem;
+	color: #fc9e20;
+}
+
+.width-90{
+	width: 90%;
+}
+
+.remove-gray{
+	margin-top: -25px;
+}
+
+.nav-container #site-navigation .nav-bar .row .module-group{
+	padding-top: 9px;
 }
 
