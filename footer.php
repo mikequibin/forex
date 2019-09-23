@@ -28,13 +28,11 @@
             <div class="row__35 mobile-fullwidth">
                 <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-head">CONTACT US</h5></a>
                 <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-sub">Talk to Us</h5></a>
-                <a href="https://www.freefxcourse.com/contact/"><h5 class=" footer-sub">Support Team</h5></a>
+                <a class="" href="https://www.freefxcourse.com/contact/"><h5 class=" footer-sub mb-mobile">Support Team</h5></a>
             </div>
 
             <div class="row__35 mobile-fullwidth">
-                <div class="mright-20 ">
-                    
-
+                <div class="mright-20 mr-mobile">
                     <div>
                         <a href="https://www.stemedia.org/"><h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/web-ic.png" alt=""/> www.stemedia.org</h5></a>
                     </div>

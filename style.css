@@ -673,6 +673,9 @@ a:hover, a:active {
 .main-navigation li {
     float: left;
     position: relative;
+	padding-bottom: 5px;
+    margin-top: -8px;
+    padding-top: 9px;
 }
 
 .main-navigation a {
@@ -4495,7 +4498,8 @@ blockquote:after {
     background-color: #fc9e20;
     width: 20%;
     border-radius: 35px;
-    margin: 0 auto;
+    margin: 0;
+    width: 40%!important;
 }
 
 @media (max-width: 1165px){
@@ -4531,6 +4535,11 @@ blockquote:after {
 @media (max-width: 400px){
     .orange-btn-2 {
         width: 90%;
+    }}
+
+@media (max-width: 525px){
+    .orange-btn-2 {
+        width: 50%!important;
     }}
 
 
@@ -4766,9 +4775,24 @@ blockquote:after {
     background-color: #181818;
 }
 
+@media (max-width: 842px){
+    .footer-cont {
+    text-align: center;
+    padding-bottom: 0;
+		border-bottom: none;
+    }
+}
+
 .footer-cont .footer-top{
     padding: 30px;
     border-bottom: 3px solid #ddd;
+}
+
+@media (max-width: 842px){
+    .footer-cont .footer-top{
+  		padding-bottom: 0;
+		border-bottom: none;
+    }
 }
 
 @media (max-width: 462px){
@@ -4931,6 +4955,11 @@ blockquote:after {
     font-size: 25px;
     margin-bottom: 1.5rem;
 }
+
+@media (max-width: 800px){
+    .checklist {
+        font-size: 25px;
+    }}
 
 .dotted-ic{
     margin-top: 60px;
@@ -5430,7 +5459,7 @@ blockquote:after {
 }
 
 .financial-diamond{
-background: url("assets/images/financial-diamond3.jpg") no-repeat center;
+background: url("assets/images/financial-diamond4.jpg") no-repeat center;
 }
 
 @media (max-width: 700px){
@@ -5873,6 +5902,7 @@ background: url("assets/images/financial-diamond3.jpg") no-repeat center;
     .contact-white-box{
         width: 100%!important;
 		margin-bottom: 0;
+		padding-bottom: 15px;
     }}
 
 
@@ -6244,10 +6274,123 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .remove-gray{
-	margin-top: -25px;
+	margin-top: -37px;
 }
 
 .nav-container #site-navigation .nav-bar .row .module-group{
 	padding-top: 9px;
 }
+
+.wpforms-submit {
+    background-color: #fc9e20!important;
+    width: 35%!important;
+    border-radius: 35px!important;
+    font-weight: 700!important;
+}
+
+.wpforms-submit:hover{
+    background-color: #383736!important;
+	color: #fff!important;
+}
+
+.mbottom-35{
+	margin-bottom: 35px;
+}
+
+.button-hover{
+	color: #000;
+}
+
+.stem-logo{
+	float: right;
+    margin-right: -55px;
+    margin-left: -33px;
+    width: 36%;
+}
+
+@media (max-width: 991px){
+    .stem-logo{
+    float: right;
+    margin-right: -55px;
+    width: 31%;
+    margin-top: -75px;
+    }}
+
+@media (max-width: 950px){
+    .stem-logo{
+    width: 34%;
+    }}
+
+@media (max-width: 888px){
+    .stem-logo{
+    width: 37%;
+    }}
+
+@media (max-width: 813px){
+    .stem-logo{
+    width: 40%;
+    }}
+
+@media (max-width: 760px){
+    .stem-logo{
+    width: 42%;
+    }}
+
+@media (max-width: 721px){
+    .stem-logo{
+    width: 45%;
+    }}
+
+@media (max-width: 682px){
+    .stem-logo{
+    width: 48%;
+    }}
+
+@media (max-width: 630px){
+    .stem-logo{
+    width: 50%;
+    }}
+
+@media (max-width: 600px){
+    .stem-logo{
+    display: none;;
+    }}
+
+/* @media (max-width: 556px){
+    .stem-logo{
+    
+    }}
+
+@media (max-width: 520px){
+    .stem-logo{
+    width: 61%;
+    }} */
+
+
+.nav-bar .row .right .left .collapse {
+	float: left;
+}
+
+@media (max-width: 700px){
+    .rw-mobile{
+       width: 100%;
+    }}
+
+@media (max-width: 842px){
+    .mr-mobile{
+		margin-right: 0;
+		margin-bottom: 20px;
+    }}
+
+@media (max-width: 842px){
+    .mb-mobile{
+		margin-bottom: 5px;
+    }}
+
+.btn-2-style{
+    margin: 0 auto!important;
+    margin-top: 40px!important;
+/* 	width: 20%!important; */
+}
+
 
