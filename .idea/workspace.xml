@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="004873ef-336c-4bdd-bc85-44d5ef137622" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
@@ -9,25 +10,87 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="004873ef-336c-4bdd-bc85-44d5ef137622" time="1557112542338" ignored="false" />
     <file path="/index.php" changelist="004873ef-336c-4bdd-bc85-44d5ef137622" time="1557112850782" ignored="false" />
+=======
+    <list default="true" id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <ignored path="StemediaTheme.iws" />
+    <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <file path="/Dummy.txt" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1557070146075" ignored="false" />
+    <file path="/index.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1556893602370" ignored="false" />
+    <file path="/footer.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1556892214426" ignored="false" />
+    <file path="/style.css" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1556893489654" ignored="false" />
+    <file path="/header.php" changelist="53c1f003-320b-4a24-8a2a-973e5754bf59" time="1557075025750" ignored="false" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="StemediaTheme" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="76365">
+              <caret line="5091" column="12" lean-forward="false" selection-start-line="5091" selection-start-column="12" selection-end-line="5091" selection-end-column="12" />
+=======
+<<<<<<< HEAD
+            <state line="6239" column="1" selection-start="118510" selection-end="118510" vertical-scroll-proportion="0.0">
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+              <folding />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="177">
+              <caret line="5202" column="19" lean-forward="true" selection-start-line="5202" selection-start-column="19" selection-end-line="5202" selection-end-column="21" />
+              <folding />
+=======
+            <state line="6282" column="34" selection-start="119077" selection-end="119077" vertical-scroll-proportion="0.8492908">
+              <folding>
+                <element signature="e#100380#100456#0" expanded="false" />
+                <element signature="e#113620#113728#0" expanded="false" />
+              </folding>
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> e1faf058e0a3a6f3222ae0348d6a7ac29a0172b2
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="827">
+              <caret line="105" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <folding>
+                <element signature="e#3696#3714#0#HTML" expanded="true" />
+              </folding>
+=======
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,6 +105,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="4537" column="0" selection-start="93435" selection-end="93435" vertical-scroll-proportion="0.42375886">
               <folding />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
             </state>
           </provider>
         </entry>
@@ -62,7 +126,7 @@
     </option>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/style.css" />
@@ -72,25 +136,15 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="57" />
-    <option name="y" value="-8" />
-    <option name="width" value="1317" />
-    <option name="height" value="784" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="y" value="23" />
+    <option name="width" value="1623" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -100,6 +154,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
@@ -122,7 +178,16 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
       <pane id="Scope" />
+      <pane id="Scratches" />
+=======
+      <pane id="Scratches" />
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
+      <pane id="Scope" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,15 +198,65 @@
   <component name="RunManager">
     <list size="0" />
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="004873ef-336c-4bdd-bc85-44d5ef137622" name="Default" comment="" />
       <created>1557112544377</created>
       <updated>1557112544377</updated>
     </task>
     <servers />
   </component>
+=======
+      <changelist id="53c1f003-320b-4a24-8a2a-973e5754bf59" name="Default" comment="" />
+      <created>1540974307769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540974307769</updated>
+<<<<<<< HEAD
+      <workItem from="1556759420866" duration="486000" />
+=======
+      <workItem from="1556759420866" duration="669000" />
+      <workItem from="1556769400486" duration="9574000" />
+      <workItem from="1556854510996" duration="5709000" />
+      <workItem from="1557050456263" duration="2218000" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="486000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="23" width="1623" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20024645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="18170000" />
+  </component>
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
   <component name="ToolWindowManager">
     <frame x="57" y="-8" width="1317" height="784" extended-state="6" />
     <editor active="true" />
@@ -162,7 +277,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+=======
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -170,76 +290,318 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
-    <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
-    </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
     <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="217" column="136" selection-start="15901" selection-end="15901" vertical-scroll-proportion="-13.730769">
+=======
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="76365">
+          <caret line="5091" column="12" lean-forward="false" selection-start-line="5091" selection-start-column="12" selection-end-line="5091" selection-end-column="12" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="81225">
+          <caret line="5415" column="22" lean-forward="false" selection-start-line="5415" selection-start-column="22" selection-end-line="5415" selection-end-column="22" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="360">
+          <caret line="24" column="95" lean-forward="false" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
+          <folding>
+            <element signature="e#3696#3714#0#HTML" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="435">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
+          <folding />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="4537" column="0" selection-start="93435" selection-end="93435" vertical-scroll-proportion="0.42375886">
           <folding />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="4731" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="69720">
+          <caret line="4648" column="9" lean-forward="true" selection-start-line="4648" selection-start-column="9" selection-end-line="4648" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="4" selection-end-line="206" selection-end-column="18" />
+          <folding />
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+          <folding />
+=======
+          <folding>
+            <element signature="e#100380#100456#0" expanded="false" />
+            <element signature="e#113620#113728#0" expanded="false" />
+          </folding>
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> e1faf058e0a3a6f3222ae0348d6a7ac29a0172b2
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="316" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="1605">
+          <caret line="107" column="31" lean-forward="false" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+          <folding />
+        </state>
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="4852" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="76365">
+          <caret line="5091" column="12" lean-forward="false" selection-start-line="5091" selection-start-column="12" selection-end-line="5091" selection-end-column="12" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="222" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+=======
+        <state relative-caret-position="360">
+          <caret line="24" column="95" lean-forward="false" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
+          <folding />
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <folding />
+=======
+          <folding>
+            <element signature="e#100380#100456#0" expanded="false" />
+            <element signature="e#113620#113728#0" expanded="false" />
+          </folding>
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> e1faf058e0a3a6f3222ae0348d6a7ac29a0172b2
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="5005" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="35" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="4250" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="71" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4800" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="98" column="77" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc" />
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="31" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc" />
+    <entry file="file://$PROJECT_DIR$/assets/images/b-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="20" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+=======
+        <state line="22" column="67" selection-start="763" selection-end="763" vertical-scroll-proportion="17.0" />
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="76365">
+          <caret line="5091" column="12" lean-forward="false" selection-start-line="5091" selection-start-column="12" selection-end-line="5091" selection-end-column="12" />
+=======
+<<<<<<< HEAD
+        <state line="6239" column="1" selection-start="118510" selection-end="118510" vertical-scroll-proportion="0.0">
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="177">
+          <caret line="5202" column="19" lean-forward="true" selection-start-line="5202" selection-start-column="19" selection-end-line="5202" selection-end-column="21" />
+=======
+        <state line="22" column="67" selection-start="763" selection-end="763" vertical-scroll-proportion="17.0">
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> e1faf058e0a3a6f3222ae0348d6a7ac29a0172b2
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="827">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding>
+            <element signature="e#3696#3714#0#HTML" expanded="true" />
+          </folding>
+=======
+<<<<<<< HEAD
+        <state line="210" column="42" selection-start="15537" selection-end="15537" vertical-scroll-proportion="-11.769231">
+          <folding>
+            <element signature="e#587#670#0" expanded="true" />
+            <element signature="e#2706#2734#0" expanded="true" />
+            <element signature="e#9374#9401#0" expanded="true" />
+            <element signature="e#9533#9563#0" expanded="true" />
+            <element signature="e#10108#10153#0" expanded="true" />
+            <element signature="e#10277#10307#0" expanded="true" />
+            <element signature="e#10907#10952#0" expanded="true" />
+            <element signature="e#11570#11600#0" expanded="true" />
+            <element signature="e#11674#11719#0" expanded="true" />
+          </folding>
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="261">
+          <caret line="120" column="3" lean-forward="false" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="3" />
+          <folding />
+=======
+        <state line="51" column="26" selection-start="2973" selection-end="2973" vertical-scroll-proportion="-2.8431373">
+          <folding />
+>>>>>>> e1faf058e0a3a6f3222ae0348d6a7ac29a0172b2
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state line="53" column="77" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.5017361">
+          <folding />
+=======
+        <state line="6282" column="34" selection-start="119077" selection-end="119077" vertical-scroll-proportion="0.8492908">
+          <folding>
+            <element signature="e#100380#100456#0" expanded="false" />
+            <element signature="e#113620#113728#0" expanded="false" />
+          </folding>
+>>>>>>> 540a24762dc2ff69fa57d7e0c5cc1510263ef135
+>>>>>>> e1faf058e0a3a6f3222ae0348d6a7ac29a0172b2
+>>>>>>> 9e8671c4d6e385c78466279431107ed8291b7739
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
         </state>
       </provider>
     </entry>
   </component>
 </project>
-

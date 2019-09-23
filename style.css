@@ -5459,7 +5459,15 @@ blockquote:after {
 }
 
 .financial-diamond{
+<<<<<<< HEAD
 background: url("assets/images/financial-diamond4.jpg") no-repeat center;
+=======
+
+background: url("assets/images/financial-diamond2.jpg") no-repeat center;
+
+background: url("assets/images/financial-diamond3.jpg") no-repeat center;
+
+>>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
 }
 
 @media (max-width: 700px){
@@ -5469,6 +5477,9 @@ background: url("assets/images/financial-diamond4.jpg") no-repeat center;
     }}
 
 .comfy-life{
+
+    background: url("assets/images/comfy-life4.jpg") center;
+
     background: url("assets/images/comfy-life3.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
