@@ -27,24 +27,10 @@ get_header(); ?>
 
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
-<<<<<<< HEAD
-            <div class="row__60 ptop-20 rw-mobile">
-                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
-                <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
-                <div class="width-90">
-=======
-
             <div class="row__60 ptop-20">
                 ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
                 <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                 <div class="width-90">
-
-            <div class="row__60 ptop-20 mobile1-100">
-                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
-                <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
-                <div class="width-90 mobile-100">
-
->>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
                     <p class="wb-par">
                         Dr. Nehemiah James Mabry is a Structural Engineer, STEM Educator and Social Entrepreneur based in Raleigh, North Carolina. His experience includes over 8 years of research at the National Aeronautics and Space Administration (NASA) and currently works as a Bridge Design Engineer at Simpson Engineers & Associates.
                     </p>
@@ -54,9 +40,8 @@ get_header(); ?>
                 </div>
 
                 <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                    <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" style="" data-aos="fade-up">Book Dr. Mabry</h3>
+                    <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" style="margin:0; width:40%;" data-aos="fade-up">Book Dr. Mabry</h3>
                 </a>
-
             </div>
         </div>
     </section>
@@ -65,18 +50,10 @@ get_header(); ?>
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
-<<<<<<< HEAD
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-=======
-
-                    <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-
-                    <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile">
-
->>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
                         ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</h2>
                         <p class="label-par  bold">Popular Speaking Topics</p>
-						<p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                         <ul>
                             <div class="flex-container comf-border">
                                 <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">
@@ -120,7 +97,6 @@ get_header(); ?>
                         <p class="fb-cont">Torchlight Academy</p>
                         <p class="fb-cont">Rand Road Elementary</p>
 
-
                     </div>
 
                     <div class="row row__30 forex-box row-mobile top30-mobile">
@@ -143,32 +119,6 @@ get_header(); ?>
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
                         <h4 class="fb-head no-bottom">Organizations</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
-
-
-                    </div>
-
-                    <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">College & Universities</h4>
-                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
-                        <p class="fb-cont">Purdue University</p>
-                        <p class="fb-cont">NC State University</p>
-                        <p class="fb-cont">Campbell University</p>
-                        <p class="fb-cont">Duke University</p>
-                        <p class="fb-cont">University of Georgia</p>
-                        <p class="fb-cont">University of North Carolina</p>
-                        <p class="fb-cont">Elizabeth City State University</p>
-                        <p class="fb-cont">Oakwood University</p>
-                        <p class="fb-cont">Shaw University</p>
-
-                    </div>
-                    <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">Organizations</h4>
-                        <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
 
                         <p class="fb-cont">American Society of Engineering Education</p>
                         <p class="fb-cont">National Academy of Engineering</p>
@@ -179,16 +129,12 @@ get_header(); ?>
                 </div>
             </div>
             <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">
-                <h3 class="mtop-50 orange-btn-2 btn-2-style slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+                <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
             </a>
         </div>
     </section>
 
     ﻿<section class="remove-gray review-nh">
-<<<<<<< HEAD
-        <div class="maxwidth-1200 ptop-90 ptop-90-mobile pbottom-90">
-=======
-
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
@@ -197,21 +143,6 @@ get_header(); ?>
                     </div>
 
                     <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-
-
-        <div class="maxwidth-1200 ptop-90 ptop-90-mobile pbottom-90">
-
-        <div class="maxwidth-1200 ptop-90 ptop90-mobile pbottom-90">
-
->>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
-            <div class="">
-                <div class="flex-container flex-formsec2">
-                    <div class="row__50">
-
-                    </div>
-
-                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width6 leftno-mobile top-mobile5 flex-formsec2-mobile">
-
                         <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-blue">What they are Saying</h2>
                         <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
                         <div class="comf-border">
@@ -237,41 +168,41 @@ get_header(); ?>
         </div>
     </section>
 
-<!--    <section>-->
-<!--        <div class="">-->
-<!--            <img class="rev-bg" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/review-bg2.jpg" style="width:28%;" alt=""/>-->
-<!--        </div>-->
-<!--        <div class="review-sec rev-icon">-->
-<!--            <div class=" flex-container mtop-50 mbottom-50 flex-container3 flex-reviewsec ">-->
-<!--                <div class="row__30 mtop-30 mobile-reviewsec mobile-width">-->
-<!--                    <h2 class="wb-heading text-orange mobile-center">Our<br>-->
-<!--                        <span class="text-black bold">Client say</span></h2>-->
-<!--                    <p><img class=" bold-line1" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>-->
-<!--                </div>-->
-<!--                <div class="row__70 center mright-70 mobile-width mobile-top"><img class="review-quote" data-aos="fade-up" src="https://i.imgur.com/8aSGLrK.png" alt="">-->
-<!--                    <div class="slideshow-container">-->
-<!--                        <div class="mySlides fader">-->
-<!--                            <p class="contact-rev">As a financial adviser, I was exposed and studied different kind of trading<br>-->
-<!--                                techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.<br>-->
-<!--                            </p><h4 class="text-black text-center margin-0 ptop-30">ALLAN, PH</h4>-->
-<!--                        </div>-->
-<!--                        <div class="mySlides fader">-->
-<!--                            <p class="contact-rev">Now I can work and trade at the side cause of swing trading.</p>-->
-<!--                            <p class="contact-rev">Through the guidance and the relentless passion of the founder I found my own trading plan and stick to the rules.</p>-->
-<!--                            <h4 class="text-black text-center margin-0 ptop-30">JIN, CA</h4>-->
-<!--                        </div>-->
-<!--                        <div class="mySlides fader">-->
-<!--                            <p class="contact-rev">I was already trading since 2013, after years I still didn't know much to be able to make profits consistently cause sometimes you think you know how to trade until you do it practically.</p>-->
-<!--                            <p class="contact-rev">Then the trader came and taught me, trust me he knows what he is doing, so make use of this community and it will actually change your life!</p>-->
-<!--                            <h4 class="text-black text-center margin-0 ptop-30">MPHOK, ZA</h4>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div style="text-align:center">-->
-<!--                        <span class="dot" onclick="currentSlide(1)"></span><span class="dot" onclick="currentSlide(2)"></span><span class="dot" onclick="currentSlide(3)"></span></div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
+    <!--    <section>-->
+    <!--        <div class="">-->
+    <!--            <img class="rev-bg" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/review-bg2.jpg" style="width:28%;" alt=""/>-->
+    <!--        </div>-->
+    <!--        <div class="review-sec rev-icon">-->
+    <!--            <div class=" flex-container mtop-50 mbottom-50 flex-container3 flex-reviewsec ">-->
+    <!--                <div class="row__30 mtop-30 mobile-reviewsec mobile-width">-->
+    <!--                    <h2 class="wb-heading text-orange mobile-center">Our<br>-->
+    <!--                        <span class="text-black bold">Client say</span></h2>-->
+    <!--                    <p><img class=" bold-line1" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>-->
+    <!--                </div>-->
+    <!--                <div class="row__70 center mright-70 mobile-width mobile-top"><img class="review-quote" data-aos="fade-up" src="https://i.imgur.com/8aSGLrK.png" alt="">-->
+    <!--                    <div class="slideshow-container">-->
+    <!--                        <div class="mySlides fader">-->
+    <!--                            <p class="contact-rev">As a financial adviser, I was exposed and studied different kind of trading<br>-->
+    <!--                                techniques. I never thought that a free trading course would be the one so valuable and let me be consistent on my trading journey. Thanks to the community and for the course now I can give a huge return of investment to my clients.<br>-->
+    <!--                            </p><h4 class="text-black text-center margin-0 ptop-30">ALLAN, PH</h4>-->
+    <!--                        </div>-->
+    <!--                        <div class="mySlides fader">-->
+    <!--                            <p class="contact-rev">Now I can work and trade at the side cause of swing trading.</p>-->
+    <!--                            <p class="contact-rev">Through the guidance and the relentless passion of the founder I found my own trading plan and stick to the rules.</p>-->
+    <!--                            <h4 class="text-black text-center margin-0 ptop-30">JIN, CA</h4>-->
+    <!--                        </div>-->
+    <!--                        <div class="mySlides fader">-->
+    <!--                            <p class="contact-rev">I was already trading since 2013, after years I still didn't know much to be able to make profits consistently cause sometimes you think you know how to trade until you do it practically.</p>-->
+    <!--                            <p class="contact-rev">Then the trader came and taught me, trust me he knows what he is doing, so make use of this community and it will actually change your life!</p>-->
+    <!--                            <h4 class="text-black text-center margin-0 ptop-30">MPHOK, ZA</h4>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                    <div style="text-align:center">-->
+    <!--                        <span class="dot" onclick="currentSlide(1)"></span><span class="dot" onclick="currentSlide(2)"></span><span class="dot" onclick="currentSlide(3)"></span></div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </section>-->
 
 
 
@@ -286,13 +217,6 @@ get_header(); ?>
     </section>
 
 
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> 17111a686895ab5b587fdf73479bf48c28259a04
     </div>
 
     </div>
