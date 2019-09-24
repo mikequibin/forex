@@ -17,8 +17,8 @@ get_header(); ?>
     <body>
 
     <header class="header">
-        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;position: absolute; padding-top: 8%; padding-left: 24%;">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/nehemiah-textlato1.png" alt=""/>
+        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;position: relative; padding-top: 8%; padding-left: 24%;">
+<!--            <img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/nehemiah-textlato1.png" alt=""/>-->
         </div>
         <video autoplay muted loop class="fullvideo-container" poster="">
             <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">
@@ -28,19 +28,20 @@ get_header(); ?>
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
             <div class="row__60 ptop-20">
-                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-orange">There's Something</span><br> Inspiring<br> About Inspiring</h2>
-                <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-green">Your Financial</span><br>Investments<br>Begins Here</h2>
+                <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                 <div class="width-90">
                     <p class="wb-par">
-                        Dr. Nehemiah James Mabry is a Structural Engineer, STEM Educator and Social Entrepreneur based in Raleigh, North Carolina. His experience includes over 8 years of research at the National Aeronautics and Space Administration (NASA) and currently works as a Bridge Design Engineer at Simpson Engineers & Associates.
+                        Settle into the luxurious work-of-art by <span class="extra-bold">East Bel-Air.</span> A contemporary and comfortable home known for its distinctive blend of executive & exclusive living</p>
+                    <p class="wb-par">
+                        <span class="extra-bold">Palo Alto</span> at the boundary of Antipolo and Tanay leisure farm and residential resorts with water falls and forest reserves.
                     </p>
                     <p class="wb-par">
-                        In 2012, while attending NC State University as a graduate student, he founded STEMedia Incorporated. STEMedia provides creative, inspirational and educational content for the Science, Technology, Engineering, and Math (STEM) community. Since its inception, Dr. Mabry has won national awards, engaged audiences through public speaking, rendered guest lectures and partnered with several organizations, businesses and academic institutions in STEM outreach.
+                        Register through our <span class="extra-bold">MegaEast Residential States</span> to learn more.
                     </p>
                 </div>
-
                 <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                    <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" style="margin:0; width:40%;" data-aos="fade-up">Book Dr. Mabry</h3>
+                    <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" style="margin:0; width:40%;" data-aos="fade-up">Book a Tripping Now!</h3>
                 </a>
             </div>
         </div>
