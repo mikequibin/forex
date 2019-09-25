@@ -27,8 +27,8 @@ get_header(); ?>
 
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
-            <div class="row__60 ptop-20">
-                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-green">Your Financial</span><br>Investments<br>Begins Here</h2>
+            <div class="row__60 ptop-20 row-60-mobile">
+                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-green">Your Financial</span><br> Investments<br> Begins Here</h2>
                 <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                 <div class="width-90">
                     <p class="wb-par">
@@ -41,7 +41,7 @@ get_header(); ?>
                     </p>
                 </div>
                 <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                    <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" style="margin:0; width:40%;" data-aos="fade-up">Book a Tripping Now!</h3>
+                    <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
                 </a>
             </div>
         </div>
@@ -130,7 +130,7 @@ get_header(); ?>
                 </div>
             </div>
             <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">
-                <h3 class="mtop-50 orange-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+                <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
             </a>
         </div>
     </section>
@@ -211,7 +211,7 @@ get_header(); ?>
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
             <h2 class="change-head">Inspire you Students <span class="text-white extra-bold">and Staff Today!</span></h2>
             <a href="https://freefxcourse.com/contact/">
-                <h3 class="mtop-30 orange-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
             </a>
             <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
         </div>
