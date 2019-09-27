@@ -5106,6 +5106,8 @@ blockquote:after {
     margin-top: 10px;
 }
 
+
+
 .mbottom-10{
     margin-bottom: 10px;
 }
@@ -5141,6 +5143,10 @@ blockquote:after {
 
 .mleft-8{
     margin-left: 8%;
+}
+
+.mleft-10{
+    margin-left: 10%;
 }
 
 .mleft-20{
@@ -5488,7 +5494,7 @@ background: url("assets/images/property-diamond4.jpg") no-repeat center;
 
 .comfy-life{
 
-    background: url("assets/images/comfy-life4.jpg") center;
+    background: url("assets/images/third-sec-bg.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

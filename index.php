@@ -52,23 +52,46 @@ get_header(); ?>
             <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</h2>
-                        <p class="label-par  bold">Popular Speaking Topics</p>
-                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Your Comfortable<br> <span class="extra-bold text-white">Life Awaits</h2>
+
+                        <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
+                        <p class="wb-par text-white">
+                            With great establishments and city necessities within
+                            comfortable reach, Mega East  fulfills the needs of its growing community of diverse residents in its towering apartments
+                            for resale or rent.
+                        </p>
+
+                        <p class="wb-par text-white">
+                            The exclusive Mega East community, which includes businessmen, corporate executives, families, and students enjoy premium living spaces with world-class condominium
+                            amenities – from the fully equipped fitness centers,
+                            outdoor lap and kiddie pools, to its prominent lifestyle
+                            hubs.
+                        </p>
+
+                        <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
+                            <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+                        </a>
+                    </div>
+
+                    <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 mleft-10 mtop-40">
+                        <h4 class="text-white">Unit For Sale</h4>
                         <ul>
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">
-                                <p class="comf-par text-white">Student Success & Perseverance</p>
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/checklist.png" style="" alt="" data-aos="fade-left">
+                                <p class="comf-par text-white">Creates an exclusive community </p>
                             </div>
 
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-2.png" style="" alt="" data-aos="fade-left"/>
-                                <p class="comf-par text-white">STEM + Arts & Creativity</p>
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">Secure, comfortable neighborhood imbued
+                                    with a sense of tasteful living</p>
                             </div>
 
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bv-3.png" style="" alt="" data-aos="fade-left"/>
-                                <p class="comf-par text-white">STEM/STEAM Leadership Development</p>
+                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">Elegant living spaces, unparalleled exclusivity
+                                    and utmost convenience in the middle
+                                    of the city</p>
                             </div>
                         </ul>
                     </div>
@@ -80,29 +103,23 @@ get_header(); ?>
 
     ﻿<section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
-            <h2 class="pbottom-15 wb-heading text-orange text-center">Dr. Mabry <span class="text-black extra-bold">Has Work with</span></h2>
-            <p class="wb-par text-center bold">Invite Dr. Mabry to come inspire your students & staff!</p>
+            <h2 class="pbottom-15 wb-heading text-green text-center">Featured <span class="text-black extra-bold">Projects</span></h2>
+            <p class="wb-par text-center bold">Condominium, House and Lot Philippines</p>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">K-12 Schools</h4>
+                        <h4 class="fb-head no-bottom">East Bel-Air Residence</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
-                        <p class="fb-cont">Envision Science Academy</p>
-                        <p class="fb-cont">NC School of Science & Math</p>
-                        <p class="fb-cont">Duplin Early College High School</p>
-                        <p class="fb-cont">Kinston High School</p>
-                        <p class="fb-cont">Moore's Square Magnet Middle School</p>
-                        <p class="fb-cont">Bragg Street Academy</p>
-                        <p class="fb-cont">Torchlight Academy</p>
-                        <p class="fb-cont">Rand Road Elementary</p>
+                        <p class="fb-cont">The complex strategically located at the Cainta- Pasig corridor at the midpoint of the highly commercial Felix Avenue and near the giant Sta.Lucia Mall.</p>
+
 
                     </div>
 
                     <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">College & Universities</h4>
+                        <h4 class="fb-head no-bottom">Birmingham Project</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
                         <p class="fb-cont">Purdue University</p>
@@ -118,13 +135,11 @@ get_header(); ?>
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">Organizations</h4>
+                        <h4 class="fb-head no-bottom">Palo Alto</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
-                        <p class="fb-cont">American Society of Engineering Education</p>
-                        <p class="fb-cont">National Academy of Engineering</p>
-                        <p class="fb-cont">National Society of Black Engineers</p>
-                        <p class="fb-cont">Alpha Omega Epsilon (ΑΩΕ) </p>
+                        <p class="fb-cont">Palo Alto at the boundary of Antipolo/ Baras and Tanay leisure farm & residental resort with water falls and forest reserves.</p>
+
 
                     </div>
                 </div>
