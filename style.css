@@ -4495,10 +4495,9 @@ blockquote:after {
     text-align: center;
     font-size: 17px;
     background-color: #15a74b;
-    width: 20%;
     border-radius: 35px;
-    margin: 0;
-    width: 40%;
+    margin: 0 auto;
+    width: 30%;
 }
 
 @media (max-width: 1165px){

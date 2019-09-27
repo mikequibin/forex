@@ -77,18 +77,18 @@ get_header(); ?>
                         <h4 class="text-white">Unit For Sale</h4>
                         <ul>
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/checklist.png" style="" alt="" data-aos="fade-left">
+<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left">-->
                                 <p class="comf-par text-white">Creates an exclusive community </p>
                             </div>
 
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>
+<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>-->
                                 <p class="comf-par text-white">Secure, comfortable neighborhood imbued
                                     with a sense of tasteful living</p>
                             </div>
 
                             <div class="flex-container comf-border">
-                                <img class="icon-width" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>
+<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>-->
                                 <p class="comf-par text-white">Elegant living spaces, unparalleled exclusivity
                                     and utmost convenience in the middle
                                     of the city</p>
@@ -109,7 +109,7 @@ get_header(); ?>
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">East Bel-Air Residence</h4>
+                        <h4 class="fb-head no-bottom text-green">East Bel-Air Residence</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
                         <p class="fb-cont">The complex strategically located at the Cainta- Pasig corridor at the midpoint of the highly commercial Felix Avenue and near the giant Sta.Lucia Mall.</p>
@@ -119,23 +119,16 @@ get_header(); ?>
 
                     <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">Birmingham Project</h4>
+                        <h4 class="fb-head no-bottom text-green">Birmingham Project</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
-                        <p class="fb-cont">Purdue University</p>
-                        <p class="fb-cont">NC State University</p>
-                        <p class="fb-cont">Campbell University</p>
-                        <p class="fb-cont">Duke University</p>
-                        <p class="fb-cont">University of Georgia</p>
-                        <p class="fb-cont">University of North Carolina</p>
-                        <p class="fb-cont">Elizabeth City State University</p>
-                        <p class="fb-cont">Oakwood University</p>
-                        <p class="fb-cont">Shaw University</p>
+                        <p class="fb-cont">There has never been a better time to buy a new house and lot.  HDC-Birmingham subdivisions offers a very affordable house and lot for sale and we would be honored to assist you.</p>
+
 
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
-                        <h4 class="fb-head no-bottom">Palo Alto</h4>
+                        <h4 class="fb-head no-bottom text-green">Palo Alto</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
                         <p class="fb-cont">Palo Alto at the boundary of Antipolo/ Baras and Tanay leisure farm & residental resort with water falls and forest reserves.</p>
