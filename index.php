@@ -41,7 +41,7 @@ get_header(); ?>
                     </p>
                 </div>
                 <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                    <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+                    <h3 class="mtop-50 darkgreen-btn-1 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
                 </a>
             </div>
         </div>
@@ -108,7 +108,7 @@ get_header(); ?>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/massive-ic.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">East Bel-Air Residence</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
@@ -118,7 +118,7 @@ get_header(); ?>
                     </div>
 
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/flexible-ic.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/birmingham-project.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">Birmingham Project</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
@@ -127,7 +127,7 @@ get_header(); ?>
 
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/easy-ic.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/palo-alto.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">Palo Alto</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
@@ -138,7 +138,7 @@ get_header(); ?>
                 </div>
             </div>
             <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">
-                <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+                <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
             </a>
         </div>
     </section>
@@ -217,9 +217,9 @@ get_header(); ?>
 
     <section class="remove-gray change-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
-            <h2 class="change-head">Inspire you Students <span class="text-white extra-bold">and Staff Today!</span></h2>
+            <h2 class="change-head text-green">Change <span class="text-white extra-bold">Your Life Today!</span></h2>
             <a href="https://freefxcourse.com/contact/">
-                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book Dr. Mabry</h3>
+                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
             </a>
             <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
         </div>

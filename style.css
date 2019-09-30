@@ -4367,127 +4367,67 @@ blockquote:after {
     color: #fff;
 }
 
-.darkgreen-btn{
-    color: #000!important;
-    text-align: center;
-    font-size: 15px;
-    background-color: #15a74b;
-    width: 53%;
-    /*margin: 0 auto;*/
-    border-radius: 35px;
-    /*padding: 5px 10px;*/
-}
-
-@media (max-width: 1130px){
-    .darkgreen-btn {
-        width: 30%;
-    }}
-
-@media (max-width: 900px){
-    .darkgreen-btn {
-        width: 40%;
-    }}
-
-@media (max-width: 800px){
-    .darkgreen-btn {
-        width: 60%;
-    }}
-
-@media (max-width: 720px){
-    .darkgreen-btn {
-        width: 75%;
-    }}
-
-@media (max-width: 700px){
-    .darkgreen-btn {
-        width: 50%;
-        margin: 0 auto;
-    }}
-
-@media (max-width: 560px){
-    .darkgreen-btn {
-        width: 65%;
-        margin: 0 auto;
-    }}
-
-@media (max-width: 470px){
-    .darkgreen-btn {
-        width: 75%;
-        margin: 0 auto;
-    }}
-
-@media (max-width: 410px){
-    .darkgreen-btn {
-        width: 90%;
-        margin: 0 auto;
-    }}
 
 
-
-
-
-
-.darkgreen-btn1{
+.darkgreen-btn-1{
     color: #000;
     text-align: center;
-    font-size: 15px;
-    background-color: #fc9e20;
-    width: 53%;
-    /*margin: 0 auto;*/
+    font-size: 17px;
+    background-color: #15a74b;
     border-radius: 35px;
-    /*padding: 5px 10px;*/
+    margin: 0;
+    width: 40%;
 }
 
-@media (max-width: 1130px){
-    .darkgreen-btn1 {
+
+@media (max-width: 991px){
+    .darkgreen-btn-1 {
+        width: 50%;
+    }}
+
+
+@media (max-width: 882px){
+    .darkgreen-btn-1 {
         width: 60%;
     }}
 
-@media (max-width: 1000px){
-    .darkgreen-btn1 {
-        width: 35%;
-    }}
 
 @media (max-width: 750px){
-    .darkgreen-btn1 {
-        width: 45%;
+    .darkgreen-btn-1 {
+        margin: 0 auto;
+        width: 80%;
     }}
 
 
 @media (max-width: 700px){
-    .darkgreen-btn1 {
+    .darkgreen-btn-1 {
         margin: 0 auto;
-        width: 60%;
+        width: 50%;
     }}
 
 @media (max-width: 600px){
-    .darkgreen-btn1 {
+    .darkgreen-btn-1 {
+        margin: 0 auto;
+        width: 60%;
+    }}
+
+@media (max-width: 520px){
+    .darkgreen-btn-1 {
         margin: 0 auto;
         width: 70%;
     }}
 
-@media (max-width: 520px){
-    .darkgreen-btn1 {
+@media (max-width: 420px){
+    .darkgreen-btn-1 {
         margin: 0 auto;
-        width: 85%;
+        width: 90%;
     }}
 
-@media (max-width: 470px){
-    .darkgreen-btn1 {
-        margin: 0 auto;
-        width: 95%;
-    }}
-
-@media (max-width: 440px){
-    .darkgreen-btn1 {
+@media (max-width: 400px){
+    .darkgreen-btn-1 {
         margin: 0 auto;
         width: 100%;
-        font-size: 12px;
-        padding: 5px;
     }}
-
-
-
 
 
 .darkgreen-btn-2{
@@ -4496,18 +4436,20 @@ blockquote:after {
     font-size: 17px;
     background-color: #15a74b;
     border-radius: 35px;
-    margin: 0 auto;
-    width: 30%;
+    margin: 0;
+    width: 60%;
 }
 
-@media (max-width: 1165px){
-    .darkgreen-btn-2 {
-        width: 50%;
-    }}
+ss
 
-@media (max-width: 970px){
+@media (max-width: 1040px){
     .darkgreen-btn-2 {
         width: 60%;
+    }}
+
+@media (max-width: 1000px){
+    .darkgreen-btn-2 {
+        width: 40%;
     }}
 
 @media (max-width: 800px){
@@ -4517,7 +4459,7 @@ blockquote:after {
 
 @media (max-width: 750px){
     .darkgreen-btn-2 {
-        width: 70%;
+        width: 40%;
     }}
 
 @media (max-width: 700px){
@@ -4526,31 +4468,15 @@ blockquote:after {
         margin: 0 auto;
     }}
 
-@media (max-width: 600px){
+@media (max-width: 500px){
     .darkgreen-btn-2 {
-        width: 80%;
+        width: 70%;
     }}
 
 @media (max-width: 400px){
     .darkgreen-btn-2 {
         width: 100%;
     }}
-
-/*@media (max-width: 455px){*/
-    /*.darkgreen-btn-2 {*/
-        /*width: 100%;*/
-    /*}}*/
-
-/*@media (max-width: 400px){*/
-    /*.darkgreen-btn-2 {*/
-        /*width: 90%;*/
-    /*}}*/
-
-/*@media (max-width: 525px){*/
-    /*.darkgreen-btn-2 {*/
-        /*width: 50%!important;*/
-    /*}}*/
-
 
 
 
@@ -4781,7 +4707,7 @@ blockquote:after {
 
 
 .footer-cont{
-    background-color: #181818;
+    background: url("assets/images/footer-bg.jpg");
 }
 
 @media (max-width: 842px){
@@ -5302,7 +5228,7 @@ blockquote:after {
 }
 
 .change-box{
-    background: url("assets/images/getnow-bg.jpg");
+    background: url("assets/images/changelife-banner.jpg");
     margin-top: -22px!important;
 }
 
