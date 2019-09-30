@@ -4719,7 +4719,7 @@ ss
 }
 
 .footer-cont .footer-top{
-    padding: 30px;
+    padding: 15px 0px 10px 0px;
     border-bottom: 3px solid #ddd;
 }
 
@@ -4769,13 +4769,19 @@ ss
 /*margin-left: 4rem;*/
 /*}*/
 
+.footer-text-logo{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 800
+}
+
 .line-divider{
     padding-bottom: 18px;
     border-bottom: 4px solid #DDD;
 }
 
 .footer-head{
-    color: #fba419;
+    color: #15a74b;
     font-size: 13px;
     font-weight: 800;
 }
@@ -5380,6 +5386,10 @@ ss
         max-width: 1200px;
         margin: 0 auto;
     }
+}
+
+.maxwidth-1200-footer{
+    padding-bottom: 15px;
 }
 
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -10,7 +10,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1569831191884" ignored="false" />
     <file path="/index.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1569836835288" ignored="false" />
-    <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1569837190321" ignored="false" />
+    <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1569840391168" ignored="false" />
+    <file path="/footer.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1569840450211" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="26" selection-start="8769" selection-end="8769" vertical-scroll-proportion="-4.2156863">
+            <state line="107" column="12" selection-start="6454" selection-end="6454" vertical-scroll-proportion="-3.509804">
               <folding>
                 <element signature="e#587#670#0" expanded="true" />
                 <element signature="e#9834#9861#0" expanded="true" />
@@ -48,10 +49,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="95" selection-start="655" selection-end="655" vertical-scroll-proportion="0.27175844">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4713" column="18" selection-start="96278" selection-end="96278" vertical-scroll-proportion="0.48404256">
+            <state line="5397" column="1" selection-start="104916" selection-end="104916" vertical-scroll-proportion="-16.36">
               <folding />
             </state>
           </provider>
@@ -78,6 +88,7 @@
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/footer.php" />
       </list>
     </option>
   </component>
@@ -158,7 +169,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -241,13 +252,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5096" column="0" selection-start="101606" selection-end="101614" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="38" selection-start="1586" selection-end="1586" vertical-scroll-proportion="0.0">
@@ -380,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="26" selection-start="8769" selection-end="8769" vertical-scroll-proportion="-4.2156863">
+        <state line="107" column="12" selection-start="6454" selection-end="6454" vertical-scroll-proportion="-3.509804">
           <folding>
             <element signature="e#587#670#0" expanded="true" />
             <element signature="e#9834#9861#0" expanded="true" />
@@ -396,7 +400,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4713" column="18" selection-start="96278" selection-end="96278" vertical-scroll-proportion="0.48404256">
+        <state line="5397" column="1" selection-start="104916" selection-end="104916" vertical-scroll-proportion="-16.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="95" selection-start="655" selection-end="655" vertical-scroll-proportion="0.27175844">
           <folding />
         </state>
       </provider>

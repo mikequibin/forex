@@ -14,36 +14,34 @@
 <footer class="footer-cont">
     <div class="maxwidth-1200 maxwidth-1200-footer">
         <div class="footer-top">
-            <a href="https://www.freefxcourse.com/"><img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/nehemiah-textlato1.png" alt=""/></a>
-            
+<!--            <a href="https://www.freefxcourse.com/"><img class="footer-logo" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/nehemiah-textlato1.png" alt=""/></a>-->
+            <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-text-logo">PILIPINAS PROPERTY FOR SALE</h5></a>
         </div>
 
         <div class="flex-container ptop-20 leftright-4">
-            <div class="row__35 mobile-fullwidth">
+            <div class="row__25 mobile-fullwidth text-center">
                 <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
                 <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-sub">Who are We</h5></a>
                 
             </div>
 
-            <div class="row__35 mobile-fullwidth">
+            <div class="row__25 mobile-fullwidth text-center">
                 <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-head">CONTACT US</h5></a>
                 <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-sub">Talk to Us</h5></a>
                 <a class="" href="https://www.freefxcourse.com/contact/"><h5 class=" footer-sub mb-mobile">Support Team</h5></a>
             </div>
 
-            <div class="row__35 mobile-fullwidth">
-                <div class="mright-20 mr-mobile">
-                    <div>
-                        <a href="https://www.stemedia.org/"><h5 class="mbottom-5 footer-sub"><img class="text-image mobile-off" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/web-ic.png" alt=""/> www.stemedia.org</h5></a>
-                    </div>
-					<div class="">
-                    <a href="https://www.facebook.com/STEM.Media/"><img class="pright-15" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fb-logo.png" alt=""/></a>
-                    <a class="float-right" href="https://twitter.com/_stemedia/"><img  src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-logo.png" alt=""/></a>
+            <div class="row__25 mobile-fullwidth text-center">
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-head">PROJECTS</h5></a>
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-sub">Residential</h5></a>
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-sub">House and Lot</h5></a>
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-sub">Condominuims</h5></a>
             </div>
 
-                   
-                </div>
+            <div class="row__25 mobile-fullwidth text-center">
+                <a href="https://www.freefxcourse.com/contact/"><h5 class="mbottom-5  footer-head">BOOK A TRIPPING NOW!</h5></a>
             </div>
+
         </div>
     </div>
 
