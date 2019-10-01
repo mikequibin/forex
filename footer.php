@@ -21,7 +21,7 @@
         <div class="flex-container ptop-20 leftright-4">
             <div class="row__25 mobile-fullwidth text-center">
                 <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
-                <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-sub">Who are We</h5></a>
+                <a href="https://stemedia.org/about"><h5 class="mbottom-5  footer-sub">About Me</h5></a>
                 
             </div>
 
@@ -46,7 +46,7 @@
     </div>
 
     <div class="copyright-sect">
-        <h5 class="copyright-text text-center">© 2019 WWW.STEMEDIA.ORG | ALL RIGHTS RESERVED | DEVELOPER&lt;MIKE QUIBIN/&gt; </h5>
+        <h5 class="copyright-text text-center">© 2019 WWW.PILIPINASPROPERTYFORSALE.COM | ALL RIGHTS RESERVED | DEVELOPER&lt;MIKE QUIBIN/&gt; </h5>
     </div>
 
 </footer>

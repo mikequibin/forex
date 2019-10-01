@@ -137,45 +137,78 @@ get_header(); ?>
                     </div>
                 </div>
             </div>
-            <a href="https://freefxcourse.com/contact/" class="shownewsletterbox">
+            <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
                 <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
             </a>
         </div>
     </section>
 
-    ﻿<section class="remove-gray review-nh">
-        <div class="maxwidth-1200 ptop-90 pbottom-90">
-            <div class="">
-                <div class="flex-container flex-formsec">
-                    <div class="row__50 mobile-width2">
+    <section class="comment-sec">
+        <div class="flex-container flexcom-mobile">
+            <div class="row__35 black-bg">
+                ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Our<br> <span class="extra-bold text-white">Client Say</h2>
+                <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-ic.png" alt=""/>
+               <div class="comment-div">
+                   <p class="cm-par ">Lorem ipsum dolor sit amet, consectetur adipiscing eli.</p>
+                   <p class="cm-par ">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                   <p class="cm-par text-white bold">E. HERNANDEZ</p>
+               </div>
 
-                    </div>
+                <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-ic.png" alt=""/>
+                <div class="comment-div">
 
-                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-blue">What they are Saying</h2>
-                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
-                        <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px;">Dr. Louis Martin-Vega<br>Dean of Engineering<br>North Carolina State University</h5>
-                            <p class="wb-par" style="color: #000!important;">“The impact of his creation, STEMedia, has been so significant that I invited Nehemiah [Dr. Mabry] to participate as a guest speaker at a 2013 presentation of the College of Engineering to the NC State Board of Trustees, a moment that not only resulted in a resounding standing ovation for this exceptional young man but also a testament to how his work inspires audiences of all ages.”</p>
-                        </div>
-                        <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">A. Monica Cutno<br>Co-Founder & Board Chair<br>Envision Science Academy</h5>
-                            <p class="wb-par" style="color: #000!important;">“Dr. Mabry kicked off our Career Day as keynote speaker where he engaged around 200 middle school students and numerous administrators and staff. His presentation was so motivational and encouraging, teachers and students sang his praises the entire day. Dr. Mabry’s presence at Envision Science Academy is critically important for our young scholars, as he is the epitome of STEAM (science, technology, engineering, arts, and mathematics).”</p>
-                        </div>
-                        <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">William Smith<br>Director of International Programs<br>Purdue University College of Veterinary Medicine</h5>
-                            <p class="wb-par">“Dr. Nehemiah Mabry, President of STEMedia, spoke to the Purdue Black Male Excellence Network today and did an excellent job in not only encouraging our young men to engineer their path to success but to find their "zone of genius". I think he would be of great value to your programs and college. When I come across inspirational and excellent content for our community, I like to pass it along.”</p>
-                        </div>
-                        <div style="color: #000!important;">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Summer Roberts<br>STEM Early College High School Teacher</h5>
-                            <p class="wb-par">“Thank you for your engaging presentation! I know it helped my students engage with and understand more about the power of wordplay and poetry. They also got to practice working as a team thanks to your interactive approach... your presentation and activities provided a great example of integrating the sciences and the arts.”</p>
-                        </div>
-                    </div>
-
+                    <p class="cm-par ">Lorem ipsum dolor sit amet, consectetur adipiscing eli.</p>
+                    <p class="cm-par ">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><p class="cm-par text-white bold">E. HERNANDEZ</p>
                 </div>
+            </div>
+
+            <div class="row__35 col-bg">
+            </div>
+
+            <div class="row__35 white-bg text-center">
+                <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-green.png" alt=""/>
+                <p class="cm-par text-black mtop-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p class="cm-par text-black">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="cm-par text-black">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="cm-par text-black bold">E. HERNANDEZ</p>
+                <img  class="mtop-30 slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-dots.png" alt=""/>
             </div>
         </div>
     </section>
+
+<!--    ﻿<section class="remove-gray review-nh">-->
+<!--        <div class="maxwidth-1200 ptop-90 pbottom-90">-->
+<!--            <div class="">-->
+<!--                <div class="flex-container flex-formsec">-->
+<!--                    <div class="row__50 mobile-width2">-->
+<!---->
+<!--                    </div>-->
+<!---->
+<!--                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">-->
+<!--                        <h2 class="wb-heading mobile-heading text-white mbottom-30"><span class="extra-bold text-blue">What they are Saying</h2>-->
+<!--                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>-->
+<!--                        <div class="comf-border">-->
+<!--                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px;">Dr. Louis Martin-Vega<br>Dean of Engineering<br>North Carolina State University</h5>-->
+<!--                            <p class="wb-par" style="color: #000!important;">“The impact of his creation, STEMedia, has been so significant that I invited Nehemiah [Dr. Mabry] to participate as a guest speaker at a 2013 presentation of the College of Engineering to the NC State Board of Trustees, a moment that not only resulted in a resounding standing ovation for this exceptional young man but also a testament to how his work inspires audiences of all ages.”</p>-->
+<!--                        </div>-->
+<!--                        <div class="comf-border">-->
+<!--                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">A. Monica Cutno<br>Co-Founder & Board Chair<br>Envision Science Academy</h5>-->
+<!--                            <p class="wb-par" style="color: #000!important;">“Dr. Mabry kicked off our Career Day as keynote speaker where he engaged around 200 middle school students and numerous administrators and staff. His presentation was so motivational and encouraging, teachers and students sang his praises the entire day. Dr. Mabry’s presence at Envision Science Academy is critically important for our young scholars, as he is the epitome of STEAM (science, technology, engineering, arts, and mathematics).”</p>-->
+<!--                        </div>-->
+<!--                        <div class="comf-border">-->
+<!--                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">William Smith<br>Director of International Programs<br>Purdue University College of Veterinary Medicine</h5>-->
+<!--                            <p class="wb-par">“Dr. Nehemiah Mabry, President of STEMedia, spoke to the Purdue Black Male Excellence Network today and did an excellent job in not only encouraging our young men to engineer their path to success but to find their "zone of genius". I think he would be of great value to your programs and college. When I come across inspirational and excellent content for our community, I like to pass it along.”</p>-->
+<!--                        </div>-->
+<!--                        <div style="color: #000!important;">-->
+<!--                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Summer Roberts<br>STEM Early College High School Teacher</h5>-->
+<!--                            <p class="wb-par">“Thank you for your engaging presentation! I know it helped my students engage with and understand more about the power of wordplay and poetry. They also got to practice working as a team thanks to your interactive approach... your presentation and activities provided a great example of integrating the sciences and the arts.”</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 
     <!--    <section>-->
     <!--        <div class="">-->
