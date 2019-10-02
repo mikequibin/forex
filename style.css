@@ -6422,3 +6422,79 @@ body {font-family: Verdana, sans-serif; margin:0}
     }}
 
 
+/*About*/
+
+.lrshadows {
+    box-shadow: 0 0 2.5em 0.5em rgba(0, 0, 0, 0.4);
+    margin-top: -10px;
+    background-color: #fbfbfb;
+}
+
+.lrpane {
+    max-width: 1140px;
+    min-width: 801px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.aboutpage {
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.top-30-about {
+    padding-top: 1.87rem;
+}
+
+.about-par {
+    font-size: 1.3rem;
+    color: #381e07!important;
+    font-weight: 400;
+}
+
+.about-title {
+    font-size: 28px;
+    margin: 0 auto;
+    /*text-align: left;*/
+    color: #966f34;
+    line-height: 41px;
+    font-weight: 800;
+    color: #15a74b;
+    text-transform: uppercase;
+}
+
+.row__50-mobile {
+    width: 50%;
+}
+
+.about-nehemiah {
+    margin-left: 50px;
+}
+
+.quote {
+    font-size: 1.75rem!important;
+    text-align: center;
+    font-weight: 300;
+    margin-right: 50px;
+    margin-top: -5%;
+}
+
+.about-sub {
+    color: #faa53f!important;
+    font-size: 1.25rem;
+}
+
+.about-line {
+    margin-left: -25px;
+    margin-top: 10px;
+}
+
+.quote-image {
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+.top-60 {
+    padding-top: 3.75rem;
+}
+
