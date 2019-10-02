@@ -48,10 +48,6 @@
                         <div class="module-group right">
                             <div class="module left">
                                 <?php shapely_header_menu(); // main navigation ?>
-                                
-                                <div class="stem-logo">
-                                    <a href="http://www.stemedia.org" target="_blank"><img src="https://www.freefxcourse.com/wp-content/themes/forex/assets/images/cropped-stem-logo.png"></a>
-                                </div>
                             </div>
 
                             <div class="module widget-handle search-widget-handle left hidden-xs hidden-sm">
@@ -64,9 +60,6 @@
                                     get_search_form(); ?>
                                 </div>
                             </div>
-                            
-                           
-                            
                         </div>
                     </div>
                 </div>
