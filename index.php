@@ -77,20 +77,19 @@ get_header(); ?>
                         <h4 class="text-white">Unit For Sale</h4>
                         <ul>
                             <div class="flex-container comf-border">
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left">-->
+                                <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left">
                                 <p class="comf-par text-white">Creates an exclusive community </p>
                             </div>
 
                             <div class="flex-container comf-border">
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>-->
+                                <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
                                 <p class="comf-par text-white">Secure, comfortable neighborhood imbued
                                     with a sense of tasteful living</p>
                             </div>
 
                             <div class="flex-container comf-border">
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>-->
-                                <p class="comf-par text-white">Elegant living spaces, unparalleled exclusivity
-                                    and utmost convenience in the middle
+                                <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">Utmost convenience in the middle
                                     of the city</p>
                             </div>
                         </ul>
@@ -104,11 +103,11 @@ get_header(); ?>
     ﻿<section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-green text-center">Featured <span class="text-black extra-bold">Projects</span></h2>
-            <p class="wb-par text-center bold">Condominium, House and Lot Philippines</p>
+            <p class="wb-par text-center bold">Condominium, House & Lot and Residential Resort For Sale</p>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo    get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">East Bel-Air Residence</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
 
