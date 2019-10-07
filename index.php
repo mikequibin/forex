@@ -21,7 +21,7 @@ get_header(); ?>
 <!--            <img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/nehemiah-textlato1.png" alt=""/>-->
         </div>
         <video autoplay muted loop class="fullvideo-container" poster="">
-            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">
+<!--            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">-->
         </video>
     </header>
 
