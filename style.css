@@ -1643,6 +1643,12 @@ nav {
     transition: background-color 0.5s ease;
 }
 
+@media (max-width: 991px) {
+    .menu li:hover {
+        background-color: #0f1c28;
+    }
+}
+
 .menu > li {
     text-transform: uppercase;
     text-align: left;
@@ -1659,7 +1665,12 @@ nav {
 	background-color: #15a74b;
 	padding: 7px;
     margin-top: -8px;
+}
 
+@media (max-width: 991px) {
+    .menu > li:last-child {
+        background-color: #0f1c28;
+    }
 }
 
 .menu > li:last-child a{
@@ -1794,6 +1805,15 @@ nav.fixed.scrolled {
 
 .nav-open .navbar-collapse, .nav-open #menu {
     display: block;
+}
+
+@media all and (max-width: 991px) {
+    .navbar-collapse {
+        background-color: #0f1c28;
+        padding-top: 20px;
+        width: 50%;
+
+    }
 }
 
 .module.widget-handle {
@@ -1992,7 +2012,7 @@ nav.fixed.scrolled {
     }
 
     .nav-bar, .nav-bar .module-group, .nav-bar .module {
-        height: auto;
+        height: 0;
     }
 
     .nav-bar .module {
@@ -6336,7 +6356,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 
 .nav-bar .row .right .left .collapse {
-	float: left;
+	float: right;
 }
 
 @media (max-width: 700px){
