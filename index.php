@@ -165,12 +165,12 @@ get_header(); ?>
             </div>
 
             <div class="row__35 white-bg text-center">
-                <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-green.png" alt=""/>
+                <img class=" code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-green.png" alt=""/>
                 <p class="cm-par text-black mtop-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <p class="cm-par text-black">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                 <p class="cm-par text-black">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <p class="cm-par text-black bold">E. HERNANDEZ</p>
-                <img  class="mtop-30 slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-dots.png" alt=""/>
+                <img  class="mtop-30  code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-dots.png" alt=""/>
             </div>
         </div>
     </section>

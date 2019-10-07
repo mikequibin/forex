@@ -4,7 +4,6 @@
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="116" column="26" selection-start="7176" selection-end="7176" vertical-scroll-proportion="0.55390334">
+            <state line="164" column="18" selection-start="10476" selection-end="10476" vertical-scroll-proportion="-3.8431373">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6175" column="40" selection-start="117698" selection-end="117698" vertical-scroll-proportion="-5.48">
+            <state line="5427" column="47" selection-start="105337" selection-end="105337" vertical-scroll-proportion="0.36347517">
               <folding />
             </state>
           </provider>
@@ -69,8 +68,8 @@
       <list>
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -324,16 +323,16 @@
         <state line="12" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.120781526" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6175" column="40" selection-start="117698" selection-end="117698" vertical-scroll-proportion="-5.48">
+        <state line="164" column="18" selection-start="10476" selection-end="10476" vertical-scroll-proportion="-3.8431373">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="26" selection-start="7176" selection-end="7176" vertical-scroll-proportion="0.55390334">
+        <state line="5427" column="47" selection-start="105337" selection-end="105337" vertical-scroll-proportion="0.36347517">
           <folding />
         </state>
       </provider>
