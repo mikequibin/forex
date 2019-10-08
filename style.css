@@ -5073,6 +5073,10 @@ blockquote:after {
     margin-bottom: 5px;
 }
 
+.ptop-50{
+    padding-top: 50px;
+}
+
 
 .ptop-40{
     padding-top: 40px;
@@ -6445,6 +6449,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 /*About*/
 
+.ppfs-about{
+    width: 100%;
+}
+
 .lrshadows {
     box-shadow: 0 0 2.5em 0.5em rgba(0, 0, 0, 0.4);
     margin-top: -10px;
@@ -6488,8 +6496,10 @@ body {font-family: Verdana, sans-serif; margin:0}
     width: 50%;
 }
 
-.about-nehemiah {
-    margin-left: 50px;
+.sales-director {
+    margin-left: 100px;
+    border: 10px solid #15a74b;
+    width: 70%;
 }
 
 .quote {
@@ -6501,7 +6511,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .about-sub {
-    color: #faa53f!important;
+    color: #000!important;
     font-size: 1.25rem;
 }
 
@@ -6513,6 +6523,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 .quote-image {
     margin-top: 15%;
     margin-left: 40%;
+    margin-bottom: 30px;
 }
 
 .top-60 {
