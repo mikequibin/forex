@@ -71,7 +71,7 @@ footer{
 }
 
 .header {
-    background: url("assets/images/ppfs-banner.jpg") no-repeat center;
+    background: url("assets/images/ppfs1-banner.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1643,6 +1643,12 @@ nav {
     transition: background-color 0.5s ease;
 }
 
+@media (max-width: 991px) {
+    .menu li:hover {
+        background-color: #0f1c28;
+    }
+}
+
 .menu > li {
     text-transform: uppercase;
     text-align: left;
@@ -1659,7 +1665,12 @@ nav {
 	background-color: #15a74b;
 	padding: 7px;
     margin-top: -8px;
+}
 
+@media (max-width: 991px) {
+    .menu > li:last-child {
+        background-color: #0f1c28;
+    }
 }
 
 .menu > li:last-child a{
@@ -1794,6 +1805,15 @@ nav.fixed.scrolled {
 
 .nav-open .navbar-collapse, .nav-open #menu {
     display: block;
+}
+
+@media all and (max-width: 991px) {
+    .navbar-collapse {
+        background-color: #0f1c28;
+        padding-top: 20px;
+        width: 50%;
+
+    }
 }
 
 .module.widget-handle {
@@ -1992,7 +2012,7 @@ nav.fixed.scrolled {
     }
 
     .nav-bar, .nav-bar .module-group, .nav-bar .module {
-        height: auto;
+        height: 0;
     }
 
     .nav-bar .module {
@@ -4328,7 +4348,7 @@ blockquote:after {
     font-size: 1.3rem;
     color: #381e07!important;
     font-weight: 400;
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     /* padding: 33px 0; */
     /* padding-bottom: 10px; */
@@ -4345,10 +4365,10 @@ blockquote:after {
         font-size: 1rem;
     }}
 
-@media (max-width: 500px){
-    .icon-width {
-        width: 30%;
-    }}
+/*@media (max-width: 500px){*/
+    /*.icon-width {*/
+        /*width: 30%;*/
+    /*}}*/
 
 .cm-par{
     font-size: 1rem;
@@ -5053,6 +5073,10 @@ blockquote:after {
     margin-bottom: 5px;
 }
 
+.ptop-50{
+    padding-top: 50px;
+}
+
 
 .ptop-40{
     padding-top: 40px;
@@ -5425,7 +5449,7 @@ blockquote:after {
 }
 
 .financial-diamond{
-background: url("assets/images/property-diamond4.jpg") no-repeat center;
+background: url("assets/images/property-diamond.jpg") no-repeat center;
 }
 
 @media (max-width: 700px){
@@ -6176,8 +6200,9 @@ body {font-family: Verdana, sans-serif; margin:0}
     .prev, .next,.text {font-size: 11px}
 }
 
-.icon-width{
-    height: 80px;
+.green-icon{
+    height: 50px;
+    margin-top: 10px;
 }
 
 /*HIDDEN*/
@@ -6335,7 +6360,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 
 .nav-bar .row .right .left .collapse {
-	float: left;
+	float: right;
 }
 
 @media (max-width: 700px){
@@ -6424,6 +6449,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 /*About*/
 
+.ppfs-about{
+    width: 100%;
+}
+
 .lrshadows {
     box-shadow: 0 0 2.5em 0.5em rgba(0, 0, 0, 0.4);
     margin-top: -10px;
@@ -6467,8 +6496,10 @@ body {font-family: Verdana, sans-serif; margin:0}
     width: 50%;
 }
 
-.about-nehemiah {
-    margin-left: 50px;
+.sales-director {
+    margin-left: 100px;
+    border: 10px solid #15a74b;
+    width: 70%;
 }
 
 .quote {
@@ -6480,7 +6511,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .about-sub {
-    color: #faa53f!important;
+    color: #000!important;
     font-size: 1.25rem;
 }
 
@@ -6492,6 +6523,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 .quote-image {
     margin-top: 15%;
     margin-left: 40%;
+    margin-bottom: 30px;
 }
 
 .top-60 {

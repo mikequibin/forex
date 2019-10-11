@@ -21,7 +21,7 @@ get_header(); ?>
 <!--            <img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/nehemiah-textlato1.png" alt=""/>-->
         </div>
         <video autoplay muted loop class="fullvideo-container" poster="">
-            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">
+<!--            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">-->
         </video>
     </header>
 
@@ -47,55 +47,47 @@ get_header(); ?>
         </div>
     </section>
 
-    ﻿<section class="remove-gray comfy-life">
+    ?<section class="remove-gray comfy-life">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Your Comfortable<br> <span class="extra-bold text-white">Life Awaits</h2>
-
+                        ?<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Your Comfortable<br> <span class="extra-bold text-white">Life Awaits</h2>
                         <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                         <p class="wb-par text-white">
                             With great establishments and city necessities within
                             comfortable reach, Mega East  fulfills the needs of its growing community of diverse residents in its towering apartments
                             for resale or rent.
                         </p>
-
                         <p class="wb-par text-white">
                             The exclusive Mega East community, which includes businessmen, corporate executives, families, and students enjoy premium living spaces with world-class condominium
                             amenities – from the fully equipped fitness centers,
                             outdoor lap and kiddie pools, to its prominent lifestyle
                             hubs.
                         </p>
-
                         <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
                             <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
                         </a>
                     </div>
-
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 mleft-10 mtop-40">
                         <h4 class="text-white">Unit For Sale</h4>
                         <ul>
                             <div class="flex-container comf-border">
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left">-->
+                                <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left">
                                 <p class="comf-par text-white">Creates an exclusive community </p>
                             </div>
-
                             <div class="flex-container comf-border">
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>-->
+                                <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
                                 <p class="comf-par text-white">Secure, comfortable neighborhood imbued
                                     with a sense of tasteful living</p>
                             </div>
-
                             <div class="flex-container comf-border">
-<!--                                <img class="icon-width" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/checklist.png" style="" alt="" data-aos="fade-left"/>-->
-                                <p class="comf-par text-white">Elegant living spaces, unparalleled exclusivity
-                                    and utmost convenience in the middle
+                                <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
+                                <p class="comf-par text-white">Utmost convenience in the middle
                                     of the city</p>
                             </div>
                         </ul>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -104,42 +96,62 @@ get_header(); ?>
     ﻿<section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-green text-center">Featured <span class="text-black extra-bold">Projects</span></h2>
-            <p class="wb-par text-center bold">Condominium, House and Lot Philippines</p>
+            <p class="wb-par text-center bold">Condominium, House & Lot and Residential Resort For Sale</p>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/>
+                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo    get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">East Bel-Air Residence</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
                         <p class="fb-cont">The complex strategically located at the Cainta- Pasig corridor at the midpoint of the highly commercial Felix Avenue and near the giant Sta.Lucia Mall.</p>
-
-
                     </div>
-
                     <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/birmingham-project.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">Birmingham Project</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
                         <p class="fb-cont">There has never been a better time to buy a new house and lot.  HDC-Birmingham subdivisions offers a very affordable house and lot for sale and we would be honored to assist you.</p>
-
-
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
                         <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/palo-alto.png" alt=""/>
                         <h4 class="fb-head no-bottom text-green">Palo Alto</h4>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
-
                         <p class="fb-cont">Palo Alto at the boundary of Antipolo/ Baras and Tanay leisure farm & residental resort with water falls and forest reserves.</p>
-
-
                     </div>
                 </div>
             </div>
             <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
                 <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
             </a>
+        </div>
+    </section>
+
+    <section class="remove-gray comfy-life">
+        <div class="maxwidth-1200 ptop-90 pbottom-90">
+            <div class="">
+                <div class="flex-container flex-formsec">
+                    <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
+                        <h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</span></h2>
+                        <p class="label-par  bold">Popular Speaking Topics</p>
+                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <ul>
+                            <div class="flex-container comf-border">
+                                <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">
+                                <p class="comf-par text-white">Student Success &amp; Perseverance</p>
+                            </div>
+
+                            <div class="flex-container comf-border">
+                                <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-2.png" style="" alt="" data-aos="fade-left">
+                                <p class="comf-par text-white">STEM + Arts &amp; Creativity</p>
+                            </div>
+
+                            <div class="flex-container comf-border">
+                                <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-3.png" style="" alt="" data-aos="fade-left">
+                                <p class="comf-par text-white">STEM/STEAM Leadership Development</p>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -166,12 +178,12 @@ get_header(); ?>
             </div>
 
             <div class="row__35 white-bg text-center">
-                <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-green.png" alt=""/>
+                <img class=" code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-green.png" alt=""/>
                 <p class="cm-par text-black mtop-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <p class="cm-par text-black">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                 <p class="cm-par text-black">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <p class="cm-par text-black bold">E. HERNANDEZ</p>
-                <img  class="mtop-30 slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-dots.png" alt=""/>
+                <img  class="mtop-30  code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-dots.png" alt=""/>
             </div>
         </div>
     </section>
