@@ -1810,7 +1810,6 @@ nav.fixed.scrolled {
 @media all and (max-width: 991px) {
     .navbar-collapse {
         background-color: #0f1c28;
-        padding-top: 20px;
         width: 50%;
 
     }
@@ -2051,6 +2050,7 @@ nav.fixed.scrolled {
         display: block;
         width: 100%;
         max-width: 100%;
+        text-align: center;
     }
 
     .menu > li ul {
@@ -4750,12 +4750,18 @@ blockquote:after {
     border-bottom: 3px solid #ddd;
 }
 
-@media (max-width: 842px){
+@media (max-width: 1225px){
     .footer-cont .footer-top{
-  		padding-bottom: 0;
-		border-bottom: none;
+        margin: 0 40px;
     }
 }
+
+/*@media (max-width: 842px){*/
+    /*.footer-cont .footer-top{*/
+  		/*padding-bottom: 0;*/
+		/*border-bottom: none;*/
+    /*}*/
+/*}*/
 
 @media (max-width: 462px){
     .footer-cont .footer-top {
@@ -4778,7 +4784,7 @@ blockquote:after {
 
 @media (max-width: 842px){
     .footer-cont .flex-container.ptop-20.leftright-4{
-        display:block;
+        margin: 0 0rem;
     }
 
     .mobile-fullwidth{
@@ -4790,6 +4796,20 @@ blockquote:after {
         display: none;
     }
 }
+
+@media (max-width: 512px){
+    .footer-cont .flex-container.ptop-20.leftright-4{
+        display: block;
+    }
+}
+
+
+@media (max-width: 512px){
+    .mbotom-mobile-15{
+        margin-bottom: 30px;
+    }
+}
+
 
 /*.footer-divider{*/
 /*width: 85%;*/
@@ -5451,6 +5471,11 @@ blockquote:after {
 .financial-diamond{
 background: url("assets/images/property-diamond.jpg") no-repeat center;
 }
+
+@media (max-width: 991px){
+    .financial-diamond {
+        background: url("assets/images/propertydiamond-mobile.jpg") no-repeat center;
+    }}
 
 @media (max-width: 700px){
     .financial-diamond {
@@ -6424,7 +6449,7 @@ body {font-family: Verdana, sans-serif; margin:0}
     padding: 40px 50px 30px;
 }}
 
-@media (max-width: 1016px){s
+@media (max-width: 1016px){
     #site-navigation .module.left{
         margin-left: 0;
     }}
@@ -6470,6 +6495,36 @@ body {font-family: Verdana, sans-serif; margin:0}
     margin-left: 25px;
     margin-right: 10px;
 }
+
+@media (max-width: 1125px){
+    .aboutpage {
+        margin:  0 25px;
+    }}
+
+@media (max-width: 780px){
+    .aboutpage {
+        margin-left: 25px;
+        margin-right: 70px;
+    }}
+
+@media (max-width: 749px){
+    .aboutpage {
+        margin-left: 25px;
+        margin-right: 125px;
+    }}
+
+@media (max-width: 680px){
+    .aboutpage {
+        width: 70%;
+    }}
+
+@media (max-width: 590px){
+    .aboutpage {
+        width: 55%;
+        text-align: center;
+    }}
+
+
 
 .top-30-about {
     padding-top: 1.87rem;
