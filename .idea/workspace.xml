@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571019721354" ignored="false" />
     <file path="/index.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571022581103" ignored="false" />
-    <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571030258049" ignored="false" />
+    <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571039355467" ignored="false" />
     <file path="/footer.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571026237484" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6522" column="17" selection-start="122684" selection-end="122684" vertical-scroll-proportion="0.75886524">
+            <state line="6514" column="16" selection-start="122573" selection-end="122573" vertical-scroll-proportion="0.5744681">
               <folding />
             </state>
           </provider>
@@ -359,7 +356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6522" column="17" selection-start="122684" selection-end="122684" vertical-scroll-proportion="0.75886524">
+        <state line="6514" column="16" selection-start="122573" selection-end="122573" vertical-scroll-proportion="0.5744681">
           <folding />
         </state>
       </provider>

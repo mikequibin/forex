@@ -6492,8 +6492,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .aboutpage {
-    margin-left: 25px;
-    margin-right: 10px;
+    max-width: 1000px;
+    margin: 0 auto;
+    /*margin-left: 25px;*/
+    /*margin-right: 10px;*/
 }
 
 @media (max-width: 1125px){
@@ -6504,23 +6506,23 @@ body {font-family: Verdana, sans-serif; margin:0}
 @media (max-width: 780px){
     .aboutpage {
         margin-left: 25px;
-        margin-right: 70px;
+        width: 90%;
     }}
 
-@media (max-width: 749px){
+@media (max-width: 750px){
     .aboutpage {
         margin-left: 25px;
-        margin-right: 125px;
+        width: 80%;
     }}
 
-@media (max-width: 680px){
-    .aboutpage {
-        width: 70%;
-    }}
+/*@media (max-width: 680px){*/
+    /*.aboutpage {*/
+        /*width: 70%;*/
+    /*}}*/
 
 @media (max-width: 590px){
     .aboutpage {
-        width: 55%;
+        /*width: 95%;*/
         text-align: center;
     }}
 
@@ -6581,7 +6583,38 @@ body {font-family: Verdana, sans-serif; margin:0}
     margin-bottom: 30px;
 }
 
+@media (max-width: 770px){
+    .quote-image {
+        margin-top: 0%;
+        margin-left: 45%;
+        margin-bottom: 30px;
+    }
+
+}
+
 .top-60 {
     padding-top: 3.75rem;
 }
+
+
+@media (max-width: 770px){
+    .flexabout-mobile{
+    display: block;
+    }
+}
+
+@media (max-width: 770px){
+    .sales-director-mobile{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 770px){
+    .quote-about-mobile{
+        width: 100%;
+    }
+}
+
+
 
