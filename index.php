@@ -130,9 +130,9 @@ get_header(); ?>
             <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        <h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</span></h2>
+                        <h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</span></h2>
                         <p class="label-par  bold">Popular Speaking Topics</p>
-                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <p><img class="" src="http://localhost/devmike/wp-content/themes/forex/assets/images/green-separator.png" alt=""></p>
                         <ul>
                             <div class="flex-container comf-border">
                                 <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">

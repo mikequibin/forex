@@ -6299,7 +6299,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .label-par{
 	font-size: 1.3rem;
-	color: #fc9e20;
+	color: #15a74b;
 }
 
 .width-90{
@@ -6457,7 +6457,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .col-bg{
-    background: url("assets/images/thumbsup-ic.png");
+    background: url("assets/images/client-revie.png");
 }
 
 
@@ -6515,13 +6515,13 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .lrpane {
     max-width: 1140px;
-    min-width: 801px;
+    /*min-width: 801px;*/
     width: auto;
     margin: 0 auto;
 }
 
 .aboutpage {
-    max-width: 1000px;
+    max-width: 1090px;
     margin: 0 auto;
     /*margin-left: 25px;*/
     /*margin-right: 10px;*/
@@ -6535,13 +6535,13 @@ body {font-family: Verdana, sans-serif; margin:0}
 @media (max-width: 780px){
     .aboutpage {
         margin-left: 25px;
-        width: 90%;
+        /*width: 90%;*/
     }}
 
 @media (max-width: 750px){
     .aboutpage {
         margin-left: 25px;
-        width: 80%;
+        /*width: 80%;*/
     }}
 
 /*@media (max-width: 680px){*/
@@ -6552,7 +6552,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 @media (max-width: 590px){
     .aboutpage {
         /*width: 95%;*/
-        text-align: center;
+        /*text-align: center;*/
     }}
 
 
@@ -6588,6 +6588,15 @@ body {font-family: Verdana, sans-serif; margin:0}
     width: 70%;
 }
 
+@media (max-width: 770px){
+    .sales-director {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+}
+
 .quote {
     font-size: 1.75rem!important;
     text-align: center;
@@ -6621,6 +6630,14 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 }
 
+@media (max-width: 375px){
+    .quote-image {
+        margin-top: 0%;
+        margin-left: 40%;
+        margin-bottom: 30px;
+    }
+}
+
 .top-60 {
     padding-top: 3.75rem;
 }
@@ -6634,7 +6651,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 @media (max-width: 770px){
     .sales-director-mobile{
-        width: 80%;
+        width: 56%;
         margin: 0 auto;
     }
 }

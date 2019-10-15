@@ -9,8 +9,8 @@
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571109245935" ignored="false" />
-    <file path="/index.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571111996902" ignored="false" />
-    <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571112019404" ignored="false" />
+    <file path="/index.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571114394036" ignored="false" />
+    <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571118396854" ignored="false" />
     <file path="/footer.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1571026237484" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,19 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="0" selection-start="8989" selection-end="8990" vertical-scroll-proportion="0.14312267">
+            <state line="137" column="25" selection-start="9812" selection-end="9812" vertical-scroll-proportion="-3.8431373">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6317" column="18" selection-start="119728" selection-end="119728" vertical-scroll-proportion="-23.84">
+            <state line="6597" column="1" selection-start="123784" selection-end="123784" vertical-scroll-proportion="0.27304965">
               <folding />
             </state>
           </provider>
@@ -78,8 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -335,16 +335,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6317" column="18" selection-start="119728" selection-end="119728" vertical-scroll-proportion="-23.84">
+        <state line="137" column="25" selection-start="9812" selection-end="9812" vertical-scroll-proportion="-3.8431373">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="0" selection-start="8989" selection-end="8990" vertical-scroll-proportion="0.14312267">
+        <state line="6597" column="1" selection-start="123784" selection-end="123784" vertical-scroll-proportion="0.27304965">
           <folding />
         </state>
       </provider>
