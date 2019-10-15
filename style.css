@@ -6605,6 +6605,11 @@ body {font-family: Verdana, sans-serif; margin:0}
     margin-top: -5%;
 }
 
+@media (max-width: 375px){
+    .quote {
+        margin-right: 20px;
+    }}
+
 .about-sub {
     color: #000!important;
     font-size: 1.25rem;
@@ -6613,6 +6618,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 .about-line {
     margin-left: -25px;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .quote-image {
