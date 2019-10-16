@@ -1981,7 +1981,7 @@ nav.fixed.scrolled {
 }
 
 .menu > li > ul li a:hover, .dropdown-menu > .active > a:hover {
-    background: #745cf9;
+    background: #15a74b;
     color: #fff;
 }
 
@@ -5388,7 +5388,7 @@ blockquote:after {
 }
 
 .text-black{
-    color: #000;
+    color: #000!important;
 }
 
 .text-white{
@@ -6669,4 +6669,32 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 
+/*PROJECT*/
+
+.project-des{
+    border: 3px solid green;
+    margin-left: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-right: 25px;
+}
+
+.project-btn{
+    color: #000;
+    text-align: center;
+    font-size: 15px;
+    background-color: #15a74b;
+    width: 50%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.project-title{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.project-div{
+    margin-bottom: 15px;
+}
 
