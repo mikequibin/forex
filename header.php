@@ -40,7 +40,8 @@
                 <div class="nav-bar">
                     <div class="row">
                         <div class="module left site-title-container">
-                            <?php shapely_get_header_logo(); ?>
+                            <!-- <?php shapely_get_header_logo(); ?> -->
+                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/stalucia-logo" style="height: 55px;" alt="" data-aos="fade-left">
                         </div>
                         <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                             <i class="fa fa-bars"></i>

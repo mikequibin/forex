@@ -611,7 +611,7 @@ textarea {
 --------------------------------------------------------------*/
 
 .navbar-fixed-top {
-	background-color: #0f1c28;
+	background-color: #000;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1622,7 +1622,7 @@ nav {
 .menu li a {
     text-transform: uppercase;
     color: white;
-    font-family: "Myriad Pro";
+    font-family: "Lato";
     letter-spacing: 2px;
     font-size: 0.8rem;
 }
@@ -1662,7 +1662,6 @@ nav {
 
 .menu > li:last-child {
     margin-right: 0;
-	background-color: #15a74b;
 	padding: 7px;
     margin-top: -8px;
 }
