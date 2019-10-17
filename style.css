@@ -71,7 +71,7 @@ footer{
 }
 
 .header {
-    background: url("assets/images/ppfs1-banner.jpg") no-repeat center;
+    background: url("assets/images/coron.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -611,12 +611,12 @@ textarea {
 --------------------------------------------------------------*/
 
 .navbar-fixed-top {
-	background-color: #000;
+	background-color: #222;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 2;
-	height: 55px;
+	height: 40px;
 }
 .navbar-fixed-top.scrolled {
     /*background-color: #23282d;*/
@@ -673,9 +673,7 @@ a:hover, a:active {
 .main-navigation li {
     float: left;
     position: relative;
-	padding-bottom: 5px;
-    margin-top: -8px;
-    padding-top: 9px;
+    margin-top: -9px;
 }
 
 .main-navigation a {
@@ -1566,9 +1564,10 @@ nav .btn, .nav-bar .btn {
     height: 40px;
     max-height: 40px;
     line-height: 40px;
-    max-width: 1390px;
+    max-width: 1150px;
     margin: 0 auto;
 }
+
 nav {
     /**border-bottom: 1px solid rgba(0, 0, 0, 0.1);**/
 }
@@ -1659,11 +1658,13 @@ nav {
     font-weight: 800;
     list-style: none;
 }
+.menu > li:first-child{
+    background-color: #0f0e0d;
+}
 
 .menu > li:last-child {
     margin-right: 0;
-	padding: 7px;
-    margin-top: -8px;
+    margin-top: -9px;
 }
 
 @media (max-width: 991px) {
@@ -1676,8 +1677,6 @@ nav {
     border-radius: 15px;
     /* line-height: 10px; */
     height: 39px;
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
 .menu > li ul {
@@ -1783,13 +1782,13 @@ nav.fixed {
 }
 
 nav.fixed {
-    position: fixed;
+    /* position: fixed; */
     visibility: hidden;
     opacity: 0;
 }
 
 nav.fixed.scrolled {
-    visibility: visible;
+    /* visibility: visible; */
     opacity: 1;
 }
 
@@ -4588,7 +4587,7 @@ blockquote:after {
 
 .forex-box{
     padding: 10px;
-    background-color: #fbfcd4;
+    background-color: #f0fef4;
     text-align: center;
     margin-left: 20px;
     margin-right: 20px;
@@ -6696,4 +6695,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 .project-div{
     margin-bottom: 15px;
 }
+
+.white-top{
+    height: 48px;
+    background-color: #eceae7;
+}
+
 

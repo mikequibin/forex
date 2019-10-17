@@ -24,7 +24,6 @@ get_header(); ?>
 <!--            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">-->
         </video>
     </header>
-
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
             <div class="row__60 ptop-20 row-60-mobile">
