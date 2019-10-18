@@ -6501,7 +6501,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 /*About*/
 
-.ppfs-about{
+.page-banner{
     width: 100%;
 }
 
@@ -6669,6 +6669,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 /*PROJECT*/
 
+.project-start{
+    margin: 45px 0 45px 0;
+}
+
 .project-des{
     border: 3px solid green;
     margin-left: 20px;
@@ -6676,6 +6680,15 @@ body {font-family: Verdana, sans-serif; margin:0}
     padding-top: 25px;
     padding-right: 25px;
 }
+
+.project-des1{
+    border: 3px solid green;
+    margin-right: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-right: 25px;
+}
+
 
 .project-btn{
     color: #000;
@@ -6685,15 +6698,17 @@ body {font-family: Verdana, sans-serif; margin:0}
     width: 50%;
     border-radius: 10px;
     margin: 0 auto;
+    font-weight: 700;
 }
 
 .project-title{
     font-size: 25px;
     margin-bottom: 10px;
+    font-weight: 700;
 }
 
 .project-div{
-    margin-bottom: 15px;
+    margin-top: 45px;
 }
 
 .white-top{
@@ -6701,4 +6716,6 @@ body {font-family: Verdana, sans-serif; margin:0}
     background-color: #eceae7;
 }
 
-
+.pro-height{
+    height: 300px;
+}
