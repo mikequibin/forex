@@ -46,7 +46,7 @@ get_header(); ?>
         </div>
     </section>
 
-    ?<section class="remove-gray comfy-life">
+    <section class="remove-gray comfy-life">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
@@ -201,9 +201,8 @@ get_header(); ?>
         </div>
     </section>
 
-<<<<<<< HEAD
-    <section class="remove-gray comfy-life">
-=======
+
+<!--    <section class="remove-gray comfy-life">-->
 
     <!-- <section class="remove-gray comfy-life2">
 >>>>>>> 166fcd710294a68d20c95c096fada42de21e4308
