@@ -19,19 +19,18 @@
         </div>
 
         <div class="flex-container ptop-20 leftright-4">
-            <div class="row__25 mobile-fullwidth text-center">
+            <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
                 <a href="https://pilipinaspropertyforsale/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
                 <a href="https://pilipinaspropertyforsale/about"><h5 class="mbottom-5  footer-sub">About</h5></a>
-                
             </div>
 
-            <div class="row__25 mobile-fullwidth text-center">
+            <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
                 <a href="https://pilipinaspropertyforsale/contact-us/"><h5 class="mbottom-5  footer-head">CONTACT US</h5></a>
                 <a href="https://pilipinaspropertyforsale/contact-us/"><h5 class="mbottom-5  footer-sub">Talk to Us</h5></a>
                 <a class="" href="https://pilipinaspropertyforsale/contact-us/"><h5 class=" footer-sub mb-mobile">Support Team</h5></a>
             </div>
 
-            <div class="row__25 mobile-fullwidth text-center">
+            <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
                 <a href="https://pilipinaspropertyforsale/projects/"><h5 class="mbottom-5  footer-head">PROJECTS</h5></a>
                 <a href="https://pilipinaspropertyforsale/projects/"><h5 class="mbottom-5  footer-sub">Residential</h5></a>
                 <a href="https://pilipinaspropertyforsale/projects/"><h5 class="mbottom-5  footer-sub">House and Lot</h5></a>

@@ -24,13 +24,12 @@ get_header(); ?>
 <!--            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">-->
         </video>
     </header>
-
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
             <div class="row__60 ptop-20 row-60-mobile">
                 ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-green">Your Financial</span><br> Investments<br> Begins Here</h2>
                 <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
-                <div class="width-90">
+                <div class="width-90 mobile-first-section">
                     <p class="wb-par">
                         Settle into the luxurious work-of-art by <span class="extra-bold">East Bel-Air.</span> A contemporary and comfortable home known for its distinctive blend of executive & exclusive living</p>
                     <p class="wb-par">
@@ -52,7 +51,7 @@ get_header(); ?>
             <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        ?<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Your Comfortable<br> <span class="extra-bold text-white">Life Awaits</h2>
+                        <h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Your Comfortable<br> <span class="extra-bold text-white">Life Awaits</h2>
                         <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                         <p class="wb-par text-white">
                             With great establishments and city necessities within
@@ -130,20 +129,18 @@ get_header(); ?>
             <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
-                        <h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-orange">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</span></h2>
+                        <h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">There's Something<br> <span class="extra-bold text-white">Inspiring About Inspiring</span></h2>
                         <p class="label-par  bold">Popular Speaking Topics</p>
-                        <p><img class="" src="https://i.imgur.com/hNhZ5gW.png" alt=""></p>
+                        <p><img class="" src="http://localhost/devmike/wp-content/themes/forex/assets/images/green-separator.png" alt=""></p>
                         <ul>
                             <div class="flex-container comf-border">
                                 <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-1.png" style="" alt="" data-aos="fade-left">
                                 <p class="comf-par text-white">Student Success &amp; Perseverance</p>
                             </div>
-
                             <div class="flex-container comf-border">
                                 <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-2.png" style="" alt="" data-aos="fade-left">
                                 <p class="comf-par text-white">STEM + Arts &amp; Creativity</p>
                             </div>
-
                             <div class="flex-container comf-border">
                                 <img class="icon-width aos-init" src="http://www.nehemiahmabry.com/wp-content/themes/forex/assets/images/bv-3.png" style="" alt="" data-aos="fade-left">
                                 <p class="comf-par text-white">STEM/STEAM Leadership Development</p>
@@ -161,28 +158,22 @@ get_header(); ?>
                 ﻿<h2 class="wb-heading mobile-heading mbottom-30 extra-bold text-green">Our<br> <span class="extra-bold text-white">Client Say</h2>
                 <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-ic.png" alt=""/>
                <div class="comment-div">
-                   <p class="cm-par ">Lorem ipsum dolor sit amet, consectetur adipiscing eli.</p>
-                   <p class="cm-par ">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                   <p class="cm-par text-white bold">E. HERNANDEZ</p>
+                   <p class="cm-par "> It is always a pleasure to make new friends, Ms. Joan became our friend. She delivered correspondence and documents on a very timely basis and the sale went smooth. The closing went very well.</p>
+                   <p class="cm-par text-white bold">Dexter CO</p>
                </div>
-
                 <img class="slide code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-ic.png" alt=""/>
                 <div class="comment-div">
-
-                    <p class="cm-par ">Lorem ipsum dolor sit amet, consectetur adipiscing eli.</p>
-                    <p class="cm-par ">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><p class="cm-par text-white bold">E. HERNANDEZ</p>
+                    <p class="cm-par ">Ms. Joan helped us with the purchase of our dream property! Our questions were answered quickly and the whole process was seamless. Thank You!</p>
+                    <p class="cm-par text-white bold">Celebrity POKWANG</p>
                 </div>
             </div>
-
             <div class="row__35 col-bg">
             </div>
-
             <div class="row__35 white-bg text-center">
                 <img class=" code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/quote-green.png" alt=""/>
-                <p class="cm-par text-black mtop-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p class="cm-par text-black">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                <p class="cm-par text-black">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <p class="cm-par text-black bold">E. HERNANDEZ</p>
+                <p class="cm-par text-black mtop-30">Ms. Joan went above and beyond to obtain the information we needed to purchase our home as well as answering each and every question we had. She truly is an agent who listens to what your needs & wants are and doesn't stop looking until she has found the property that best suits your requirements.</p>
+                <p class="cm-par text-black">Her fun and positive attitude made her a joy to work with and her honesty was refreshing. We would highly recommend Ms. Joan Eduarte to anyone interested in purchasing a home!</p>
+                <p class="cm-par text-black bold">Kim DOMINGO</p>
                 <img  class="mtop-30  code code--small code--left aos-init aos-animate" data-aos="fade-up" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-dots.png" alt=""/>
             </div>
         </div>
