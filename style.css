@@ -4382,6 +4382,10 @@ blockquote:after {
 
 }
 
+.no-border{
+    border-bottom: none!important;
+}
+
 .mleft{
     color: #15a74b!important;;
     padding-bottom: 20px;
@@ -4597,6 +4601,11 @@ blockquote:after {
 
 }
 
+.gallery-box{
+    text-align: center;
+    padding: 20px;
+}
+
 @media (max-width: 750px){
     .forex-box {
         width: 65%!important;
@@ -4643,6 +4652,10 @@ blockquote:after {
     font-weight: 500;
     line-height: 20px;
     margin-bottom: 0px;
+}
+
+.fb-cont-i{
+font-style: italic;
 }
 
 .fb-image{
@@ -5289,7 +5302,12 @@ blockquote:after {
 .flex-container3{
     max-width: 1100px;
     margin: 0 auto;}
-
+ 
+.flex-container4{
+    max-width: 900px;
+    margin: 0 auto;
+}
+    
 .black-box{
     /*background: url("assets/images/bluebg-banner.jpg");*/
     padding-bottom: 30px;
