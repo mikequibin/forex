@@ -77,7 +77,7 @@ get_header(); ?>
                                 <p class="comf-par text-white">Secure, comfortable neighborhood imbued
                                     with a sense of tasteful living</p>
                             </div>
-                            <div class="flex-container comf-border">
+                            <div class="flex-container comf-border no-border">
                                 <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
                                 <p class="comf-par text-white">Utmost convenience in the middle
                                     of the city</p>
@@ -115,11 +115,89 @@ get_header(); ?>
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <section class="remove-gray change-box">
+        <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
+            <h2 class="change-head text-green">Change <span class="text-white extra-bold">Your Life Today!</span></h2>
+            <a href="https://freefxcourse.com/contact/">
+                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+            </a>
+            <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
+        </div>
+    </section>
+
+    <section class="remove-gray trader-box">
+        <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
+            <h2 class="pbottom-15 wb-heading text-green text-center">Archives <span class="text-black extra-bold">Gallery</span></h2>
+            <p class="wb-par text-center bold">Pre-selling Residential Projects</p>
+            <div class="flex-container4">
+                <div class="flex-container mtop-50 flexcont-mobile">
+                    <div class="row row__30 gallery-box row-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g1-cincohermanos.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Cinco Hermanos</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g2-birminghamsotera.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Birmingham Sotera</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g3-xavierville.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Xavierville</p>
+                    </div>
+                </div>
+                <div class="flex-container mtop-50 flexcont-mobile">
+                    <div class="row row__30 gallery-box row-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Birmingham Alberta</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Birmingham Camden</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g6-simeonaduplex.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Simeona Duplex</p>
+                    </div>
+                </div>
+                <div class="flex-container mtop-50 flexcont-mobile">
+                    <div class="row row__30 gallery-box row-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g7-birminghanspringfield.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Birmingham Springfield</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g8-birminghamvillas.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Birmingham Villas</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g9-xavierville.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Xavierville Units</p>
+                    </div>
+                </div>
+                <div class="flex-container mtop-50 flexcont-mobile">
+                    <!-- <div class="row row__30 gallery-box row-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g10-tagaytaymetro.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Tagaytay Metro</p>
+                    </div> -->
+
+
+                    <!-- <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g8-birminghamvillas.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Birmingham Villas</p>
+                    </div>
+                    <div class="row row__30 gallery-box row-mobile top30-mobile">
+                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g9-xavierville.jpg" alt=""/>
+                        <p class="fb-cont fb-cont-i">Xavierville Units</p>
+                    </div> -->
+                </div>
+            </div>
             <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
                 <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
             </a>
         </div>
     </section>
+
 
     <!-- <section class="remove-gray comfy-life2">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
@@ -259,15 +337,7 @@ get_header(); ?>
 
 
 
-    <section class="remove-gray change-box">
-        <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
-            <h2 class="change-head text-green">Change <span class="text-white extra-bold">Your Life Today!</span></h2>
-            <a href="https://freefxcourse.com/contact/">
-                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
-            </a>
-            <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
-        </div>
-    </section>
+   
 
 
     </div>
