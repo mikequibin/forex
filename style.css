@@ -4335,6 +4335,7 @@ blockquote:after {
     font-size: 1.3rem;
     color: #381e07!important;
     font-weight: 400;
+    margin-bottom: 40px;
 }
 
 @media (max-width: 800px){
@@ -4382,7 +4383,7 @@ blockquote:after {
 }
 
 .mleft{
-    color: #fc9e20!important;
+    color: #15a74b!important;;
     padding-bottom: 20px;
 }
 
@@ -5273,7 +5274,7 @@ blockquote:after {
 
 .trader-box {
     background-color: #fff;
-    padding-bottom: 30px;
+    padding-bottom: 90px;
 }
 
 @media (max-width: 767px){
@@ -5300,7 +5301,7 @@ blockquote:after {
 
 .change-box{
     background: url("assets/images/changelife-banner.jpg");
-    margin-top: -22px!important;
+    margin-top: -0px!important;
 }
 
 .lightpink-box{
@@ -5483,12 +5484,12 @@ blockquote:after {
 }
 
 .financial-diamond{
-background: url("assets/images/property-diamond.jpg") no-repeat center;
+background: url("assets/images/financial-diamond4.jpg") no-repeat center;
 }
 
 @media (max-width: 991px){
     .financial-diamond {
-        background: url("assets/images/propertydiamond-mobile.jpg") no-repeat center;
+        background: url("assets/images/financial-diamond4.jpg") no-repeat center;
     }}
 
 @media (max-width: 700px){
@@ -5498,15 +5499,22 @@ background: url("assets/images/property-diamond.jpg") no-repeat center;
     }}
 
 .comfy-life{
-
     background: url("assets/images/third-sec-bg.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+.comfy-life2{
+    background: url("assets/images/review-nh5.jpg") center;
+    /* background-color: #181818; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .review-nh{
-    background: url("assets/images/review-nh4.jpg") center;
+    background: url("assets/images/review-nh7.jpg") center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
