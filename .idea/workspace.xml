@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/main-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/main-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="255" column="0" selection-start="16217" selection-end="16217" vertical-scroll-proportion="2.0743494">
+            <state line="255" column="0" selection-start="16217" selection-end="16217" vertical-scroll-proportion="-21.882353">
               <folding>
                 <element signature="e#13974#14001#0" expanded="true" />
                 <element signature="e#14078#14108#0" expanded="true" />
@@ -47,23 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6743" column="12" selection-start="125914" selection-end="125914" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-                <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-              </folding>
+            <state line="6746" column="0" selection-start="126169" selection-end="126169" vertical-scroll-proportion="0.94227505">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,8 +84,8 @@
       <list>
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -285,19 +272,7 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4513" column="22" selection-start="93213" selection-end="93213" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -319,19 +294,7 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1649" column="23" selection-start="32069" selection-end="32069" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -353,19 +316,7 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5463" column="0" selection-start="105888" selection-end="105888" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -387,19 +338,7 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5500" column="1" selection-start="106669" selection-end="106669" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -421,19 +360,7 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5896" column="26" selection-start="112667" selection-end="112667" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -454,28 +381,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6743" column="12" selection-start="125914" selection-end="125914" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1571663627359" expanded="true" signature="122750:122754" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122783:122862" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="122902:122972" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123004:123078" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123123:123158" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123201:123262" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123304:123365" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123495:123553" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123603:123607" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123645:123702" placeholder="{...}" />
-            <marker date="1571663627359" expanded="true" signature="123738:123905" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="255" column="0" selection-start="16217" selection-end="16217" vertical-scroll-proportion="2.0743494">
+        <state line="255" column="0" selection-start="16217" selection-end="16217" vertical-scroll-proportion="-21.882353">
           <folding>
             <element signature="e#13974#14001#0" expanded="true" />
             <element signature="e#14078#14108#0" expanded="true" />
@@ -485,6 +393,13 @@
             <element signature="e#15623#15653#0" expanded="true" />
             <element signature="e#15727#15772#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6746" column="0" selection-start="126169" selection-end="126169" vertical-scroll-proportion="0.94227505">
+          <folding />
         </state>
       </provider>
     </entry>
