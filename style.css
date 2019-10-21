@@ -611,12 +611,12 @@ textarea {
 --------------------------------------------------------------*/
 
 .navbar-fixed-top {
-    background-color: #222;
+	background-color: #222;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 2;
-    height: 40px;
+	height: 40px;
 }
 .navbar-fixed-top.scrolled {
     /*background-color: #23282d;*/
@@ -1627,15 +1627,15 @@ nav {
 }
 
 /*.menu li a:hover {*/
-/*color: #fc9e20;*/
-/*padding-bottom: 0.31rem;*/
-/*border-bottom: 0.25rem solid #f29729;*/
-/*cursor: pointer;*/
+    /*color: #fc9e20;*/
+    /*padding-bottom: 0.31rem;*/
+    /*border-bottom: 0.25rem solid #f29729;*/
+    /*cursor: pointer;*/
 /*}*/
 
 .menu li a:hover {
-    opacity: 1 !important;
-}
+     opacity: 1 !important;
+ }
 
 .menu li:hover {
     background-color: #15a74b;
@@ -1737,7 +1737,7 @@ nav {
     -webkit-transform: translate3d(0, 0px, 0);
     -moz-transform: translate3d(0, 0px, 0);
     visibility: visible;
-    padding: 7px;
+	padding: 7px;
     margin-top: -8px;
 }
 
@@ -1998,9 +1998,9 @@ nav.fixed.scrolled {
 }
 
 /*@media all and (max-width: 1120px) {*/
-/*.menu > li {*/
-/*margin-right: 24px;*/
-/*}*/
+    /*.menu > li {*/
+        /*margin-right: 24px;*/
+    /*}*/
 /*}*/
 
 @media all and (max-width: 991px) {
@@ -4365,9 +4365,9 @@ blockquote:after {
     }}
 
 /*@media (max-width: 500px){*/
-/*.icon-width {*/
-/*width: 30%;*/
-/*}}*/
+    /*.icon-width {*/
+        /*width: 30%;*/
+    /*}}*/
 
 .cm-par{
     font-size: 1rem;
@@ -4655,7 +4655,7 @@ blockquote:after {
 }
 
 .fb-cont-i{
-    font-style: italic;
+font-style: italic;
 }
 
 .fb-image{
@@ -4767,9 +4767,9 @@ blockquote:after {
 
 @media (max-width: 842px){
     .footer-cont {
-        text-align: center;
-        padding-bottom: 0;
-        border-bottom: none;
+    text-align: center;
+    padding-bottom: 0;
+		border-bottom: none;
     }
 }
 
@@ -4785,10 +4785,10 @@ blockquote:after {
 }
 
 /*@media (max-width: 842px){*/
-/*.footer-cont .footer-top{*/
-/*padding-bottom: 0;*/
-/*border-bottom: none;*/
-/*}*/
+    /*.footer-cont .footer-top{*/
+  		/*padding-bottom: 0;*/
+		/*border-bottom: none;*/
+    /*}*/
 /*}*/
 
 @media (max-width: 462px){
@@ -5023,7 +5023,7 @@ blockquote:after {
 }
 
 .mright10{
-    margin-right: 10px;
+	margin-right: 10px;
 }
 
 .mright-20{
@@ -5044,7 +5044,7 @@ blockquote:after {
 }
 
 .ptop-40{
-    padding-top: 40px;
+	padding-top: 40px;
 }
 
 .ptop-80{
@@ -5242,7 +5242,7 @@ blockquote:after {
 
 @media (max-width: 600px){
     .review-nh  {
-        background: none!important;
+       background: none!important;
     }}
 
 @media (max-width: 600px){
@@ -5502,7 +5502,7 @@ blockquote:after {
 }
 
 .financial-diamond{
-    background: url("assets/images/financial-diamond4.jpg") no-repeat center;
+background: url("assets/images/financial-diamond4.jpg") no-repeat center;
 }
 
 @media (max-width: 991px){
@@ -5645,27 +5645,27 @@ blockquote:after {
 }
 
 @media (max-width: 900px){
-    .mobile-center{
+	.mobile-center{
         text-align: center;
     }
 }
 
 @media (max-width: 900px){
-    .mobile-margin{
+	.mobile-margin{
         margin: 0 auto;
     }
 }
 
 @media (max-width: 900px){
-    .about-vimeo{
+	.about-vimeo{
         margin-top: 70px;
-        margin-bottom: 50px;
-        height: 300px;
+		margin-bottom: 50px;
+		height: 300px;
     }
 }
 
 @media (max-width: 635px){
-    .about-vimeo{
+	.about-vimeo{
         margin: 30px 0;
     }
 }
@@ -5847,7 +5847,7 @@ blockquote:after {
 .peach-bg{
     background-color: #fbfcd4;
     text-align: center;
-    padding-top: 40px;
+        padding-top: 40px;
     padding-bottom: 10px;
 }
 
@@ -5904,8 +5904,8 @@ blockquote:after {
 
 @media (max-width: 522px){
     .benefits-text{
-        font-size: 13px;
-        margin: 20px 50px;
+     font-size: 13px;
+	margin: 20px 50px;
     }}
 
 .black-bg{
@@ -5920,7 +5920,7 @@ blockquote:after {
 
 .darkblue-bg{
     background: url(assets/images/contactfx-bg.jpg);
-    padding: 50px;
+	padding: 50px;
 }
 
 @media (max-width: 1000px){
@@ -5957,8 +5957,8 @@ blockquote:after {
 @media (max-width: 975px){
     .contact-white-box{
         width: 100%!important;
-        margin-bottom: 0;
-        padding-bottom: 15px;
+		margin-bottom: 0;
+		padding-bottom: 15px;
     }}
 
 
@@ -5971,8 +5971,8 @@ blockquote:after {
 @media (max-width: 975px){
     .contact-black-bg{
         width: 100%!important;
-        margin-bottom: 0;
-        text-align: center;
+		margin-bottom: 0;
+		text-align: center;
     }}
 
 
@@ -6014,12 +6014,12 @@ fieldset{
 }
 
 .contact-name{
-    width: 48%;
+	width: 48%;
     float: left;
     margin-right: 10px;
-    text-transform: uppercase;
+	text-transform: uppercase;
     font-family: lato;
-    font-weight: 500!important;
+	font-weight: 500!important;
 }
 
 @media (max-width: 780px){
@@ -6028,11 +6028,11 @@ fieldset{
     }}
 
 .contact-email{
-    width: 50%;
+	 width: 50%;
     float: left;
-    text-transform: uppercase;
+	text-transform: uppercase;
     font-family: lato;
-    font-weight: 500!important;
+	font-weight: 500!important;
 }
 
 @media (max-width: 780px){
@@ -6041,21 +6041,21 @@ fieldset{
     }}
 
 .contact-message{
-    text-transform: uppercase;
+	text-transform: uppercase;
     font-family: lato;
-    font-weight: 500!important;
+	font-weight: 500!important;
 }
 
 .contact-label{
-    text-transform: uppercase;
+	text-transform: uppercase;
     font-family: lato;
 
 }
 
 .contact-label .wpcf7-form-control-wrap textarea{
-    width: 165%;
-    height: 130px;
-    border: 2px solid #d9d9dd;
+	width: 165%;
+	height: 130px;
+	border: 2px solid #d9d9dd;
     background-color: #fff;
 }
 
@@ -6068,70 +6068,70 @@ fieldset{
 
 @media (max-width: 1130px){
     .contact-label .wpcf7-form-control-wrap textarea{
-        width: auto;
+       width: auto;
     }}
 
 @media (max-width: 975px){
     .contact-label .wpcf7-form-control-wrap textarea{
-        width: 165%;
+       width: 165%;
     }}
 
 @media (max-width: 780px){
     .contact-label .wpcf7-form-control-wrap textarea{
-        width: 100%;
+       width: 100%;
     }}
 
 
 .contact-label .wpcf7-form-control-wrap input{
-    border: 2px solid #d9d9dd;
+	border: 2px solid #d9d9dd;
     background-color: #fff;
-    height: 35px;
+	height: 35px;
 }
 
 @media (max-width: 1115px){
     .contact-label .wpcf7-form-control-wrap input{
-        width: auto;
+       width: auto;
     }}
 
 @media (max-width: 975px){
     .contact-label .wpcf7-form-control-wrap input{
-        width: 100%;
+       width: 100%;
     }}
 
 .wpcf7-form input {
-    text-transform: capitalize;
-    background: #fc9e20;
+	text-transform: capitalize;
+	background: #fc9e20;
     border: none;
-    /*     border-radius: 20px; */
+/*     border-radius: 20px; */
     color: #000;
     font-weight: 700;
     font-size: 15px;
-    /*     width: 30%; */
+/*     width: 30%; */
 }
 
 .flex-container .row__50 .wpcf7-form-control-wrap .wpcf7-validates-as-required{
-    background: #fff;
-    /*     border: 2px solid #fc9e20; */
-    height: 35px;
+	background: #fff;
+/*     border: 2px solid #fc9e20; */
+	height: 35px;
     border-radius: 0px;
-    margin-top: 5px;
-    width: 260px!important;
+	margin-top: 5px;
+	width: 260px!important;
 }
 
 @media (max-width: 1280px){
     .flex-container .row__50 .wpcf7-form-control-wrap .wpcf7-validates-as-required{
-        width: auto!important;
+       width: auto!important;
     }}
 
 .flex-container .row__50 label{
-    color: #fff;
+	 color: #fff;
     text-transform: uppercase;
-    font-family: lato;
+	font-family: lato;
 }
 
 textarea{
-    width: 160%;
-    height: 150px;
+	width: 160%;
+	height: 150px;
 }
 
 /* @media (max-width: 1280px){
@@ -6314,20 +6314,20 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .footer-logo{
-    width: 15%;
+	width: 15%;
 }
 
 .text-blue{
-    color: #4569ab;
+	color: #4569ab;
 }
 
 .label-par{
-    font-size: 1.3rem;
-    color: #15a74b;
+	font-size: 1.3rem;
+	color: #15a74b;
 }
 
 .width-90{
-    width: 90%;
+	width: 90%;
 }
 
 
@@ -6344,11 +6344,11 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 
 .remove-gray{
-    margin-top: -37px;
+	margin-top: -37px;
 }
 
 .nav-container #site-navigation .nav-bar .row .module-group{
-    padding-top: 9px;
+	padding-top: 9px;
 }
 
 .wpforms-submit {
@@ -6360,19 +6360,19 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .wpforms-submit:hover{
     background-color: #383736!important;
-    color: #fff!important;
+	color: #fff!important;
 }
 
 .mbottom-35{
-    margin-bottom: 35px;
+	margin-bottom: 35px;
 }
 
 .button-hover{
-    color: #000;
+	color: #000;
 }
 
 .stem-logo{
-    float: right;
+	float: right;
     margin-right: -55px;
     margin-left: -33px;
     width: 36%;
@@ -6380,50 +6380,50 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 @media (max-width: 991px){
     .stem-logo{
-        float: right;
-        margin-right: -55px;
-        width: 31%;
-        margin-top: -75px;
+    float: right;
+    margin-right: -55px;
+    width: 31%;
+    margin-top: -75px;
     }}
 
 @media (max-width: 950px){
     .stem-logo{
-        width: 34%;
+    width: 34%;
     }}
 
 @media (max-width: 888px){
     .stem-logo{
-        width: 37%;
+    width: 37%;
     }}
 
 @media (max-width: 813px){
     .stem-logo{
-        width: 40%;
+    width: 40%;
     }}
 
 @media (max-width: 760px){
     .stem-logo{
-        width: 42%;
+    width: 42%;
     }}
 
 @media (max-width: 721px){
     .stem-logo{
-        width: 45%;
+    width: 45%;
     }}
 
 @media (max-width: 682px){
     .stem-logo{
-        width: 48%;
+    width: 48%;
     }}
 
 @media (max-width: 630px){
     .stem-logo{
-        width: 50%;
+    width: 50%;
     }}
 
 @media (max-width: 600px){
     .stem-logo{
-        display: none;;
+    display: none;;
     }}
 
 /* @media (max-width: 556px){
@@ -6438,29 +6438,29 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 
 .nav-bar .row .right .left .collapse {
-    float: right;
+	float: right;
 }
 
 @media (max-width: 700px){
     .rw-mobile{
-        width: 100%;
+       width: 100%;
     }}
 
 @media (max-width: 842px){
     .mr-mobile{
-        margin-right: 0;
-        margin-bottom: 20px;
+		margin-right: 0;
+		margin-bottom: 20px;
     }}
 
 @media (max-width: 842px){
     .mb-mobile{
-        margin-bottom: 5px;
+		margin-bottom: 5px;
     }}
 
 .btn-2-style{
     margin: 0 auto!important;
     margin-top: 40px!important;
-    /* 	width: 20%!important; */
+/* 	width: 20%!important; */
 }
 
 
@@ -6498,9 +6498,9 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 @media (max-width: 1000px){
     .white-bg{
-        width: 100%;
-        padding: 40px 50px 30px;
-    }}
+    width: 100%;
+    padding: 40px 50px 30px;
+}}
 
 @media (max-width: 1016px){
     #site-navigation .module.left{
@@ -6527,7 +6527,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 /*About*/
 
-.ppfs-about{
+.page-banner{
     width: 100%;
 }
 
@@ -6569,9 +6569,9 @@ body {font-family: Verdana, sans-serif; margin:0}
     }}
 
 /*@media (max-width: 680px){*/
-/*.aboutpage {*/
-/*width: 70%;*/
-/*}}*/
+    /*.aboutpage {*/
+        /*width: 70%;*/
+    /*}}*/
 
 @media (max-width: 590px){
     .aboutpage {
@@ -6674,7 +6674,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 @media (max-width: 770px){
     .flexabout-mobile{
-        display: block;
+    display: block;
     }
 }
 
@@ -6694,6 +6694,10 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 /*PROJECT*/
 
+.project-start{
+    margin: 45px 0 45px 0;
+}
+
 .project-des{
     border: 3px solid green;
     margin-left: 20px;
@@ -6701,6 +6705,15 @@ body {font-family: Verdana, sans-serif; margin:0}
     padding-top: 25px;
     padding-right: 25px;
 }
+
+.project-des1{
+    border: 3px solid green;
+    margin-right: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-right: 25px;
+}
+
 
 .project-btn{
     color: #000;
@@ -6710,15 +6723,17 @@ body {font-family: Verdana, sans-serif; margin:0}
     width: 50%;
     border-radius: 10px;
     margin: 0 auto;
+    font-weight: 700;
 }
 
 .project-title{
     font-size: 25px;
     margin-bottom: 10px;
+    font-weight: 700;
 }
 
 .project-div{
-    margin-bottom: 15px;
+    margin-top: 45px;
 }
 
 .white-top{
@@ -6726,21 +6741,7 @@ body {font-family: Verdana, sans-serif; margin:0}
     background-color: #eceae7;
 }
 
-
-/*CMS*/
-
-.customize-support .site .lrpane .sidebar-right{
-    width: 100%;
-}
-
-.woocommerce .single-product .product .wc-tabs-wrapper .woocommerce-Tabs-panel h2{
-    display: none;
-}
-
-.description_tab.active{
-    box-shadow: 0 1px 0 #3ab54a;
-}
-
 .pro-height{
     height: 300px;
 }
+
