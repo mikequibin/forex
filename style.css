@@ -6745,3 +6745,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 .pro-height{
     height: 300px;
 }
+
+.customize-support .site .lrpane .sidebar-right{
+    width: 100%;
+}
