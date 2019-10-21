@@ -39,8 +39,8 @@ get_header(); ?>
                         Register through our <span class="extra-bold">MegaEast Residential States</span> to learn more.
                     </p>
                 </div>
-                <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                    <h3 class="mtop-50 darkgreen-btn-1 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+                <a href="https://pilipinaspropertyforsale.com/inquire-now/" class="shownewsletterbox" >
+                    <h3 class="mtop-50 darkgreen-btn-1 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
                 </a>
             </div>
         </div>
@@ -64,8 +64,8 @@ get_header(); ?>
                             outdoor lap and kiddie pools, to its prominent lifestyle
                             hubs.
                         </p>
-                        <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                            <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+                        <a href="https://pilipinaspropertyforsale.com/inquire-now/" class="shownewsletterbox" >
+                            <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
                         </a>
                     </div>
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 mleft-10 mtop-40">
@@ -124,8 +124,8 @@ get_header(); ?>
     <section class="remove-gray change-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
             <h2 class="change-head text-green">Change <span class="text-white extra-bold">Your Life Today!</span></h2>
-            <a href="https://freefxcourse.com/contact/">
-                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+            <a href="https://pilipinaspropertyforsale.com/inquire-now/">
+                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
             </a>
             <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
         </div>
@@ -195,8 +195,8 @@ get_header(); ?>
                     </div> -->
                 </div>
             </div>
-            <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
-                <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Book a Tripping Now!</h3>
+            <a href="https://pilipinaspropertyforsale.com/inquire-now/" class="shownewsletterbox" >
+                <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
             </a>
         </div>
     </section>
