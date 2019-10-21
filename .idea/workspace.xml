@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="StemediaTheme.iws" />
@@ -50,7 +49,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6709" column="28" selection-start="125412" selection-end="125412" vertical-scroll-proportion="0.5177305">
+            <state line="6764" column="0" selection-start="126209" selection-end="126209" vertical-scroll-proportion="0.93971634">
               <folding />
             </state>
           </provider>
@@ -391,7 +390,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6709" column="28" selection-start="125412" selection-end="125412" vertical-scroll-proportion="0.5177305">
+        <state line="6764" column="0" selection-start="126209" selection-end="126209" vertical-scroll-proportion="0.93971634">
           <folding />
         </state>
       </provider>

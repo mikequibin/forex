@@ -6745,3 +6745,20 @@ body {font-family: Verdana, sans-serif; margin:0}
     height: 300px;
 }
 
+/*CMS*/
+
+.customize-support .site .lrpane .sidebar-right{
+    width: 100%;
+}
+
+.woocommerce .single-product .product .wc-tabs-wrapper .woocommerce-Tabs-panel h2{
+    display: none;
+}
+
+.description_tab.active{
+    box-shadow: 0 1px 0 #3ab54a;
+}
+
+.pro-height{
+    height: 300px;
+}
