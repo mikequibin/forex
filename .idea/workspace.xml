@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6752" column="0" selection-start="126013" selection-end="126115" vertical-scroll-proportion="0.0">
+            <state line="6740" column="0" selection-start="125862" selection-end="125862" vertical-scroll-proportion="-8.88">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,10 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="30" selection-start="2786" selection-end="2786" vertical-scroll-proportion="0.52416354">
-              <folding />
+            <state line="48" column="100" selection-start="2702" selection-end="2702" vertical-scroll-proportion="0.49256507">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -330,13 +332,6 @@
         <state line="148" column="19" selection-start="3722" selection-end="3722" vertical-scroll-proportion="-0.020797227" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6752" column="0" selection-start="126013" selection-end="126115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="38" selection-start="1457" selection-end="1457" vertical-scroll-proportion="-7.0">
@@ -351,10 +346,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6740" column="0" selection-start="125862" selection-end="125862" vertical-scroll-proportion="-8.88">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="30" selection-start="2786" selection-end="2786" vertical-scroll-proportion="0.52416354">
-          <folding />
+        <state line="48" column="100" selection-start="2702" selection-end="2702" vertical-scroll-proportion="0.49256507">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
