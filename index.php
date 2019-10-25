@@ -17,7 +17,7 @@ get_header(); ?>
     <body>
 
     <header class="header">
-        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;position: relative; padding-left: 24%;">
+        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;position: relative; padding-top: 4%; padding-left: 24%;">
             <!-- <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/main-text.png" alt=""/> -->
         </div>
         <video autoplay muted loop class="fullvideo-container" poster="">

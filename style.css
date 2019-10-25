@@ -4248,14 +4248,17 @@ blockquote:after {
     padding-top: 30px; }
 
 .col-md-8.mb-xs-24.sidebar-right{
-    padding-left: 40px;
-    padding-right: 40px;
+    /* padding-left: 40px;
+    padding-right: 40px; */
 }
 
 .row .col-md-8 .site-main .no-results .page-content p{
     padding-top: 40px;
 }
 
+.entry-header .entry-title{
+    display: none;
+}
 
 /*Home Page*/
 
@@ -6538,6 +6541,11 @@ body {font-family: Verdana, sans-serif; margin:0}
     box-shadow: 0 0 2.5em 0.5em rgba(0, 0, 0, 0.4);
     margin-top: -10px;
     background-color: #fbfbfb;
+}
+
+.lrshadows .col-md-8.mb-xs-24{ 
+    padding-left: 0px!important;
+    padding-left: 0px!important;
 }
 
 .lrpane {
