@@ -131,7 +131,7 @@ get_header(); ?>
     <section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-green text-center">Archives <span class="text-black extra-bold">Gallery</span></h2>
-            <p class="wb-par text-center bold">Pre-selling Residential Projects</p>
+            <p class="wb-par text-center bold">House and Lot Residential Projects</p>
             <div class="flex-container4">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
@@ -150,7 +150,7 @@ get_header(); ?>
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Alberta</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Alberto</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/>
