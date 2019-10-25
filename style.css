@@ -774,6 +774,11 @@ a:hover, a:active {
     margin-left: 5px;
 }
 
+#site-navigation .module-group .module.left {
+    margin-left: -50px;
+}
+
+
 /*--------------------------------------------------------------
 # Accessibility
 --------------------------------------------------------------*/
@@ -1658,9 +1663,7 @@ nav {
     font-weight: 800;
     list-style: none;
 }
-.menu > li:first-child{
-    background-color: #0f0e0d;
-}
+
 
 .menu > li:last-child {
     margin-right: 0;
@@ -4245,14 +4248,17 @@ blockquote:after {
     padding-top: 30px; }
 
 .col-md-8.mb-xs-24.sidebar-right{
-    padding-left: 40px;
-    padding-right: 40px;
+    /* padding-left: 40px;
+    padding-right: 40px; */
 }
 
 .row .col-md-8 .site-main .no-results .page-content p{
     padding-top: 40px;
 }
 
+.entry-header .entry-title{
+    display: none;
+}
 
 /*Home Page*/
 
@@ -6239,7 +6245,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 
 .active, .dot:hover {
-    /*background-color: #fc9e20;*/
+    background-color: #15a74b;
 }
 
 /* Fading animation */
@@ -6535,6 +6541,11 @@ body {font-family: Verdana, sans-serif; margin:0}
     box-shadow: 0 0 2.5em 0.5em rgba(0, 0, 0, 0.4);
     margin-top: -10px;
     background-color: #fbfbfb;
+}
+
+.lrshadows .col-md-8.mb-xs-24{ 
+    padding-left: 0px!important;
+    padding-left: 0px!important;
 }
 
 .lrpane {
