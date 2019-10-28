@@ -35,9 +35,6 @@ get_header(); ?>
                     <p class="wb-par">
                         <span class="extra-bold">Palo Alto</span> at the boundary of Antipolo and Tanay leisure farm and residential resorts with water falls and forest reserves.
                     </p>
-                    <p class="wb-par">
-                        Register through our <span class="extra-bold">MegaEast Residential States</span> to explore more.
-                    </p>
                 </div>
                 <a href="https://pilipinaspropertyforsale.com/book-trippings/" class="shownewsletterbox" >
                     <h3 class="mtop-50 darkgreen-btn-1 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
@@ -92,7 +89,7 @@ get_header(); ?>
     ﻿<section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-green text-center">Featured <span class="text-black extra-bold">Projects</span></h2>
-            <p class="wb-par text-center bold">Condominium, House & Lot and Residential Resorts</p>
+            <p class="wb-par text-center bold">Condominium, House & Lot and Properties</p>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
@@ -136,43 +133,43 @@ get_header(); ?>
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g1-cincohermanos.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Cinco Hermanos</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Cinco Hermanos</br>Industrial Valley, Marikina</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g2-birminghamsotera.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Sotera</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Sotera</br>Gen. Trias, Cavite</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g3-xavierville.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Xavierville</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Xavierville</br>Quezon City</p>
                     </div>
                 </div>
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Alberto</p>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/></a>
+                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/"><p class="fb-cont fb-cont-i">Birmingham Alberto</br>San Mateo, Rizal</p></a>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Camden</p>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/></a>
+                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/"><p class="fb-cont fb-cont-i">Birmingham Camden</br>Antipolo City, Rizal</p></a>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g6-simeonaduplex.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Simeona Duplex</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Simeona Duplex</br>Concepcion II, Marikina City</p>
                     </div>
                 </div>
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g7-birminghanspringfield.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Springfield</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Springfield</br>Cainta, Rizal</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g8-birminghamvillas.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Villas</p>
+                        <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g9-xavierville.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Xavierville Units</p>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g11-heights" alt=""/></a>
+                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><p class="fb-cont fb-cont-i">Birmingham Heights</br>Fortune, Marikina City</p></a>
                     </div>
                 </div>
                 <div class="flex-container mtop-50 flexcont-mobile">
@@ -200,15 +197,15 @@ get_header(); ?>
                         <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                         <div class="comf-border">
                             <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px;">Dexter CO<br>Businessman</h5>
-                            <p class="wb-par" style="color: #000!important;">“It is always a pleasure to make new friends, Ms. Joan became our friend. She delivered correspondence and documents on a very timely basis and the sale went smooth. The closing went very well.”</p>
+                            <p class="wb-par" style="color: #000!important;">“Purchased lots in Rizal Technopark. It was so nice to work with them. The transaction went smoothly. The after sales services are excellent. Just one message away”</p>
                         </div>
                         <div class="comf-border">
                             <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Marietta Subong, Pokwang<br>Filipino Comedian<br></h5>
-                            <p class="wb-par" style="color: #000!important;">“Ms. Joan helped us with the purchase of our dream property! Our questions were answered quickly and the whole process was seamless. Thank You!”</p>
+                            <p class="wb-par" style="color: #000!important;">“We tripped to Alta Vista, Antipolo Rizal with my baby. We also used their own car. The team was very accomodating!”</p>
                         </div>
                         <div class="comf-border">
                             <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Kim Domingo<br>Filipino Actress</h5>
-                            <p class="wb-par">“Ms. Joan went above and beyond to obtain the information we needed to purchase our home as well as answering each and every question we had. She truly is an agent who listens to what your needs & wants are and doesn't stop looking until she has found the property that best suits your requirements. </br> </br> Her fun and positive attitude made her a joy to work with and her honesty was refreshing. We would highly recommend Ms. Joan Eduarte to anyone interested in purchasing a home!”</p>
+                            <p class="wb-par">“I can't believe I already bought my own house. Glad I found an agent who can offer me a property that suits with my needs and wants.”</p>
                         </div>
                         <div style="color: #000!important;">
                             <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Client<br>Sales Manager</h5>

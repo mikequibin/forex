@@ -6787,3 +6787,11 @@ body {font-family: Verdana, sans-serif; margin:0}
 .lrpane .col-md-8 .comments-area{
     display: none;
 }
+
+.prop-btn{
+    color: #000;
+}
+
+.prop-btn:hover{
+    color: #15a74b;
+}
