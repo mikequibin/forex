@@ -36,7 +36,7 @@ get_header(); ?>
                        Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Lot, Estate Lot,</span> and<span class="bold"> Commercial Lot</span> and <span class="bold">Condominium</span>
                     </p>
                 </div>
-                <a href="https://pilipinaspropertyforsale.com/book-trippings/" class="shownewsletterbox" >
+                <a href="https://www.pilipinaspropertyforsale.com/inquire-now/" target="_blank" class="shownewsletterbox" >
                     <h3 class="mtop-50 darkgreen-btn-1 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
                 </a>
             </div>
@@ -58,7 +58,7 @@ get_header(); ?>
                             The exclusive Mega East community, which includes businessmen, corporate executives, families, and students enjoy premium living spaces with world-class condominium
                             amenities – from the fully equipped fitness centers, outdoor lap and kiddie pools, to its prominent lifestyle hubs.
                         </p>
-                        <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
+                        <a href="https://www.pilipinaspropertyforsale.com/inquire-now/" target="_blank" class="shownewsletterbox" >
                             <h3 class="mtop-50 darkgreen-btn-2 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
                         </a>
                     </div>
@@ -91,20 +91,20 @@ get_header(); ?>
             <div class="flex-container2">
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 forex-box row-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo    get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/>
-                        <h4 class="fb-head no-bottom text-green">East Bel-Air Residence</h4>
+                        <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-right" src="<?php echo    get_stylesheet_directory_uri(); ?>/assets/images/ebar.png" alt=""/></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><h4 class="fb-head no-bottom text-green">East Bel-Air Residence</h4></a>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                         <p class="fb-cont">The complex strategically located at the Cainta- Pasig corridor at the midpoint of the highly commercial Felix Avenue and near the giant Sta.Lucia Mall.</p>
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/birmingham-project.png" alt=""/>
-                        <h4 class="fb-head no-bottom text-green">Birmingham Project</h4>
+                        <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/birmingham-project.png" alt=""/></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><h4 class="fb-head no-bottom text-green">Birmingham Project</h4></a>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                         <p class="fb-cont">There has never been a better time to buy a new house and lot.  HDC-Birmingham subdivisions offers a very affordable house and lot for sale and we would be honored to assist you.</p>
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/palo-alto.png" alt=""/>
-                        <h4 class="fb-head no-bottom text-green">Palo Alto</h4>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/palo-alto/" target="_blank"><img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down-left" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/palo-alto.png" alt=""/></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/palo-alto/" target="_blank"><h4 class="fb-head no-bottom text-green">Palo Alto</h4></a>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                         <p class="fb-cont">Palo Alto at the boundary of Antipolo/ Baras and Tanay leisure farm & residental resort with water falls and forest reserves.</p>
                     </div>
@@ -116,7 +116,7 @@ get_header(); ?>
     <section class="remove-gray change-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 change-box">
             <h2 class="change-head text-green">Change <span class="text-white extra-bold">Your Life Today!</span></h2>
-            <a href="https://freefxcourse.com/contact/">
+            <a href="https://www.pilipinaspropertyforsale.com/inquire-now/" target="_blank">
                 <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
             </a>
             <h5 class="change-text ptop-20 pbottom-15 text-white">Questions? Contact our Support Team</h5>
@@ -174,7 +174,7 @@ get_header(); ?>
 
                 </div>
             </div>
-            <a href="https://freefxcourse.com/contact/" class="shownewsletterbox" >
+            <a href="https://www.pilipinaspropertyforsale.com/inquire-now/" target="_blank" class="shownewsletterbox" >
                 <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
             </a>
         </div>
