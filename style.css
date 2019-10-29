@@ -3987,10 +3987,11 @@ blockquote:after {
 .post-content .post-meta li:first-of-type:before {
     content: none; }
 .post-content .entry-content .post-title {
-    font-size: 25px;
+    /*font-size: 25px;*/
     line-height: 30px;
     margin-top: 25px;
-    margin-bottom: 10px; }
+    /*margin-bottom: 10px; */
+}
 
 
 @media (max-width: 990px) {
@@ -6548,7 +6549,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .lrshadows .col-md-8.mb-xs-24{ 
     padding-left: 0px!important;
-    padding-left: 0px!important;
+    padding-right: 0px!important;
 }
 
 .lrpane {
