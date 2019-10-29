@@ -31,9 +31,9 @@ get_header(); ?>
                 <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                 <div class="width-90 mobile-first-section">
                     <p class="wb-par">
-                        Megaeast Properties Inc. is fast-rising to be amongst the industry leaders in the field of property marketing and sales, condominium, house and lot, and commercial.</p>
+                        <span class="bold">Ms. Joan Eduarte</span> is a successful Real Estate sales person. She is great at utilizing all markerting resources available. While working with other sales person to close a number of properties with the community</p>
                     <p class="wb-par">
-                        <span class="extra-bold">Palo Alto</span> at the boundary of Antipolo and Tanay leisure farm and residential resorts with water falls and forest reserves.
+                       Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Estate,</span><span class="bold"> Commercial Lots</span> and world class <span class="bold">Condominium</span>
                     </p>
                 </div>
                 <a href="https://pilipinaspropertyforsale.com/book-trippings/" class="shownewsletterbox" >
@@ -52,7 +52,7 @@ get_header(); ?>
                         <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                         <p class="wb-par text-white">
                             With great establishments and city necessities within
-                            comfortable reach, Mega East  fulfills the needs of its growing community of diverse residents in the storey units and villas.
+                            comfortable reach, Mega East thru <span class="bold">Ms. Joan Eduarte</span>  fulfills the needs of its growing community of diverse residents in the storey units and villas.
                         </p>
                         <p class="wb-par text-white">
                             The exclusive Mega East community, which includes businessmen, corporate executives, families, and students enjoy premium living spaces with world-class condominium
@@ -63,21 +63,19 @@ get_header(); ?>
                         </a>
                     </div>
                     <div class="row__50 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 mleft-10 mtop-40">
-                        <h4 class="text-white">Unit For Sale</h4>
+                        <h4 class="text-white">Property For Sale</h4>
                         <ul>
                             <div class="flex-container comf-border">
                                 <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left">
-                                <p class="comf-par text-white">Creates an exclusive community </p>
+                                <p class="comf-par text-white">Reimagine you future </p>
                             </div>
                             <div class="flex-container comf-border">
                                 <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
-                                <p class="comf-par text-white">Secure, comfortable neighborhood imbued
-                                    with a sense of tasteful living</p>
+                                <p class="comf-par text-white">Reimagine life with your loved ones</p>
                             </div>
                             <div class="flex-container comf-border no-border">
                                 <img class="green-icon" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-ico.png" style="" alt="" data-aos="fade-left"/>
-                                <p class="comf-par text-white">Utmost convenience in the middle
-                                    of the city</p>
+                                <p class="comf-par text-white">Reimagine your new home</p>
                             </div>
                         </ul>
                     </div>
@@ -168,7 +166,7 @@ get_header(); ?>
                         <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g11-heights" alt=""/></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g11-heights.jpg" alt=""/></a>
                         <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><p class="fb-cont fb-cont-i">Birmingham Heights</br>Fortune, Marikina City</p></a>
                     </div>
                 </div>
