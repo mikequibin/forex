@@ -14,8 +14,8 @@
 <footer class="footer-cont">
     <div class="maxwidth-1200 maxwidth-1200-footer">
         <div class="footer-top">
-<!--            <a href="https://www.freefxcourse.com/"><img class="footer-logo" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/nehemiah-textlato1.png" alt=""/></a>-->
-            <a href="https://pilipinaspropertyforsale"><h5 class="mbottom-5  footer-text-logo">PILIPINAS PROPERTY FOR SALE</h5></a>
+            <a href="https://www.freefxcourse.com/"><img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ppfs-logo-2.png" alt=""/></a>
+
         </div>
 
         <div class="flex-container ptop-20 leftright-4">
