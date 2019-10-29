@@ -43,7 +43,7 @@
                     <div class="row">
                         <div class="module left site-title-container">
                             <!-- <?php shapely_get_header_logo(); ?> -->
-                            <a href="<?php echo home_url(); ?>"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/megaeast4-logo.png" style="height: 102px; margin-top: -100px;" alt="" data-aos="fade-left"></a>
+                            <a href="<?php echo home_url(); ?>"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ppfs-logo-2.png" style="height: 125px; margin-top: -44px;" alt="" data-aos="fade-left"></a>
                         </div>
                         
                         <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
