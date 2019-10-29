@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1b06b9f0-82d7-41c6-b372-070483a1136e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1572322919059" ignored="false" />
-    <file path="/index.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1572340812121" ignored="false" />
+    <file path="/index.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1572341016194" ignored="false" />
     <file path="/style.css" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1572332521226" ignored="false" />
     <file path="/footer.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1572337448020" ignored="false" />
     <file path="/header.php" changelist="1b06b9f0-82d7-41c6-b372-070483a1136e" time="1572327001390" ignored="false" />
@@ -34,7 +33,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="138" selection-start="9615" selection-end="9627" vertical-scroll-proportion="0.33271375">
+            <state line="147" column="135" selection-start="11825" selection-end="11825" vertical-scroll-proportion="0.39591077">
               <folding />
             </state>
           </provider>
@@ -2114,7 +2113,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="138" selection-start="9615" selection-end="9627" vertical-scroll-proportion="0.33271375">
+        <state line="147" column="135" selection-start="11825" selection-end="11825" vertical-scroll-proportion="0.39591077">
           <folding />
         </state>
       </provider>

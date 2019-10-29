@@ -144,12 +144,12 @@ get_header(); ?>
                 </div>
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
-                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/></a>
-                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/"><p class="fb-cont fb-cont-i">Birmingham Alberto</br>San Mateo, Rizal</p></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/></a>
+                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/" target="_blank"><p class="fb-cont fb-cont-i">Birmingham Alberto</br>San Mateo, Rizal</p></a>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/></a>
-                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/"><p class="fb-cont fb-cont-i">Birmingham Camden</br>Antipolo City, Rizal</p></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/></a>
+                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/" target="_blank"><p class="fb-cont fb-cont-i">Birmingham Camden</br>Antipolo City, Rizal</p></a>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g6-simeonaduplex.jpg" alt=""/>
@@ -166,8 +166,8 @@ get_header(); ?>
                         <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>
                     </div>
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g11-heights.jpg" alt=""/></a>
-                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/"><p class="fb-cont fb-cont-i">Birmingham Heights</br>Fortune, Marikina City</p></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g11-heights.jpg" alt=""/></a>
+                        <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/" target="_blank"><p class="fb-cont fb-cont-i">Birmingham Heights</br>Fortune, Marikina City</p></a>
                     </div>
                 </div>
                 <div class="flex-container mtop-50 flexcont-mobile">
