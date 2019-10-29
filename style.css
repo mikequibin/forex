@@ -1663,6 +1663,8 @@ nav {
     margin-bottom: 1.25rem;
     font-weight: 800;
     list-style: none;
+    height: 59px;
+    padding-top: 10px;
 }
 
 
@@ -6354,9 +6356,9 @@ body {font-family: Verdana, sans-serif; margin:0}
 	margin-top: -37px;
 }
 
-.nav-container #site-navigation .nav-bar .row .module-group{
-	padding-top: 9px;
-}
+/*.nav-container #site-navigation .nav-bar .row .module-group{*/
+	/*padding-top: 9px;*/
+/*}*/
 
 .wpforms-submit {
     background-color: #fc9e20!important;
