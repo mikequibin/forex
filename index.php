@@ -33,7 +33,7 @@ get_header(); ?>
                     <p class="wb-par">
                         <span class="bold">Ms. Joan Eduarte</span> is a successful Real Estate sales person. She is great at utilizing all markerting resources available. While working with other sales person to close a number of properties with the community</p>
                     <p class="wb-par">
-                       Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Estate,</span><span class="bold"> Commercial Lots</span> and world class <span class="bold">Condominium</span>
+                       Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Lot, Estate Lot,</span> and<span class="bold"> Commercial Lot</span> and <span class="bold">Condominium</span>
                     </p>
                 </div>
                 <a href="https://pilipinaspropertyforsale.com/book-trippings/" class="shownewsletterbox" >
