@@ -5585,7 +5585,7 @@ background: url("assets/images/financial-diamond4.jpg") no-repeat center;
 
 @media (max-width: 1000px){
     .mobile-width2{
-        width: 100%!important;
+        width: 100%;
     }}
 
 @media (max-width: 722px){
@@ -5678,6 +5678,42 @@ background: url("assets/images/financial-diamond4.jpg") no-repeat center;
         margin: 30px 0;
     }
 }
+
+@media (max-width: 1000px){
+    .review-mobile2{
+        margin: 0 53%;
+        width: 50%;
+    }
+
+}
+
+@media (max-width: 870px){
+    .review-mobile2{
+      text-align: center;
+    }
+
+}
+
+
+@media (max-width: 800px){
+    .rev-nm-mb{
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width: 600px){
+    .review-mobile2{
+        margin: 0 auto!important;
+        width: 100%;
+    }
+
+}
+
+
+
+
+
 
 
 

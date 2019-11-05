@@ -17,8 +17,8 @@ get_header(); ?>
     <body>
 
     <header class="header">
-        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-bottom: 10%;position: relative; padding-top: 4%; padding-left: 24%;">
-            <!-- <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/main-text.png" alt=""/> -->
+        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-top: 5%; padding-left: 20%; position: absolute;">
+             <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/main-text.png" alt=""/>
         </div>
         <video autoplay muted loop class="fullvideo-container" poster="">
             <!--            <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">-->
@@ -43,7 +43,7 @@ get_header(); ?>
         </div>
     </section>
 
-    ?<section class="remove-gray comfy-life">
+    <section class="remove-gray comfy-life">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="">
                 <div class="flex-container flex-formsec">
@@ -183,36 +183,33 @@ get_header(); ?>
 
 
 
-    ﻿<section class="remove-gray review-nh">-->
+    ﻿<section class="remove-gray review-nh">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
-            <div class="">
                 <div class="flex-container flex-formsec">
                     <div class="row__50 mobile-width2">
                     </div>
 
-                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5">
+                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 review-mobile2">
                         <h2 class="wb-heading mobile-heading text-green mbottom-30"><span class="extra-bold text-black">Our Client's Review</h2>
                         <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                         <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px;">Dexter CO<br>Businessman</h5>
+                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px;">Dexter CO<br>Businessman</h5>
                             <p class="wb-par" style="color: #000!important;">“Purchased lots in Rizal Technopark. It was so nice to work with them. The transaction went smoothly. The after sales services are excellent. Just one message away”</p>
                         </div>
                         <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Marietta Subong, Pokwang<br>Filipino Comedian<br></h5>
+                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Marietta Subong, Pokwang<br>Filipino Comedian<br></h5>
                             <p class="wb-par" style="color: #000!important;">“We tripped to Alta Vista, Antipolo Rizal with my baby. We also used their own car. The team was very accomodating!”</p>
                         </div>
                         <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Kim Domingo<br>Filipino Actress</h5>
+                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Kim Domingo<br>Filipino Actress</h5>
                             <p class="wb-par">“I can't believe I already bought my own house. Glad I found an agent who can offer me a property that suits with my needs and wants.”</p>
                         </div>
                         <div style="color: #000!important;">
-                            <h5 class="checklist nobottom-mobile mleft" style="margin-bottom: 0px; margin-top: 20px;">Client<br>Sales Manager</h5>
+                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Client<br>Sales Manager</h5>
                             <p class="wb-par">“Wonderful customer service. Excellent communication. Ms. Joan worked very hard to help me get this wonderful place to call home. ”</p>
                         </div>
                     </div>
-
                 </div>
-            </div>
         </div>
     </section>
 
