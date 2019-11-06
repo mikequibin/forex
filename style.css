@@ -6143,16 +6143,7 @@ fieldset{
        width: 100%;
     }}
 
-.wpcf7-form input {
-	text-transform: capitalize;
-	background: #fc9e20;
-    border: none;
-/*     border-radius: 20px; */
-    color: #000;
-    font-weight: 700;
-    font-size: 15px;
-/*     width: 30%; */
-}
+
 
 
 
