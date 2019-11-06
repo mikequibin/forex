@@ -6154,19 +6154,7 @@ fieldset{
 /*     width: 30%; */
 }
 
-.flex-container .row__50 .wpcf7-form-control-wrap .wpcf7-validates-as-required{
-	background: #fff;
-/*     border: 2px solid #fc9e20; */
-	height: 35px;
-    border-radius: 0px;
-	margin-top: 5px;
-	width: 260px!important;
-}
 
-@media (max-width: 1280px){
-    .flex-container .row__50 .wpcf7-form-control-wrap .wpcf7-validates-as-required{
-       width: auto!important;
-    }}
 
 .flex-container .row__50 label{
 	 color: #fff;
@@ -6179,11 +6167,6 @@ textarea{
 	height: 150px;
 }
 
-/* @media (max-width: 1280px){
-    textarea{
-       width: auto!important;
-    }}
- */
 
 
 /*Animation*/
