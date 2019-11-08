@@ -616,8 +616,7 @@ textarea {
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 2;
-    height: 60px;
-    padding-top: 10px;
+    height: 40px;
 }
 .navbar-fixed-top.scrolled {
     /*background-color: #23282d;*/
@@ -661,7 +660,7 @@ a:hover, a:active {
     width: 100%;
     z-index: 2;
     position: relative;
-    margin: 0 auto;
+    margin-top: 35px;
 }
 
 .main-navigation ul {

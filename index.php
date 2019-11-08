@@ -17,13 +17,15 @@ get_header(); ?>
     <body>
 
     <header class="header">
-        <div class="maxwidth-1200 center anim-tradeanywhere" style="padding-top: 5%; padding-left: 20%; position: absolute;">
-             <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/main-text.png" alt=""/>
-        </div>
-        <video autoplay muted loop class="fullvideo-container" poster="">
-                        <source src="https://player.vimeo.com/external/333935388.m3u8?s=ad529643216e37d7c63148426e033c6cc3fea094&autoplay=1" type="video/mp4">
+
+
+        <video autoplay="" muted="" loop="" class="fullvideo-container" poster="">
+            <iframe src="https://player.vimeo.com/video/371794066"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
         </video>
-    </header>
+
+          </header>
+
+
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
             <div class="row__60 ptop-20 row-60-mobile">
@@ -97,7 +99,7 @@ get_header(); ?>
                         <p class="fb-cont">The complex strategically located at the Cainta- Pasig corridor at the midpoint of the highly commercial Felix Avenue and near the giant Sta.Lucia Mall.</p>
                     </div>
                     <div class="row row__30 forex-box row-mobile top30-mobile">
-                        <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/birmingham-project.png" alt=""/></a>
+                        <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><img class="fb-image code code--small code--left aos-init aos-animate" data-aos="fade-down" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/birmingham-project2.png" alt=""/></a>
                         <a href="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/birmingham-project/" target="_blank"><h4 class="fb-head no-bottom text-green">Birmingham Project</h4></a>
                         <img class="margin-20" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/gray-line.png" alt=""/>
                         <p class="fb-cont">There has never been a better time to buy a new house and lot.  HDC-Birmingham subdivisions offers a very affordable house and lot for sale and we would be honored to assist you.</p>
