@@ -17,13 +17,10 @@ get_header(); ?>
     <body>
 
     <header class="header">
-
-
         <video autoplay="" muted="" loop="" class="fullvideo-container" poster="">
-            <iframe src="https://player.vimeo.com/video/371794066"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+            <source src="<?php echo get_stylesheet_directory_uri(); ?>/assets/video/megaeast-bannervid" type="video/mp4">
         </video>
-
-          </header>
+    </header>
 
 
     ﻿<section class="remove-gray white-box financial-diamond anim-financial">
@@ -36,6 +33,9 @@ get_header(); ?>
                         <span class="bold">Ms. Joan Eduarte</span> is a successful Real Estate sales person. She is great at utilizing all markerting resources available. While working with other sales person to close a number of properties with the community</p>
                     <p class="wb-par">
                        Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Lot, Estate Lot,</span> and<span class="bold"> Commercial Lot</span> and <span class="bold">Condominium</span>
+                    </p>
+                    <p class="wb-par">
+                        Register through our <span class="extra-bold">MegaEast Residential States</span> to explore more.
                     </p>
                 </div>
                 <a href="https://www.pilipinaspropertyforsale.com/inquire-now/" target="_blank" class="shownewsletterbox" >

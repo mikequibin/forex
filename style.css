@@ -673,7 +673,7 @@ a:hover, a:active {
 .main-navigation li {
     float: left;
     position: relative;
-    margin-top: -9px;
+
 }
 
 .main-navigation a {
@@ -1662,14 +1662,14 @@ nav {
     margin-bottom: 1.25rem;
     font-weight: 800;
     list-style: none;
-    height: 59px;
-    padding-top: 10px;
+    height: 40px;
+    padding-top: 0px;
 }
 
 
 .menu > li:last-child {
-    margin-right: 0;
-    margin-top: -9px;
+    /*margin-right: 0;*/
+    /*margin-top: -9px;*/
 }
 
 @media (max-width: 991px) {
@@ -2169,7 +2169,7 @@ nav.fixed.scrolled {
 .fullvideo-container{
     min-width:100%;
     max-width:40%;
-    margin-top: -13%;
+    /*margin-top: -13%;*/
     margin-bottom: -7px;
 }
 
@@ -4771,7 +4771,10 @@ font-style: italic;
 
 
 .footer-cont{
-    background: url("assets/images/footer-bg.jpg");
+    background: url("assets/images/footerphl.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 @media (max-width: 842px){
@@ -5326,7 +5329,7 @@ font-style: italic;
 }
 
 .change-box{
-    background: url("assets/images/changelife-banner.jpg");
+    background: url("assets/images/change-banner.jpg");
     margin-top: -0px!important;
 }
 
