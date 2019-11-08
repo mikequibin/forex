@@ -660,7 +660,7 @@ a:hover, a:active {
     width: 100%;
     z-index: 2;
     position: relative;
-    margin-top: 35px;
+    margin-top: 40px;
 }
 
 .main-navigation ul {
@@ -6809,4 +6809,8 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .prop-btn:hover{
     color: #15a74b;
+}
+
+.shapely-content.dropcaps-content{
+    padding-bottom: 55px;
 }

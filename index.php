@@ -18,7 +18,7 @@ get_header(); ?>
 
     <header class="header">
         <video autoplay="" muted="" loop="" class="fullvideo-container" poster="">
-            <source src="<?php echo get_stylesheet_directory_uri(); ?>/assets/video/megaeast-bannervid" type="video/mp4">
+            <source src="<?php echo get_stylesheet_directory_uri(); ?>/assets/video/Sequence.mp4" type="video/mp4">
         </video>
     </header>
 
