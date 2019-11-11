@@ -71,7 +71,7 @@ footer{
 }
 
 .header {
-    background: url("assets/images/main-bg.jpg") no-repeat center;
+    background: url("assets/images/ppfs-banner.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5484,7 +5484,8 @@ font-style: italic;
 }
 
 .maxwidth-1200-footer{
-    padding-bottom: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 
@@ -6558,10 +6559,6 @@ body {font-family: Verdana, sans-serif; margin:0}
     background-color: #fbfbfb;
 }
 
-.lrshadows .col-md-8.mb-xs-24{ 
-    padding-left: 0px!important;
-    padding-right: 0px!important;
-}
 
 .lrpane {
     max-width: 1140px;

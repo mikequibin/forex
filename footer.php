@@ -14,31 +14,32 @@
 <footer class="footer-cont">
     <div class="maxwidth-1200 maxwidth-1200-footer">
         <div class="footer-top">
-            <a href="https://www.freefxcourse.com/"><img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ppfs-logo-2.png" alt=""/></a>
+            <a href="https://pilipinaspropertyforsale.com/"><img class="footer-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ppfs-logo-2.png" alt=""/></a>
 
         </div>
 
         <div class="flex-container ptop-20 leftright-4">
             <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
-                <a href="https://pilipinaspropertyforsale/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
-                <a href="https://pilipinaspropertyforsale/about"><h5 class="mbottom-5  footer-sub">About</h5></a>
+                <a href="https://pilipinaspropertyforsale.com/about"><h5 class="mbottom-5  footer-head">ABOUT</h5></a>
             </div>
 
             <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-head">CONTACT US</h5></a>
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-sub">Talk to Us</h5></a>
-                <a class="" href="https://pilipinaspropertyforsale/"><h5 class=" footer-sub mb-mobile">Support Team</h5></a>
+                <a href="https://pilipinaspropertyforsale.com/projects/"><h5 class="mbottom-5  footer-head">PROJECTS</h5></a>
+                <a href="https://www.pilipinaspropertyforsale.com/product-category/lot-for-sale/"><h5 class="mbottom-5  footer-sub">Lot for Sale</h5></a>
+                <a href="https://pilipinaspropertyforsale.com/product-category/house-and-lot/"><h5 class="mbottom-5  footer-sub">House and Lot</h5></a>
+                <a href="https://www.pilipinaspropertyforsale.com/product-category/condominium/"><h5 class="mbottom-5  footer-sub">Condominuim</h5></a>
             </div>
 
             <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-head">PROJECTS</h5></a>
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-sub">Residential</h5></a>
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-sub">House and Lot</h5></a>
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-sub">Condominuims</h5></a>
+                <a href="https://pilipinaspropertyforsale.com/property/shop/"><h5 class="mbottom-5  footer-head">PROPERTY</h5></a>
             </div>
 
-            <div class="row__25 mobile-fullwidth text-center">
-                <a href="https://pilipinaspropertyforsale/"><h5 class="mbottom-5  footer-head">BOOK A TRIPPING NOW!</h5></a>
+            <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
+                <a href="https://pilipinaspropertyforsale.com/events/"><h5 class="mbottom-5  footer-head">WHAT'S NEW</h5></a>
+            </div>
+
+            <div class="row__25 mobile-fullwidth text-center mbotom-mobile-15">
+                <a href="https://pilipinaspropertyforsale.com/inquire-now-2"><h5 class="mbottom-5  footer-head">INQUIRE NOW</h5></a>
             </div>
 
         </div>
