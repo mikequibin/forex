@@ -130,20 +130,20 @@ get_header(); ?>
             <h2 class="pbottom-15 wb-heading text-green text-center">Archives <span class="text-black extra-bold">Gallery</span></h2>
             <p class="wb-par text-center bold">House and Lot Residential Projects</p>
             <div class="flex-container4">
-                <div class="flex-container mtop-50 flexcont-mobile">
-                    <div class="row row__30 gallery-box row-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g1-cincohermanos.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Cinco Hermanos</br>Industrial Valley, Marikina</p>
-                    </div>
-                    <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g2-birminghamsotera.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Sotera</br>Gen. Trias, Cavite</p>
-                    </div>
-                    <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g3-xavierville.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Xavierville</br>Quezon City</p>
-                    </div>
-                </div>
+<!--                <div class="flex-container mtop-50 flexcont-mobile">-->
+<!--                    <div class="row row__30 gallery-box row-mobile">-->
+<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g1-cincohermanos.jpg" alt=""/>-->
+<!--                        <p class="fb-cont fb-cont-i">Birmingham Cinco Hermanos</br>Industrial Valley, Marikina</p>-->
+<!--                    </div>-->
+<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g2-birminghamsotera.jpg" alt=""/>-->
+<!--                        <p class="fb-cont fb-cont-i">Birmingham Sotera</br>Gen. Trias, Cavite</p>-->
+<!--                    </div>-->
+<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g3-xavierville.jpg" alt=""/>-->
+<!--                        <p class="fb-cont fb-cont-i">Birmingham Xavierville</br>Quezon City</p>-->
+<!--                    </div>-->
+<!--                </div>-->
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
                         <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/></a>
@@ -153,31 +153,33 @@ get_header(); ?>
                         <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g5-birminghamcamden.jpg" alt=""/></a>
                         <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-camden/" target="_blank"><p class="fb-cont fb-cont-i">Birmingham Camden</br>Antipolo City, Rizal</p></a>
                     </div>
-                    <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g6-simeonaduplex.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Simeona Duplex</br>Concepcion II, Marikina City</p>
-                    </div>
-                </div>
-                <div class="flex-container mtop-50 flexcont-mobile">
-                    <div class="row row__30 gallery-box row-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g7-birminghanspringfield.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Springfield</br>Cainta, Rizal</p>
-                    </div>
-                    <div class="row row__30 gallery-box row-mobile top30-mobile">
-                        <img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g8-birminghamvillas.jpg" alt=""/>
-                        <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>
-                    </div>
+
                     <div class="row row__30 gallery-box row-mobile top30-mobile">
                         <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g11-heights.jpg" alt=""/></a>
                         <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/" target="_blank"><p class="fb-cont fb-cont-i">Birmingham Heights</br>Fortune, Marikina City</p></a>
                     </div>
                 </div>
+<!--                <div class="flex-container mtop-50 flexcont-mobile">-->
+<!--                    <div class="row row__30 gallery-box row-mobile">-->
+<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g7-birminghanspringfield.jpg" alt=""/>-->
+<!--                        <p class="fb-cont fb-cont-i">Birmingham Springfield</br>Cainta, Rizal</p>-->
+<!--                    </div>-->
+<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g8-birminghamvillas.jpg" alt=""/>-->
+<!--                        <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>-->
+<!--                    </div>-->
+<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g6-simeonaduplex.jpg" alt=""/>-->
+<!--                        <p class="fb-cont fb-cont-i">Birmingham Simeona Duplex</br>Concepcion II, Marikina City</p>-->
+<!--                    </div>-->
+<!--                   -->
+<!--                </div>-->
                 <div class="flex-container mtop-50 flexcont-mobile">
 
                 </div>
             </div>
             <a href="https://www.pilipinaspropertyforsale.com/inquire-now-2/" target="_blank" class="shownewsletterbox" >
-                <h3 class="mtop-50 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
+                <h3 class="mtop-30 darkgreen-btn-3 slide code code--small code--left aos-init aos-animate" data-aos="fade-up">Inquire Now!</h3>
             </a>
         </div>
     </section>

@@ -1674,7 +1674,7 @@ nav {
 
 @media (max-width: 991px) {
     .menu > li:last-child {
-        background-color: #0f1c28;
+        background-color: #222222;
     }
 }
 
@@ -1812,8 +1812,11 @@ nav.fixed.scrolled {
 
 @media all and (max-width: 991px) {
     .navbar-collapse {
-        background-color: #0f1c28;
-        width: 50%;
+        margin-top: -25px;
+        margin-right: -50px;
+        background-color: #222222;
+        width: 30%;
+        float: right;
 
     }
 }
@@ -5298,7 +5301,7 @@ font-style: italic;
 
 .trader-box {
     background-color: #fff;
-    padding-bottom: 90px;
+    padding-bottom: 50px;
 }
 
 @media (max-width: 767px){
