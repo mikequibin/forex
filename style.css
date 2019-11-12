@@ -6755,7 +6755,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 
 .project-title{
     font-size: 25px;
-    margin-bottom: 10px;
+    margin-bottom: 0;
     font-weight: 700;
     color: #15a74b;
     text-align: left;

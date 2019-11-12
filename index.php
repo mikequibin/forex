@@ -236,6 +236,64 @@ get_header(); ?>
 
 
 
+    <header>
+        <div class=""><img class="alignnone size-full wp-image-340" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/projects-bg3.jpg" alt="" width="3288" height="1385"></div>
+    </header>
+    <section class="aboutpage top-30-about">
+        <div>
+            <h2 class="about-title">Pilipinas Property For Sale
+                <span class="extra-bold text-black"> Project Portfolio</span></h2>
+            <img class="about-line" src="https://i.imgur.com/8MpOMTx.png" alt="" width="300" height="2">
+            <h5 class="about-par">Pilipinas Property For Sale is intended to create a clear market position by marketing and selling the properties of Sta. Lucia and Megaeast</h5>
+        </div>
+        <div class="project-start">
+
+            <div class="flex-container project-div">
+                <div class="row__50 pro-height">
+                    <a  href="https://www.pilipinaspropertyforsale.com/product-category/lot-for-sale/" target="_blank">
+                        <img class="project-img" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/2019/10/project-palo.png">
+                    </a>
+                    </div>
+                <div class="row__50 project-des">
+                    <a  href="https://www.pilipinaspropertyforsale.com/product-category/lot-for-sale/" target="_blank">
+                        <h3 class="text-center project-title project-btn">LOT FOR SALE</h3>
+                    </a>
+                    <p class="fb-cont text-black mbottom-15">Best place to put your money. It may be a good investment for building the house of your dreams,
+                        leasing and commercial use.
+                </div>
+            </div>
+
+            <div class="flex-container project-div">
+                <div class="row__50 pro-height">
+                    <a ref="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/" target="_blank">
+                        <img class="project-img" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/2019/10/project-2.png"></div>
+                    </a>
+                    <div class="row__50 project-des">
+                    <a ref="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/" target="_blank">
+                        <h3 class="text-center project-title project-btn">HOUSE AND LOT</h3>
+                     </a>
+                    <p class="fb-cont text-black mbottom-15">Reside in our House &amp; Lots
+                        and Townhouses. You may find them next to those everyday-stuff that you need.
+                </div>
+            </div>
+
+            <div class="flex-container project-div">
+                <div class="row__50 pro-height">
+                    <a href="https://www.pilipinaspropertyforsale.com/product-category/condominium/" target="_blank">
+                        <img class="project-img" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/2019/10/project-3-1.png"></div>
+                    </a>
+                    <div class="row__50 project-des">
+                        <h3 class="text-center project-title project-btn">CONDOMINIUM</h3>
+                    </a>
+                    <p class="fb-cont text-black mbottom-15">It makes a new home for your family and investment for the future. It offers lower down payment yet gives you convenient urban living in an elegant contemporary setting.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
 <?php
 get_footer();
 
