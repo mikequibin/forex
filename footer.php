@@ -46,7 +46,7 @@
     </div>
 
     <div class="copyright-sect">
-        <h5 class="copyright-text text-center">© 2019 WWW.PILIPINASPROPERTYFORSALE.COM | ALL RIGHTS RESERVED | DEVELOPER&lt;MIKE QUIBIN/&gt; </h5>
+        <h5 class="copyright-text text-center">© 2019 WWW.PILIPINASPROPERTYFORSALE.COM | ALL RIGHTS RESERVED </h5>
     </div>
 
 </footer>
