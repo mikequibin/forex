@@ -212,6 +212,10 @@ get_header(); ?>
                         <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Client<br>Sales Manager</h5>
                         <p class="wb-par">“Wonderful customer service. Excellent communication. Ms. Joan worked very hard to help me get this wonderful place to call home. ”</p>
                     </div>
+                    <div style="color: #000!important;padding-top: 10px;">
+                        <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Happy Client, Happy Us</h5>
+                        <p class="wb-par">Our success is measured by results, the most important being how our clients feel about their experience with us. Happy customers and ongoing relationships are what we strive for. </p>
+                    </div>
                 </div>
             </div>
         </div>
