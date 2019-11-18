@@ -6578,10 +6578,7 @@ body {font-family: Verdana, sans-serif; margin:0}
     /*margin-right: 10px;*/
 }
 
-@media (max-width: 1125px){
-    .aboutpage {
-        margin:  0 25px;
-    }}
+
 
 .top-30-about {
     padding-top: 1.87rem;
@@ -6593,6 +6590,11 @@ body {font-family: Verdana, sans-serif; margin:0}
     font-weight: 400;
 }
 
+@media (max-width: 650px){
+    .about-par {
+        font-size: 1rem;
+    }}
+
 .about-title {
     font-size: 28px;
     margin: 0 auto;
@@ -6602,6 +6604,11 @@ body {font-family: Verdana, sans-serif; margin:0}
     color: #15a74b;
     text-transform: uppercase;
 }
+
+    @media (max-width: 650px){
+      .about-title {
+            font-size: 20px;
+        }}
 
 .row__50-mobile {
     width: 50%;
@@ -6633,6 +6640,12 @@ body {font-family: Verdana, sans-serif; margin:0}
 @media (max-width: 375px){
     .quote {
         margin-right: 20px;
+    }}
+
+@media (max-width: 650px){
+    .quote {
+        font-size: 1.5rem!important;
+        margin-top: -4%;
     }}
 
 .about-sub {
