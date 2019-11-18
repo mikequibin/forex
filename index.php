@@ -32,10 +32,10 @@ get_header(); ?>
                     <p class="wb-par">
                         <span class="bold">Ms. Joan Eduarte</span> is a successful Real Estate sales person. She is great at utilizing all markerting resources available. While working with other sales person to close a number of properties with the community</p>
                     <p class="wb-par">
-                       Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Lot, Estate Lot,</span> and<span class="bold"> Commercial Lot</span> and <span class="bold">Condominium</span>
+                        Specializes <span class="bold">House & Lot</span>, <span class="bold">Residential Lot, Estate Lot,</span> and<span class="bold"> Commercial Lot</span> and <span class="bold">Condominium</span>
                     </p>
                     <p class="wb-par">
-                        Register through our <span class="extra-bold">MegaEast Residential States</span> to explore more.
+                        Send an inquiry to us to explore more.
                     </p>
                 </div>
                 <a href="https://www.pilipinaspropertyforsale.com/inquire-now-2/" target="_blank" class="shownewsletterbox" >
@@ -130,20 +130,20 @@ get_header(); ?>
             <h2 class="pbottom-15 wb-heading text-green text-center">Archives <span class="text-black extra-bold">Gallery</span></h2>
             <p class="wb-par text-center bold">House and Lot Residential Projects</p>
             <div class="flex-container4">
-<!--                <div class="flex-container mtop-50 flexcont-mobile">-->
-<!--                    <div class="row row__30 gallery-box row-mobile">-->
-<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g1-cincohermanos.jpg" alt=""/>-->
-<!--                        <p class="fb-cont fb-cont-i">Birmingham Cinco Hermanos</br>Industrial Valley, Marikina</p>-->
-<!--                    </div>-->
-<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
-<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g2-birminghamsotera.jpg" alt=""/>-->
-<!--                        <p class="fb-cont fb-cont-i">Birmingham Sotera</br>Gen. Trias, Cavite</p>-->
-<!--                    </div>-->
-<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
-<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g3-xavierville.jpg" alt=""/>-->
-<!--                        <p class="fb-cont fb-cont-i">Birmingham Xavierville</br>Quezon City</p>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <!--                <div class="flex-container mtop-50 flexcont-mobile">-->
+                <!--                    <div class="row row__30 gallery-box row-mobile">-->
+                <!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g1-cincohermanos.jpg" alt=""/>-->
+                <!--                        <p class="fb-cont fb-cont-i">Birmingham Cinco Hermanos</br>Industrial Valley, Marikina</p>-->
+                <!--                    </div>-->
+                <!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+                <!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g2-birminghamsotera.jpg" alt=""/>-->
+                <!--                        <p class="fb-cont fb-cont-i">Birmingham Sotera</br>Gen. Trias, Cavite</p>-->
+                <!--                    </div>-->
+                <!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+                <!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g3-xavierville.jpg" alt=""/>-->
+                <!--                        <p class="fb-cont fb-cont-i">Birmingham Xavierville</br>Quezon City</p>-->
+                <!--                    </div>-->
+                <!--                </div>-->
                 <div class="flex-container mtop-50 flexcont-mobile">
                     <div class="row row__30 gallery-box row-mobile">
                         <a href="https://www.pilipinaspropertyforsale.com/product/birmingham-alberto/" target="_blank"><img class="margin-5" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/g4-birminghamalberta.jpg" alt=""/></a>
@@ -159,21 +159,21 @@ get_header(); ?>
                         <a class="prop-btn" href="https://www.pilipinaspropertyforsale.com/product/birmingham-sotera/" target="_blank"><p class="fb-cont fb-cont-i">Birmingham Heights</br>Fortune, Marikina City</p></a>
                     </div>
                 </div>
-<!--                <div class="flex-container mtop-50 flexcont-mobile">-->
-<!--                    <div class="row row__30 gallery-box row-mobile">-->
-<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g7-birminghanspringfield.jpg" alt=""/>-->
-<!--                        <p class="fb-cont fb-cont-i">Birmingham Springfield</br>Cainta, Rizal</p>-->
-<!--                    </div>-->
-<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
-<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g8-birminghamvillas.jpg" alt=""/>-->
-<!--                        <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>-->
-<!--                    </div>-->
-<!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
-<!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g6-simeonaduplex.jpg" alt=""/>-->
-<!--                        <p class="fb-cont fb-cont-i">Birmingham Simeona Duplex</br>Concepcion II, Marikina City</p>-->
-<!--                    </div>-->
-<!--                   -->
-<!--                </div>-->
+                <!--                <div class="flex-container mtop-50 flexcont-mobile">-->
+                <!--                    <div class="row row__30 gallery-box row-mobile">-->
+                <!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g7-birminghanspringfield.jpg" alt=""/>-->
+                <!--                        <p class="fb-cont fb-cont-i">Birmingham Springfield</br>Cainta, Rizal</p>-->
+                <!--                    </div>-->
+                <!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+                <!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g8-birminghamvillas.jpg" alt=""/>-->
+                <!--                        <p class="fb-cont fb-cont-i">Birmingham Villas</br>Tagaytay City</p>-->
+                <!--                    </div>-->
+                <!--                    <div class="row row__30 gallery-box row-mobile top30-mobile">-->
+                <!--                        <img class="margin-5" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/g6-simeonaduplex.jpg" alt=""/>-->
+                <!--                        <p class="fb-cont fb-cont-i">Birmingham Simeona Duplex</br>Concepcion II, Marikina City</p>-->
+                <!--                    </div>-->
+                <!--                   -->
+                <!--                </div>-->
                 <div class="flex-container mtop-50 flexcont-mobile">
 
                 </div>
@@ -189,39 +189,33 @@ get_header(); ?>
 
     ﻿<section class="remove-gray review-nh">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
-                <div class="flex-container flex-formsec">
-                    <div class="row__50 mobile-width2">
-                    </div>
+            <div class="flex-container flex-formsec">
+                <div class="row__50 mobile-width2">
+                </div>
 
-                    <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 review-mobile2">
-                        <h2 class="wb-heading mobile-heading text-green mbottom-30"><span class="extra-bold text-black">Our Client's Review</h2>
-                        <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
-                        <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px;">Dexter CO<br>Businessman</h5>
-                            <p class="wb-par" style="color: #000!important;">“Purchased lots in Rizal Technopark. It was so nice to work with them. The transaction went smoothly. The after sales services are excellent. Just one message away”</p>
-                        </div>
-                        <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Marietta Subong, Pokwang<br>Filipino Comedian<br></h5>
-                            <p class="wb-par" style="color: #000!important;">“We tripped to Alta Vista, Antipolo Rizal with my baby. We also used their own car. The team was very accomodating!”</p>
-                        </div>
-                        <div class="comf-border">
-                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Kim Domingo<br>Filipino Actress</h5>
-                            <p class="wb-par">“I can't believe I already bought my own house. Glad I found an agent who can offer me a property that suits with my needs and wants.”</p>
-                        </div>
-                        <div style="color: #000!important;">
-                            <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Client<br>Sales Manager</h5>
-                            <p class="wb-par">“Wonderful customer service. Excellent communication. Ms. Joan worked very hard to help me get this wonderful place to call home. ”</p>
-                        </div>
+                <div class="row__50 mleft-100 mtop noleft-margin mobile-width2 leftno-mobile top-mobile5 review-mobile2">
+                    <h2 class="wb-heading mobile-heading text-green mbottom-30"><span class="extra-bold text-black">Our Client's Review</h2>
+                    <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
+                    <div class="comf-border">
+                        <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px;">Dexter CO<br>Businessman</h5>
+                        <p class="wb-par" style="color: #000!important;">“Purchased lots in Rizal Technopark. It was so nice to work with them. The transaction went smoothly. The after sales services are excellent. Just one message away”</p>
+                    </div>
+                    <div class="comf-border">
+                        <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Marietta Subong, Pokwang<br>Filipino Comedian<br></h5>
+                        <p class="wb-par" style="color: #000!important;">“We tripped to Alta Vista, Antipolo Rizal with my baby. We also used their own car. The team was very accomodating!”</p>
+                    </div>
+                    <div class="comf-border">
+                        <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Kim Domingo<br>Filipino Actress</h5>
+                        <p class="wb-par">“I can't believe I already bought my own house. Glad I found an agent who can offer me a property that suits with my needs and wants.”</p>
+                    </div>
+                    <div style="color: #000!important;">
+                        <h5 class="checklist nobottom-mobile mleft rev-nm-mb" style="margin-bottom: 0px; margin-top: 20px;">Client<br>Sales Manager</h5>
+                        <p class="wb-par">“Wonderful customer service. Excellent communication. Ms. Joan worked very hard to help me get this wonderful place to call home. ”</p>
                     </div>
                 </div>
+            </div>
         </div>
     </section>
-
-
-
-
-
-
 
     </div>
 
@@ -231,65 +225,6 @@ get_header(); ?>
     </div>
     </div>
     </body>
-
-
-
-
-
-    <header>
-        <div class=""><img class="alignnone size-full wp-image-340" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/projects-bg3.jpg" alt="" width="3288" height="1385"></div>
-    </header>
-    <section class="aboutpage top-30-about">
-        <div>
-            <h2 class="about-title">Pilipinas Property For Sale
-                <span class="extra-bold text-black"> Project Portfolio</span></h2>
-            <img class="about-line" src="https://i.imgur.com/8MpOMTx.png" alt="" width="300" height="2">
-            <h5 class="about-par">Pilipinas Property For Sale is intended to create a clear market position by marketing and selling the properties of Sta. Lucia and Megaeast</h5>
-        </div>
-        <div class="project-start">
-
-            <div class="flex-container project-div">
-                <div class="row__50 pro-height">
-                    <a  href="https://www.pilipinaspropertyforsale.com/product-category/lot-for-sale/" target="_blank">
-                        <img class="project-img" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/2019/10/project-palo.png">
-                    </a>
-                    </div>
-                <div class="row__50 project-des">
-                    <a  href="https://www.pilipinaspropertyforsale.com/product-category/lot-for-sale/" target="_blank">
-                        <h3 class="text-center project-title project-btn">LOT FOR SALE</h3>
-                    </a>
-                    <p class="fb-cont text-black mbottom-15">Best place to put your money. It may be a good investment for building the house of your dreams,
-                        leasing and commercial use.
-                </div>
-            </div>
-
-            <div class="flex-container project-div">
-                <div class="row__50 pro-height">
-                    <a ref="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/" target="_blank">
-                        <img class="project-img" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/2019/10/project-2.png"></div>
-                    </a>
-                    <div class="row__50 project-des">
-                    <a ref="https://www.pilipinaspropertyforsale.com/product-category/house-and-lot/" target="_blank">
-                        <h3 class="text-center project-title project-btn">HOUSE AND LOT</h3>
-                     </a>
-                    <p class="fb-cont text-black mbottom-15">Reside in our House &amp; Lots
-                        and Townhouses. You may find them next to those everyday-stuff that you need.
-                </div>
-            </div>
-
-            <div class="flex-container project-div">
-                <div class="row__50 pro-height">
-                    <a href="https://www.pilipinaspropertyforsale.com/product-category/condominium/" target="_blank">
-                        <img class="project-img" src="https://www.pilipinaspropertyforsale.com/wp-content/uploads/2019/10/project-3-1.png"></div>
-                    </a>
-                    <div class="row__50 project-des">
-                        <h3 class="text-center project-title project-btn">CONDOMINIUM</h3>
-                    </a>
-                    <p class="fb-cont text-black mbottom-15">It makes a new home for your family and investment for the future. It offers lower down payment yet gives you convenient urban living in an elegant contemporary setting.</p>
-                </div>
-            </div>
-        </div>
-    </section>
 
 
 

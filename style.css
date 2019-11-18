@@ -71,11 +71,12 @@ footer{
 }
 
 .header {
-    background: url("assets/images/ppfs-banner.jpg") no-repeat center;
+    background: url("assets/images/ppfs1.jpg") no-repeat center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: 2; }
+    z-index: 2;
+    }
 
 @media (max-width: 1150px) {
     .header__logo {
@@ -5214,7 +5215,7 @@ font-style: italic;
     justify-content: space-between;
     cursor: pointer; }
 
-@media (max-width: 1010pxa){
+@media (max-width: 1010px){
     .flex-mobile {
         margin: 0 50px!important;
     }}
@@ -6582,31 +6583,6 @@ body {font-family: Verdana, sans-serif; margin:0}
         margin:  0 25px;
     }}
 
-@media (max-width: 780px){
-    .aboutpage {
-        margin-left: 25px;
-        /*width: 90%;*/
-    }}
-
-@media (max-width: 750px){
-    .aboutpage {
-        margin-left: 25px;
-        /*width: 80%;*/
-    }}
-
-/*@media (max-width: 680px){*/
-    /*.aboutpage {*/
-        /*width: 70%;*/
-    /*}}*/
-
-@media (max-width: 590px){
-    .aboutpage {
-        /*width: 95%;*/
-        /*text-align: center;*/
-    }}
-
-
-
 .top-30-about {
     padding-top: 1.87rem;
 }
@@ -6855,3 +6831,8 @@ body {font-family: Verdana, sans-serif; margin:0}
 .shapely-content.dropcaps-content{
     padding-bottom: 55px;
 }
+
+
+
+/*Paddy Palin*/
+
