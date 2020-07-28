@@ -23,10 +23,10 @@ get_header(); ?>
     </header>
 
 
-    ﻿<section class="remove-gray white-box financial-diamond anim-financial">
+    <section class="remove-gray white-box financial-diamond anim-financial">
         <div class="flex-container maxwidth-1200">
             <div class="row__60 ptop-20 row-60-mobile">
-                ﻿<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-green">Your Financial</span><br> Investments<br> Begins Here</h2>
+                ?<h2 class="wb-heading mobile-heading mbottom-30"><span class="extra-bold text-green">Your Financial</span><br> Investments<br> Begins Here</h2>
                 <p><img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/green-separator.png" alt=""></p>
                 <div class="width-90 mobile-first-section">
                     <p class="wb-par">
@@ -86,7 +86,7 @@ get_header(); ?>
         </div>
     </section>
 
-    ﻿<section class="remove-gray trader-box">
+    ?<section class="remove-gray trader-box">
         <div class="maxwidth-1200 ptop-90 pbottom-40 padding-mobile">
             <h2 class="pbottom-15 wb-heading text-green text-center">Featured <span class="text-black extra-bold">Projects</span></h2>
             <p class="wb-par text-center bold">Condominium, House & Lot and Properties</p>
@@ -187,7 +187,7 @@ get_header(); ?>
 
 
 
-    ﻿<section class="remove-gray review-nh">
+    ?<section class="remove-gray review-nh">
         <div class="maxwidth-1200 ptop-90 pbottom-90">
             <div class="flex-container flex-formsec">
                 <div class="row__50 mobile-width2">
@@ -229,6 +229,15 @@ get_header(); ?>
     </div>
     </div>
     </body>
+
+
+
+
+
+
+
+
+
 
 
 
